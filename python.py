@@ -30,6 +30,7 @@ df[['StyleCode', 'Core', 'SizeCode']] = df['SKU'].apply(split_sku)
 df = df[["SKU", "Category", "Style", "Size", "Amount", "Core"]]
 
 # Tao bang moi them vao thuoc tinh priceLevel
+# Cac gia tri de chia values dua tren ham decribe()
 
 values = [0, 457, 599, 790, 1139,2598]
 label = ["low", "Medium", "High", "Premium", "Luxury"]
