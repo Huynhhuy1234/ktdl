@@ -1,73 +1,53 @@
-import pandas as pd
 import os
+import pandas as pd
 
-# ============================
+# =========================
 # 1. Đọc dataset gốc
-# ============================
+# =========================
 df = pd.read_csv("new_data_to_analysis.csv")
-
-# === BƯỚC 0: LOẠI BỎ TRÙNG SKU TRÊN TOÀN DATASET ===
 df = df.drop_duplicates(subset="SKU", keep="first")
-
-# Tạo thư mục output nếu chưa có
-os.makedirs("outputs", exist_ok=True)
 
 # Lấy 100 SKU đầu tiên (hoặc ít hơn nếu dataset nhỏ)
 top_100 = df.head(100)
 
-# ============================
-# 2. HÀM LỌC SẢN PHẨM GỢI Ý
-# ============================
+# Tạo thư mục output nếu chưa có
+os.makedirs("outputs", exist_ok=True)
 
-def get_recommendations(row, df_full):
+# =========================
+# 2. Hàm gợi ý sản phẩm
+# =========================
+def get_recommendations(row, df_full, diff_limit=10):
     category = row["Category"]
     size = row["Size"]
     core = row["Core"]
-    price_level = row["price_level"]
     style = row["Style"]
     amount = row["Amount"]
 
-    # --- Lọc sản phẩm có cùng Category, Size, Core, Pricelevel ---
+    # --- Lọc sản phẩm cùng Category, Size, Core, khác Style ---
     filtered = df_full[
         (df_full["Category"] == category) &
         (df_full["Size"] == size) &
         (df_full["Core"] == core) &
-        (df_full["price_level"] == price_level) &
-        (df_full["Style"] != style)              # khác style
-    ]
+        (df_full["Style"] != style)
+    ].drop_duplicates(subset="SKU", keep="first")
 
-    # Loại trùng SKU trong bộ lọc
-    filtered = filtered.drop_duplicates(subset="SKU", keep="first")
+    # --- Tính chênh lệch giá tuyệt đối ---
+    filtered["amount_diff"] = abs(filtered["Amount"] - amount)
 
-    # =============================
-    # ƯU TIÊN 1: Lấy đúng giá
-    # =============================
-    same_price = filtered[filtered["Amount"] == amount]
+    # --- Lọc theo diff_limit ---
+    filtered = filtered[filtered["amount_diff"] <= diff_limit]
 
-    # Nếu đủ 5 thì trả luôn
-    if len(same_price) >= 5:
-        return same_price.head(5)
+    # --- Sắp xếp theo amount_diff tăng dần ---
+    filtered = filtered.sort_values(by="amount_diff", ascending=True)
 
-    # =============================
-    # ƯU TIÊN 2: Lấy thêm +-10
-    # =============================
-    around_price = filtered[
-        (filtered["Amount"] >= amount - 10) &
-        (filtered["Amount"] <= amount + 10)
-    ]
+    # Lấy tối đa 5 sản phẩm
+    return filtered.head(5)
 
-    # Gộp hai tập
-    merged = pd.concat([same_price, around_price]).drop_duplicates(subset="SKU")
-
-    return merged.head(5)
-
-
-# ============================
-# 3. TẠO 100 FILE OUTPUT
-# ============================
-
+# =========================
+# 3. Tạo 100 file output
+# =========================
 for idx, (_, row) in enumerate(top_100.iterrows(), start=1):
-    recs = get_recommendations(row, df)
+    recs = get_recommendations(row, df, diff_limit=10)
 
     file_path = f"outputs/output_{idx}.txt"
 
@@ -81,12 +61,11 @@ for idx, (_, row) in enumerate(top_100.iterrows(), start=1):
         f.write(f"Amount: {row['Amount']}\n\n")
 
         f.write("=== 5 GỢI Ý SẢN PHẨM ===\n")
-
         if len(recs) == 0:
             f.write("Không tìm thấy gợi ý phù hợp.\n")
         else:
             for _, r in recs.iterrows():
-                f.write(f"- {r['SKU']} | {r['Style']} | {r['Amount']} VND\n")
+                f.write(f"- {r['SKU']} | {r['Style']} | {r['Amount']} VND | diff={r['amount_diff']}\n")
 
     print("Created:", file_path)
 

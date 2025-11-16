@@ -1,65 +1,121 @@
+# apriori_recommend_fixed.py
+import os
 import pandas as pd
 from mlxtend.frequent_patterns import apriori, association_rules
 
-# === 1. Đọc dữ liệu ===
-df = pd.read_csv("new_data_to_analysis.csv")
+# =========================
+# 1. Sinh rules Apriori
+# =========================
+def generate_apriori_rules(csv_path, min_support=0.1, min_lift=1):
+    df = pd.read_csv(csv_path)
+    df = df.drop_duplicates(subset="SKU", keep="first")
 
-# === 2. Các cột dùng cho Apriori ===
-cols = ["Category", "Style", "Size", "Core", "price_level"]
-df_hot = pd.get_dummies(df[cols])
+    cols = ["Category", "Style", "Size", "Core", "price_level"]
+    df_hot = pd.get_dummies(df[cols])
+    
+    frequent_itemsets = apriori(df_hot, min_support=min_support, use_colnames=True)
+    rules = association_rules(frequent_itemsets, metric="lift", min_threshold=min_lift)
+    rules = rules.sort_values(by="lift", ascending=False)
+    return df, rules
 
-# === 3. Sinh tập phổ biến & luật kết hợp ===
-frequent_itemsets = apriori(df_hot, min_support=0.1, use_colnames=True)
-rules = association_rules(frequent_itemsets, metric="lift", min_threshold=1)
-rules = rules.sort_values(by="lift", ascending=False)
 
-print("=== LUẬT KẾT HỢP (tóm tắt) ===")
-print(rules[["antecedents", "consequents", "support", "confidence", "lift"]].head())
-
-# === 4. Hàm gợi ý theo SKU (ưu tiên cùng size) ===
-def recommend_by_sku(sku, df, delta=10, top_n=5):
-    """Gợi ý sản phẩm tương tự theo SKU, ưu tiên cùng Size."""
+# =========================
+# 2. Recommend for a SKU
+# =========================
+def recommend_by_sku(sku, df, rules=None, top_n=5, price_tol=10.0):
     product = df[df["SKU"] == sku]
     if product.empty:
-        print("⚠️ SKU không tồn tại.")
+        print(f"SKU {sku} không tồn tại.")
         return pd.DataFrame()
     
-    core = product["Core"].iloc[0]
-    price_level = product["price_level"].iloc[0]
-    size = product["Size"].iloc[0]
-    amount = product["Amount"].iloc[0]
-    category = product["Category"].iloc[0]
+    product = product.iloc[0]
 
-    print(amount, core, category)
+    category = product["Category"]
+    core = product["Core"]
+    size = product["Size"]
+    price_level = product["price_level"]
+    amount = product["Amount"]
 
-    # --- B1: Gợi ý cùng Core, price_level, cùng Size ---
-    mask_same_size = (
-        (df["Core"] == core) &
-        (df["price_level"] == price_level) &
+    candidates = df[
+        (df["SKU"] != sku) &
         (df["Size"] == size) &
-        (abs(df["Amount"] - amount) <= delta) &
-        (df["SKU"] != sku)
+        (df['Core'] == core) &
+        (df['Category'] == category)
+        ].copy()
+
+    candidates["similarity_score"] = (
+        (candidates["Category"] == category).astype(int) +
+        (candidates["Core"] == core).astype(int) +
+        (candidates["Size"] == size).astype(int) +
+        (candidates["price_level"] == price_level).astype(int)
     )
-    recs_same_size = df[mask_same_size]
 
-    # --- B2: Nếu chưa đủ, thêm sản phẩm cùng Core, price_level nhưng khác Size ---
-    mask_diff_size = (
-        (df["Core"] == core) &
-        (df["price_level"] == price_level) &
-        (df["Size"] != size) &
-        (abs(df["Amount"] - amount) <= delta) &
-        (df["SKU"] != sku)
+    candidates = candidates[candidates["similarity_score"] >= 2]
+    
+    # --- TÍNH CHÊNH LỆCH GIÁ ---
+    candidates["amount_diff"] = abs(candidates["Amount"] - amount)
+    
+    # --- LỌC CHÊNH LỆCH GIÁ THEO THAM SỐ ---
+    candidates = candidates[candidates["amount_diff"] <= price_tol]
+    
+    candidates = candidates.drop_duplicates(subset="SKU")
+
+    candidates = candidates.sort_values(
+        by=["similarity_score", "amount_diff"],
+        ascending=[False, True]
     )
-    recs_diff_size = df[mask_diff_size]
 
-    # --- B3: Gộp kết quả, ưu tiên cùng size ---
-    recs_same_size = recs_same_size.sort_values(by="Amount")
-    recs_diff_size = recs_diff_size.sort_values(by="Amount")
-    recs = pd.concat([recs_same_size, recs_diff_size])
-    return recs.head(top_n)[["SKU", "Category", "Style", "Size", "Amount"]]
+    return candidates.head(top_n)[
+        ["SKU","Category","Core","Size","Amount","similarity_score","amount_diff"]
+    ]
 
-# === 5. Ví dụ test ===
-sku_input = "JNE2270-KR-487-A-M"
-print(f"\n=== GỢI Ý CHO SẢN PHẨM {sku_input} ===")
-recommendations = recommend_by_sku(sku_input, df)
-print(recommendations)
+
+
+# =========================
+# 3. Ghi file output test
+# =========================
+def write_output(file_path, sku, product_info, recommendations):
+    """Ghi file txt"""
+    with open(file_path, "w", encoding="utf-8") as f:
+        f.write(f"=== GỢI Ý SẢN PHẨM CHO SKU: {sku} ===\n\n")
+        f.write(">>> THÔNG TIN SẢN PHẨM GỐC:\n")
+        f.write(str(product_info) + "\n\n")
+
+        f.write(">>> TOP GỢI Ý (Apriori + Similarity):\n")
+        if recommendations.empty:
+            f.write("KHÔNG CÓ GỢI Ý\n")
+            return
+
+        for idx, row in recommendations.iterrows():
+            f.write(
+                f"- {row['SKU']} | core={row['Core']} | size={row['Size']} "
+                f"| amount={row['Amount']} | score={row['similarity_score']} "
+                f"| diff={row['amount_diff']}\n"
+            )
+
+
+# =========================
+# 4. MAIN — chạy test 100 SKU
+# =========================
+if __name__ == "__main__":
+    csv_path = "new_data_to_analysis.csv"
+
+    print("🔍 Đang chạy Apriori attribute-based…")
+    df, rules = generate_apriori_rules(csv_path)
+
+    print("➡ Lấy 100 SKU đầu tiên trong dataset để test…")
+    sku_list = df["SKU"].unique()[:100]
+
+    os.makedirs("output_apriori", exist_ok=True)
+
+    for idx, sku in enumerate(sku_list, start=1):
+        product_info = df[df["SKU"] == sku].iloc[0]
+
+        recs = recommend_by_sku(sku, df, rules, top_n=5)
+
+        output_path = f"output_apriori/output_{idx}.txt"
+        write_output(output_path, sku, product_info, recs)
+
+        print(f"✔ File {output_path} đã tạo xong cho SKU {sku}")
+
+    print("\n🎉 HOÀN TẤT! ĐÃ TẠO 100 FILE TRONG THƯ MỤC output_apriori/")
