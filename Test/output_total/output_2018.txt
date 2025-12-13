@@ -1,0 +1,12 @@
+=== PRODUCT #2018 (SET395-KR-NP-XS) ===
+Category: Set
+Size: XS
+Core: KR-NP
+Style: SET395
+Amount: 1133.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET360-KR-NP-XS | SET360 | 1126.0 | diff=7.0
+- SET358-KR-NP-XS | SET358 | 1126.0 | diff=7.0
+- SET361-KR-NP-XS | SET361 | 1126.0 | diff=7.0
+- SET364-KR-NP-XS | SET364 | 1126.0 | diff=7.0

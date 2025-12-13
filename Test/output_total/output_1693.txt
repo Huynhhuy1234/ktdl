@@ -1,0 +1,9 @@
+=== PRODUCT #1693 (J0231-SKD-M) ===
+Category: Set
+Size: M
+Core: SKD
+Style: J0231
+Amount: 1281.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0225-SKD-M | J0225 | 1284.0 | diff=3.0

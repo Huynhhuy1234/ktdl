@@ -1,0 +1,9 @@
+=== PRODUCT #4025 (SET277-KR-NP-L) ===
+Category: Set
+Size: L
+Core: KR-NP
+Style: SET277
+Amount: 1338.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET363-KR-NP-L | SET363 | 1338.0 | diff=0.0

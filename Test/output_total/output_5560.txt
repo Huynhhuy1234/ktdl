@@ -1,0 +1,11 @@
+=== PRODUCT #5560 (JNE3750-KR-XL) ===
+Category: kurta
+Size: XL
+Core: KR
+Style: JNE3750
+Amount: 544.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- MEN5023-KR-XL | MEN5023 | 549.0 | diff=5.0
+- MEN5017-KR-XL | MEN5017 | 549.0 | diff=5.0
+- J0097-KR-XL | J0097 | 534.0 | diff=10.0

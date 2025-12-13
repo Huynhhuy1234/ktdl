@@ -1,0 +1,13 @@
+=== PRODUCT #658 (JNE3709-DR-M) ===
+Category: Western Dress
+Size: M
+Core: DR
+Style: JNE3709
+Amount: 833.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3881-DR-M | JNE3881 | 825.0 | diff=8.0
+- J0402-DR-M | J0402 | 825.0 | diff=8.0
+- J0416-DR-M | J0416 | 825.0 | diff=8.0
+- J0333-DR-M | J0333 | 825.0 | diff=8.0
+- J0194-DR-M | J0194 | 824.0 | diff=9.0

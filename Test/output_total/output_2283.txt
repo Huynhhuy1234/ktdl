@@ -1,0 +1,9 @@
+=== PRODUCT #2283 (JNE3686-TU-XL) ===
+Category: Top
+Size: XL
+Core: TU
+Style: JNE3686
+Amount: 433.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3689-TU-XL | JNE3689 | 434.0 | diff=1.0

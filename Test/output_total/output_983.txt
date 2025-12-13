@@ -1,0 +1,9 @@
+=== PRODUCT #983 (J0088-TP-XL) ===
+Category: Top
+Size: XL
+Core: TP
+Style: J0088
+Amount: 399.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0181-TP-XL | J0181 | 399.0 | diff=0.0

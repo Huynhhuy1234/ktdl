@@ -1,0 +1,10 @@
+=== PRODUCT #5152 (J0212-DR-S) ===
+Category: Ethnic Dress
+Size: S
+Core: DR
+Style: J0212
+Amount: 791.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0210-DR-S | J0210 | 783.0 | diff=8.0
+- J0185-DR-S | J0185 | 799.0 | diff=8.0

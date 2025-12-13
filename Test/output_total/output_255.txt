@@ -1,0 +1,9 @@
+=== PRODUCT #255 (J0415-DR-L) ===
+Category: Western Dress
+Size: L
+Core: DR
+Style: J0415
+Amount: 899.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0431-DR-L | J0431 | 899.0 | diff=0.0

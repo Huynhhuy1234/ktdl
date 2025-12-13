@@ -1,0 +1,13 @@
+=== PRODUCT #1614 (J0355-KR-S) ===
+Category: kurta
+Size: S
+Core: KR
+Style: J0355
+Amount: 597.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0373-KR-S | J0373 | 599.0 | diff=2.0
+- JNE3311-KR-S | JNE3311 | 599.0 | diff=2.0
+- JNE3902-KR-S | JNE3902 | 599.0 | diff=2.0
+- JNE3875-KR-S | JNE3875 | 599.0 | diff=2.0
+- J0083-KR-S | J0083 | 591.0 | diff=6.0

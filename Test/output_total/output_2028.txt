@@ -1,0 +1,10 @@
+=== PRODUCT #2028 (SET158-KR-PP-L) ===
+Category: Set
+Size: L
+Core: KR-PP
+Style: SET158
+Amount: 791.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET110-KR-PP-L | SET110 | 788.0 | diff=3.0
+- SET236-KR-PP-L | SET236 | 788.0 | diff=3.0

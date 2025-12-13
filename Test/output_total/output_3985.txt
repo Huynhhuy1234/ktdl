@@ -1,0 +1,11 @@
+=== PRODUCT #3985 (J0398-DR-XXL) ===
+Category: Western Dress
+Size: XXL
+Core: DR
+Style: J0398
+Amount: 885.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0401-DR-XXL | J0401 | 885.0 | diff=0.0
+- J0207-DR-XXL | J0207 | 885.0 | diff=0.0
+- J0414-DR-XXL | J0414 | 885.0 | diff=0.0

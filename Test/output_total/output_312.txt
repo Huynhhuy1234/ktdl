@@ -1,0 +1,10 @@
+=== PRODUCT #312 (J0342-TP-M) ===
+Category: Top
+Size: M
+Core: TP
+Style: J0342
+Amount: 540.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0117-TP-M | J0117 | 545.0 | diff=5.0
+- JNE3665-TP-M | JNE3665 | 545.0 | diff=5.0

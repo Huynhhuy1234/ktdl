@@ -1,0 +1,9 @@
+=== PRODUCT #5692 (JNE3904-DR-M) ===
+Category: Western Dress
+Size: M
+Core: DR
+Style: JNE3904
+Amount: 599.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0159-DR-M | J0159 | 599.0 | diff=0.0

@@ -1,0 +1,10 @@
+=== PRODUCT #492 (NW009-ST-CP-XXXL) ===
+Category: Set
+Size: 3XL
+Core: ST-CP
+Style: NW009
+Amount: 586.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- NW033-ST-CP-XXXL | NW033 | 582.0 | diff=4.0
+- NW008-ST-CP-XXXL | NW008 | 582.0 | diff=4.0

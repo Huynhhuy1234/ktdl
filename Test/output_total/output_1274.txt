@@ -1,0 +1,10 @@
+=== PRODUCT #1274 (SET405-KR-NP-S) ===
+Category: Set
+Size: S
+Core: KR-NP
+Style: SET405
+Amount: 725.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET144-KR-NP-S | SET144 | 729.0 | diff=4.0
+- SET145-KR-NP-S | SET145 | 715.0 | diff=10.0

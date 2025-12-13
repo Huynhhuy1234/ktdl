@@ -1,0 +1,13 @@
+=== PRODUCT #928 (J0203-TP-M) ===
+Category: Top
+Size: M
+Core: TP
+Style: J0203
+Amount: 568.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0340-TP-M | J0340 | 563.0 | diff=5.0
+- J0090-TP-M | J0090 | 563.0 | diff=5.0
+- J0113-TP-M | J0113 | 574.0 | diff=6.0
+- J0119-TP-M | J0119 | 574.0 | diff=6.0
+- J0297-TP-M | J0297 | 574.0 | diff=6.0

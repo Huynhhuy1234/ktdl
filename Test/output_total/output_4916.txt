@@ -1,0 +1,12 @@
+=== PRODUCT #4916 (SET245-KR-NP-L) ===
+Category: Set
+Size: L
+Core: KR-NP
+Style: SET245
+Amount: 849.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET058-KR-NP-L | SET058 | 847.0 | diff=2.0
+- SET413-KR-NP-L | SET413 | 852.0 | diff=3.0
+- SET267-KR-NP-L | SET267 | 852.0 | diff=3.0
+- SET320-KR-NP-L | SET320 | 856.0 | diff=7.0

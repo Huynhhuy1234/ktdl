@@ -1,0 +1,13 @@
+=== PRODUCT #402 (JNE3562-KR-XL) ===
+Category: kurta
+Size: XL
+Core: KR
+Style: JNE3562
+Amount: 476.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- MEN5019-KR-XL | MEN5019 | 476.0 | diff=0.0
+- JNE3563-KR-XL | JNE3563 | 476.0 | diff=0.0
+- MEN5007-KR-XL | MEN5007 | 475.0 | diff=1.0
+- MEN5027-KR-XL | MEN5027 | 475.0 | diff=1.0
+- MEN5024-KR-XL | MEN5024 | 475.0 | diff=1.0

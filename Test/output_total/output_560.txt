@@ -1,0 +1,12 @@
+=== PRODUCT #560 (J0333-DR-XS) ===
+Category: Western Dress
+Size: XS
+Core: DR
+Style: J0333
+Amount: 825.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0402-DR-XS | J0402 | 825.0 | diff=0.0
+- J0416-DR-XS | J0416 | 825.0 | diff=0.0
+- JNE3881-DR-XS | JNE3881 | 825.0 | diff=0.0
+- JNE3709-DR-XS | JNE3709 | 833.0 | diff=8.0

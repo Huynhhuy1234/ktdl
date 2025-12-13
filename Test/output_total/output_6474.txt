@@ -1,0 +1,13 @@
+=== PRODUCT #6474 (J0194-DR-M) ===
+Category: Western Dress
+Size: M
+Core: DR
+Style: J0194
+Amount: 824.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3881-DR-M | JNE3881 | 825.0 | diff=1.0
+- J0402-DR-M | J0402 | 825.0 | diff=1.0
+- J0416-DR-M | J0416 | 825.0 | diff=1.0
+- J0333-DR-M | J0333 | 825.0 | diff=1.0
+- JNE3709-DR-M | JNE3709 | 833.0 | diff=9.0

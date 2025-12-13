@@ -1,0 +1,12 @@
+=== PRODUCT #3837 (J0023-TP-S) ===
+Category: Top
+Size: S
+Core: TP
+Style: J0023
+Amount: 399.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3662-TP-S | JNE3662 | 399.0 | diff=0.0
+- J0181-TP-S | J0181 | 399.0 | diff=0.0
+- J0088-TP-S | J0088 | 399.0 | diff=0.0
+- J0294-TP-S | J0294 | 396.0 | diff=3.0

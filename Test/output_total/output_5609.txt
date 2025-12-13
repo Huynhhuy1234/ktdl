@@ -1,0 +1,9 @@
+=== PRODUCT #5609 (J0105-KR-S) ===
+Category: Western Dress
+Size: S
+Core: KR
+Style: J0105
+Amount: 999.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0106-KR-S | J0106 | 999.0 | diff=0.0

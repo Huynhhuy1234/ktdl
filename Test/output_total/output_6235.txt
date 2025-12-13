@@ -1,0 +1,9 @@
+=== PRODUCT #6235 (J0239-SKD-L) ===
+Category: Set
+Size: L
+Core: SKD
+Style: J0239
+Amount: 1281.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0225-SKD-L | J0225 | 1284.0 | diff=3.0

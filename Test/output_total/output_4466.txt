@@ -1,0 +1,10 @@
+=== PRODUCT #4466 (JNE3712-TP-N-XXL) ===
+Category: Top
+Size: XXL
+Core: TP-N
+Style: JNE3712
+Amount: 499.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3668-TP-N-XXL | JNE3668 | 499.0 | diff=0.0
+- JNE3659-TP-N-XXL | JNE3659 | 493.0 | diff=6.0

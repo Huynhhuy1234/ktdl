@@ -1,0 +1,13 @@
+=== PRODUCT #5357 (JNE3630-KR-S) ===
+Category: kurta
+Size: S
+Core: KR
+Style: JNE3630
+Amount: 405.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3718-KR-S | JNE3718 | 406.0 | diff=1.0
+- JNE3568-KR-S | JNE3568 | 399.0 | diff=6.0
+- JNE3567-KR-S | JNE3567 | 399.0 | diff=6.0
+- JNE3405-KR-S | JNE3405 | 399.0 | diff=6.0
+- J0033-KR-S | J0033 | 399.0 | diff=6.0

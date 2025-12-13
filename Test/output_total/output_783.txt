@@ -1,0 +1,12 @@
+=== PRODUCT #783 (SET348-KR-NP-XXL) ===
+Category: Set
+Size: XXL
+Core: KR-NP
+Style: SET348
+Amount: 968.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET344-KR-NP-XXL | SET344 | 968.0 | diff=0.0
+- SET393-KR-NP-XXL | SET393 | 969.0 | diff=1.0
+- SET300-KR-NP-XXL | SET300 | 967.0 | diff=1.0
+- SET338-KR-NP-XXL | SET338 | 969.0 | diff=1.0

@@ -1,0 +1,9 @@
+=== PRODUCT #3069 (J0204-TP-XS) ===
+Category: Top
+Size: XS
+Core: TP
+Style: J0204
+Amount: 751.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0418-TP-XS | J0418 | 749.0 | diff=2.0

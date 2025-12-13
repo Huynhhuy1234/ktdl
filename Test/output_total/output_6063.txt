@@ -1,0 +1,10 @@
+=== PRODUCT #6063 (J0434-DR-XXL) ===
+Category: Western Dress
+Size: XXL
+Core: DR
+Style: J0434
+Amount: 749.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0343-DR-XXL | J0343 | 744.0 | diff=5.0
+- J0413-DR-XXL | J0413 | 741.0 | diff=8.0

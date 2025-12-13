@@ -1,0 +1,12 @@
+=== PRODUCT #1423 (JNE3860-DR-L) ===
+Category: Western Dress
+Size: L
+Core: DR
+Style: JNE3860
+Amount: 736.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0413-DR-L | J0413 | 741.0 | diff=5.0
+- J0339-DR-L | J0339 | 744.0 | diff=8.0
+- J0338-DR-L | J0338 | 744.0 | diff=8.0
+- J0341-DR-L | J0341 | 744.0 | diff=8.0

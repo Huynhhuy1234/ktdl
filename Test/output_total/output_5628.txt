@@ -1,0 +1,9 @@
+=== PRODUCT #5628 (JNE1408-KR-UDF19-A-L) ===
+Category: kurta
+Size: L
+Core: KR-UDF19-A
+Style: JNE1408
+Amount: 307.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE1525-KR-UDF19-A-L | JNE1525 | 311.0 | diff=4.0

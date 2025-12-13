@@ -1,0 +1,9 @@
+=== PRODUCT #4580 (SET287-KR-NP-XL) ===
+Category: Set
+Size: XL
+Core: KR-NP
+Style: SET287
+Amount: 542.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET034-KR-NP-XL | SET034 | 545.0 | diff=3.0

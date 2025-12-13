@@ -1,0 +1,9 @@
+=== PRODUCT #4460 (J0001-DR-L) ===
+Category: Ethnic Dress
+Size: L
+Core: DR
+Style: J0001
+Amount: 690.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0211-DR-L | J0211 | 699.0 | diff=9.0

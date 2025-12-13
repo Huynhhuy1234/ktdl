@@ -1,0 +1,10 @@
+=== PRODUCT #5540 (JNE3313-KR-A-L) ===
+Category: kurta
+Size: L
+Core: KR-A
+Style: JNE3313
+Amount: 582.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3900-KR-A-L | JNE3900 | 582.0 | diff=0.0
+- JNE3389-KR-A-L | JNE3389 | 574.0 | diff=8.0

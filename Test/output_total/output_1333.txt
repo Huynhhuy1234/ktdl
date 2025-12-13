@@ -1,0 +1,10 @@
+=== PRODUCT #1333 (JNE3648-TP-N-XXL) ===
+Category: Top
+Size: XXL
+Core: TP-N
+Style: JNE3648
+Amount: 518.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3640-TP-N-XXL | JNE3640 | 518.0 | diff=0.0
+- JNE3651-TP-N-XXL | JNE3651 | 518.0 | diff=0.0

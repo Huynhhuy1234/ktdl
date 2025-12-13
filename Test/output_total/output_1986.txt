@@ -1,0 +1,11 @@
+=== PRODUCT #1986 (J0306-DR-XXL) ===
+Category: Western Dress
+Size: XXL
+Core: DR
+Style: J0306
+Amount: 690.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3710-DR-XXL | JNE3710 | 690.0 | diff=0.0
+- J0194-DR-XXL | J0194 | 698.0 | diff=8.0
+- J0332-DR-XXL | J0332 | 699.0 | diff=9.0

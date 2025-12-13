@@ -1,0 +1,9 @@
+=== PRODUCT #5504 (NW004-TP-PJ-XS) ===
+Category: Set
+Size: XS
+Core: TP-PJ
+Style: NW004
+Amount: 475.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- NW002-TP-PJ-XS | NW002 | 474.0 | diff=1.0

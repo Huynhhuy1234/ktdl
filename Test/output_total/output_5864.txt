@@ -1,0 +1,9 @@
+=== PRODUCT #5864 (J0254-SKD-XL) ===
+Category: Set
+Size: XL
+Core: SKD
+Style: J0254
+Amount: 789.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0126-SKD-XL | J0126 | 783.0 | diff=6.0

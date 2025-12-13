@@ -1,0 +1,10 @@
+=== PRODUCT #886 (BTM026-NP-XL) ===
+Category: Bottom
+Size: XL
+Core: NP
+Style: BTM026
+Amount: 518.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- BTM029-NP-XL | BTM029 | 518.0 | diff=0.0
+- BTM031-NP-XL | BTM031 | 518.0 | diff=0.0

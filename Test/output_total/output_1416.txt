@@ -1,0 +1,9 @@
+=== PRODUCT #1416 (JNE3578-KR-M) ===
+Category: kurta
+Size: M
+Core: KR
+Style: JNE3578
+Amount: 612.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3157-KR-M | JNE3157 | 620.0 | diff=8.0

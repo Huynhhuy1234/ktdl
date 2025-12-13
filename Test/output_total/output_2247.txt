@@ -1,0 +1,10 @@
+=== PRODUCT #2247 (JNE3675-TU-XS) ===
+Category: Top
+Size: XS
+Core: TU
+Style: JNE3675
+Amount: 545.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3687-TU-XS | JNE3687 | 545.0 | diff=0.0
+- JNE3678-TU-XS | JNE3678 | 545.0 | diff=0.0

@@ -1,0 +1,11 @@
+=== PRODUCT #3055 (J0041-SET-S) ===
+Category: Set
+Size: S
+Core: SET
+Style: J0041
+Amount: 660.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0130-SET-S | J0130 | 659.0 | diff=1.0
+- J0003-SET-S | J0003 | 654.0 | diff=6.0
+- J0095-SET-S | J0095 | 653.0 | diff=7.0

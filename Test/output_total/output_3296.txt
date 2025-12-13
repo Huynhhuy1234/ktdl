@@ -1,0 +1,10 @@
+=== PRODUCT #3296 (SET154-KR-NP-M) ===
+Category: Set
+Size: M
+Core: KR-NP
+Style: SET154
+Amount: 832.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET264-KR-NP-M | SET264 | 824.0 | diff=8.0
+- SET269-KR-NP-M | SET269 | 824.0 | diff=8.0

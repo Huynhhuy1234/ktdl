@@ -1,0 +1,13 @@
+=== PRODUCT #5394 (JNE3748-KR-L) ===
+Category: kurta
+Size: L
+Core: KR
+Style: JNE3748
+Amount: 431.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3734-KR-L | JNE3734 | 431.0 | diff=0.0
+- JNE3741-KR-L | JNE3741 | 432.0 | diff=1.0
+- JNE3760-KR-L | JNE3760 | 432.0 | diff=1.0
+- JNE3294-KR-L | JNE3294 | 432.0 | diff=1.0
+- JNE3763-KR-L | JNE3763 | 432.0 | diff=1.0

@@ -1,0 +1,11 @@
+=== PRODUCT #2917 (J0399-DR-M) ===
+Category: Western Dress
+Size: M
+Core: DR
+Style: J0399
+Amount: 791.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0338-DR-M | J0338 | 791.0 | diff=0.0
+- JNE3879-DR-M | JNE3879 | 791.0 | diff=0.0
+- JNE3861-DR-M | JNE3861 | 791.0 | diff=0.0

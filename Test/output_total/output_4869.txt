@@ -1,0 +1,13 @@
+=== PRODUCT #4869 (J0299-KR-XXL) ===
+Category: kurta
+Size: XXL
+Core: KR
+Style: J0299
+Amount: 342.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3780-KR-XXL | JNE3780 | 342.0 | diff=0.0
+- JNE3702-KR-XXL | JNE3702 | 342.0 | diff=0.0
+- JNE3522-KR-XXL | JNE3522 | 342.0 | diff=0.0
+- JNE3726-KR-XXL | JNE3726 | 345.0 | diff=3.0
+- J0131-KR-XXL | J0131 | 345.0 | diff=3.0

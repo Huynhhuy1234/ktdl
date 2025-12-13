@@ -1,0 +1,9 @@
+=== PRODUCT #293 (SET333-KR-DPT-XL) ===
+Category: Set
+Size: XL
+Core: KR-DPT
+Style: SET333
+Amount: 909.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET305-KR-DPT-XL | SET305 | 909.0 | diff=0.0

@@ -1,0 +1,10 @@
+=== PRODUCT #773 (J0095-SET-XL) ===
+Category: Set
+Size: XL
+Core: SET
+Style: J0095
+Amount: 653.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0130-SET-XL | J0130 | 659.0 | diff=6.0
+- J0041-SET-XL | J0041 | 660.0 | diff=7.0

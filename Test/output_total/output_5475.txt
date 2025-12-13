@@ -1,0 +1,10 @@
+=== PRODUCT #5475 (J0174-TP-XS) ===
+Category: Top
+Size: XS
+Core: TP
+Style: J0174
+Amount: 423.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0111-TP-XS | J0111 | 423.0 | diff=0.0
+- J0098-TP-XS | J0098 | 426.0 | diff=3.0

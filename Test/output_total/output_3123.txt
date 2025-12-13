@@ -1,0 +1,11 @@
+=== PRODUCT #3123 (J0158-DR-S) ===
+Category: Western Dress
+Size: S
+Core: DR
+Style: J0158
+Amount: 721.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3869-DR-S | JNE3869 | 721.0 | diff=0.0
+- J0208-DR-S | J0208 | 721.0 | diff=0.0
+- JNE3870-DR-S | JNE3870 | 721.0 | diff=0.0

@@ -1,0 +1,10 @@
+=== PRODUCT #2789 (JNE3709-DR-XXXL) ===
+Category: Western Dress
+Size: 3XL
+Core: DR
+Style: JNE3709
+Amount: 833.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0333-DR-XXXL | J0333 | 825.0 | diff=8.0
+- JNE3881-DR-XXXL | JNE3881 | 825.0 | diff=8.0

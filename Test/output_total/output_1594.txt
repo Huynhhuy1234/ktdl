@@ -1,0 +1,9 @@
+=== PRODUCT #1594 (J0157-DR-XXL) ===
+Category: Western Dress
+Size: XXL
+Core: DR
+Style: J0157
+Amount: 588.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3880-DR-XXL | JNE3880 | 581.0 | diff=7.0

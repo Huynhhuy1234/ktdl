@@ -1,0 +1,11 @@
+=== PRODUCT #347 (J0334-TP-XL) ===
+Category: Top
+Size: XL
+Core: TP
+Style: J0334
+Amount: 512.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0172-TP-XL | J0172 | 518.0 | diff=6.0
+- J0307-TP-XL | J0307 | 518.0 | diff=6.0
+- J0202-TP-XL | J0202 | 519.0 | diff=7.0

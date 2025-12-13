@@ -1,0 +1,13 @@
+=== PRODUCT #4255 (J0085-TP-XL) ===
+Category: Top
+Size: XL
+Core: TP
+Style: J0085
+Amount: 360.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0089-TP-XL | J0089 | 360.0 | diff=0.0
+- J0082-TP-XL | J0082 | 360.0 | diff=0.0
+- JNE3658-TP-XL | JNE3658 | 359.0 | diff=1.0
+- J0165-TP-XL | J0165 | 355.0 | diff=5.0
+- J0120-TP-XL | J0120 | 365.0 | diff=5.0

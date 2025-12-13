@@ -1,0 +1,9 @@
+=== PRODUCT #2736 (SET221-KR-NP-XXXL) ===
+Category: Set
+Size: 3XL
+Core: KR-NP
+Style: SET221
+Amount: 714.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET156-KR-NP-XXXL | SET156 | 716.0 | diff=2.0

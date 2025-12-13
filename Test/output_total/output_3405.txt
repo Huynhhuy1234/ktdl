@@ -1,0 +1,9 @@
+=== PRODUCT #3405 (JNE3644-TP-N-XL) ===
+Category: Top
+Size: XL
+Core: TP-N
+Style: JNE3644
+Amount: 309.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3643-TP-N-XL | JNE3643 | 301.0 | diff=8.0

@@ -1,0 +1,10 @@
+=== PRODUCT #5370 (JNE3862-TU-S) ===
+Category: Top
+Size: S
+Core: TU
+Style: JNE3862
+Amount: 599.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3673-TU-S | JNE3673 | 599.0 | diff=0.0
+- JNE3864-TU-S | JNE3864 | 599.0 | diff=0.0

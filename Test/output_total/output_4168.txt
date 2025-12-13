@@ -1,0 +1,13 @@
+=== PRODUCT #4168 (JNE3825-KR-M) ===
+Category: kurta
+Size: M
+Core: KR
+Style: JNE3825
+Amount: 474.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3822-KR-M | JNE3822 | 474.0 | diff=0.0
+- JNE3774-KR-M | JNE3774 | 474.0 | diff=0.0
+- J0138-KR-M | J0138 | 474.0 | diff=0.0
+- JNE3817-KR-M | JNE3817 | 474.0 | diff=0.0
+- MEN5006-KR-M | MEN5006 | 475.0 | diff=1.0

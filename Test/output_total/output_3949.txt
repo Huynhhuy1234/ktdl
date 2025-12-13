@@ -1,0 +1,10 @@
+=== PRODUCT #3949 (J0090-TP-S) ===
+Category: Top
+Size: S
+Core: TP
+Style: J0090
+Amount: 563.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0084-TP-S | J0084 | 560.0 | diff=3.0
+- J0203-TP-S | J0203 | 568.0 | diff=5.0

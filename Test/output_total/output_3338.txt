@@ -1,0 +1,10 @@
+=== PRODUCT #3338 (NW036-ST-SR-XXXL) ===
+Category: Set
+Size: 3XL
+Core: ST-SR
+Style: NW036
+Amount: 563.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- NW016-ST-SR-XXXL | NW016 | 560.0 | diff=3.0
+- NW014-ST-SR-XXXL | NW014 | 560.0 | diff=3.0

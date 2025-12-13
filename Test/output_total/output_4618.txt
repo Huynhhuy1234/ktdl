@@ -1,0 +1,11 @@
+=== PRODUCT #4618 (JNE3665-TP-XS) ===
+Category: Top
+Size: XS
+Core: TP
+Style: JNE3665
+Amount: 493.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0301-TP-XS | J0301 | 493.0 | diff=0.0
+- J0344-TP-XS | J0344 | 487.0 | diff=6.0
+- J0172-TP-XS | J0172 | 499.0 | diff=6.0

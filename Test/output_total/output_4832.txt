@@ -1,0 +1,13 @@
+=== PRODUCT #4832 (SET233-KR-PP-S) ===
+Category: Set
+Size: S
+Core: KR-PP
+Style: SET233
+Amount: 566.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET165-KR-PP-S | SET165 | 567.0 | diff=1.0
+- SET257-KR-PP-S | SET257 | 568.0 | diff=2.0
+- SET270-KR-PP-S | SET270 | 568.0 | diff=2.0
+- SET291-KR-PP-S | SET291 | 563.0 | diff=3.0
+- SET184-KR-PP-S | SET184 | 563.0 | diff=3.0

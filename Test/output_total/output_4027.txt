@@ -1,0 +1,9 @@
+=== PRODUCT #4027 (J0348-SET-XS) ===
+Category: Set
+Size: XS
+Core: SET
+Style: J0348
+Amount: 499.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0144-SET-XS | J0144 | 499.0 | diff=0.0

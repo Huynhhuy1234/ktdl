@@ -1,0 +1,9 @@
+=== PRODUCT #5691 (JNE3866-KR-S) ===
+Category: kurta
+Size: S
+Core: KR
+Style: JNE3866
+Amount: 753.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0314-KR-S | J0314 | 761.0 | diff=8.0

@@ -1,0 +1,11 @@
+=== PRODUCT #6005 (J0431-DR-XXL) ===
+Category: Western Dress
+Size: XXL
+Core: DR
+Style: J0431
+Amount: 899.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0415-DR-XXL | J0415 | 899.0 | diff=0.0
+- J0005-DR-XXL | J0005 | 899.0 | diff=0.0
+- J0152-DR-XXL | J0152 | 899.0 | diff=0.0

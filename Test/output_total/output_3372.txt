@@ -1,0 +1,13 @@
+=== PRODUCT #3372 (J0178-TP-XL) ===
+Category: Top
+Size: XL
+Core: TP
+Style: J0178
+Amount: 319.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3642-TP-XL | JNE3642 | 321.0 | diff=2.0
+- J0049-TP-XL | J0049 | 321.0 | diff=2.0
+- J0087-TP-XL | J0087 | 329.0 | diff=10.0
+- J0122-TP-XL | J0122 | 329.0 | diff=10.0
+- JNE3655-TP-XL | JNE3655 | 329.0 | diff=10.0

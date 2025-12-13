@@ -1,0 +1,9 @@
+=== PRODUCT #2491 (JNE3689-TU-L) ===
+Category: Top
+Size: L
+Core: TU
+Style: JNE3689
+Amount: 421.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3679-TU-L | JNE3679 | 425.0 | diff=4.0

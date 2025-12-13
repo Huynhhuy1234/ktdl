@@ -1,0 +1,9 @@
+=== PRODUCT #3395 (J0098-TP-XXL) ===
+Category: Top
+Size: XXL
+Core: TP
+Style: J0098
+Amount: 413.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0111-TP-XXL | J0111 | 423.0 | diff=10.0

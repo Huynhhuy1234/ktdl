@@ -1,0 +1,11 @@
+=== PRODUCT #4281 (SET344-KR-NP-L) ===
+Category: Set
+Size: L
+Core: KR-NP
+Style: SET344
+Amount: 968.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET348-KR-NP-L | SET348 | 968.0 | diff=0.0
+- SET393-KR-NP-L | SET393 | 969.0 | diff=1.0
+- SET311-KR-NP-L | SET311 | 974.0 | diff=6.0

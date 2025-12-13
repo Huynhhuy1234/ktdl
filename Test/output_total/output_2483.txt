@@ -1,0 +1,10 @@
+=== PRODUCT #2483 (J0351-SET-S) ===
+Category: Set
+Size: S
+Core: SET
+Style: J0351
+Amount: 725.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0137-SET-S | J0137 | 721.0 | diff=4.0
+- J0129-SET-S | J0129 | 733.0 | diff=8.0

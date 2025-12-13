@@ -1,0 +1,10 @@
+=== PRODUCT #481 (SET332-KR-PP-XL) ===
+Category: Set
+Size: XL
+Core: KR-PP
+Style: SET332
+Amount: 549.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET216-KR-PP-XL | SET216 | 545.0 | diff=4.0
+- SET233-KR-PP-XL | SET233 | 545.0 | diff=4.0

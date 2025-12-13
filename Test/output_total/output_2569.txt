@@ -1,0 +1,10 @@
+=== PRODUCT #2569 (J0214-TP-M) ===
+Category: Top
+Size: M
+Core: TP
+Style: J0214
+Amount: 495.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0196-TP-M | J0196 | 490.0 | diff=5.0
+- J0337-TP-M | J0337 | 487.0 | diff=8.0

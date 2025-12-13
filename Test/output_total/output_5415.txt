@@ -1,0 +1,9 @@
+=== PRODUCT #5415 (JNE3905-DR-XS) ===
+Category: Western Dress
+Size: XS
+Core: DR
+Style: JNE3905
+Amount: 625.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0042-DR-XS | J0042 | 634.0 | diff=9.0

@@ -1,0 +1,13 @@
+=== PRODUCT #1200 (J0197-TP-XXXL) ===
+Category: Top
+Size: 3XL
+Core: TP
+Style: J0197
+Amount: 625.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0198-TP-XXXL | J0198 | 625.0 | diff=0.0
+- J0201-TP-XXXL | J0201 | 625.0 | diff=0.0
+- J0390-TP-XXXL | J0390 | 625.0 | diff=0.0
+- JNE3891-TP-XXXL | JNE3891 | 621.0 | diff=4.0
+- JNE3890-TP-XXXL | JNE3890 | 621.0 | diff=4.0

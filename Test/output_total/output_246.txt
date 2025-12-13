@@ -1,0 +1,9 @@
+=== PRODUCT #246 (J0225-SKD-XXL) ===
+Category: Set
+Size: XXL
+Core: SKD
+Style: J0225
+Amount: 1499.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0226-SKD-XXL | J0226 | 1499.0 | diff=0.0

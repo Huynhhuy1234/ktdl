@@ -1,0 +1,13 @@
+=== PRODUCT #6249 (JNE3602-KR-XXL) ===
+Category: kurta
+Size: XXL
+Core: KR
+Style: JNE3602
+Amount: 376.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3373-KR-XXL | JNE3373 | 376.0 | diff=0.0
+- JNE3523-KR-XXL | JNE3523 | 376.0 | diff=0.0
+- JNE3618-KR-XXL | JNE3618 | 375.0 | diff=1.0
+- J0133-KR-XXL | J0133 | 377.0 | diff=1.0
+- JNE3458-KR-XXL | JNE3458 | 380.0 | diff=4.0

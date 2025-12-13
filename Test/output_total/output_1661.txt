@@ -1,0 +1,10 @@
+=== PRODUCT #1661 (SET154-KR-NP-XXL) ===
+Category: Set
+Size: XXL
+Core: KR-NP
+Style: SET154
+Amount: 832.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET264-KR-NP-XXL | SET264 | 824.0 | diff=8.0
+- SET269-KR-NP-XXL | SET269 | 824.0 | diff=8.0

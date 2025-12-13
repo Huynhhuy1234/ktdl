@@ -1,0 +1,10 @@
+=== PRODUCT #3272 (JNE3160-KR-L) ===
+Category: kurta
+Size: L
+Core: KR
+Style: JNE3160
+Amount: 685.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- MEN5026-KR-L | MEN5026 | 688.0 | diff=3.0
+- JNE3908-KR-L | JNE3908 | 692.0 | diff=7.0

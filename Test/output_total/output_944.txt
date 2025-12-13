@@ -1,0 +1,12 @@
+=== PRODUCT #944 (J0342-TP-S) ===
+Category: Top
+Size: S
+Core: TP
+Style: J0342
+Amount: 540.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0119-TP-S | J0119 | 540.0 | diff=0.0
+- J0334-TP-S | J0334 | 545.0 | diff=5.0
+- J0117-TP-S | J0117 | 545.0 | diff=5.0
+- J0080-TP-S | J0080 | 531.0 | diff=9.0

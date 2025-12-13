@@ -1,0 +1,13 @@
+=== PRODUCT #5032 (JNE3560-KR-S) ===
+Category: kurta
+Size: S
+Core: KR
+Style: JNE3560
+Amount: 544.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3750-KR-S | JNE3750 | 544.0 | diff=0.0
+- JNE3759-KR-S | JNE3759 | 544.0 | diff=0.0
+- JNE3823-KR-S | JNE3823 | 542.0 | diff=2.0
+- MEN5031-KR-S | MEN5031 | 549.0 | diff=5.0
+- MEN5025-KR-S | MEN5025 | 549.0 | diff=5.0

@@ -1,0 +1,10 @@
+=== PRODUCT #1256 (J0342-TP-XXXL) ===
+Category: Top
+Size: 3XL
+Core: TP
+Style: J0342
+Amount: 574.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0297-TP-XXXL | J0297 | 574.0 | diff=0.0
+- J0203-TP-XXXL | J0203 | 568.0 | diff=6.0

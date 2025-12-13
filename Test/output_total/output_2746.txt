@@ -1,0 +1,11 @@
+=== PRODUCT #2746 (SET332-KR-PP-XS) ===
+Category: Set
+Size: XS
+Core: KR-PP
+Style: SET332
+Amount: 549.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET209-KR-PP-XS | SET209 | 548.0 | diff=1.0
+- SET257-KR-PP-XS | SET257 | 551.0 | diff=2.0
+- SET233-KR-PP-XS | SET233 | 545.0 | diff=4.0

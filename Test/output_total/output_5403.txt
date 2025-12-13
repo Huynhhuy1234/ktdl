@@ -1,0 +1,9 @@
+=== PRODUCT #5403 (NW027-TP-PJ-XS) ===
+Category: Set
+Size: XS
+Core: TP-PJ
+Style: NW027
+Amount: 613.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- NW034-TP-PJ-XS | NW034 | 613.0 | diff=0.0

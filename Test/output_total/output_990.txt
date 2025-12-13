@@ -1,0 +1,9 @@
+=== PRODUCT #990 (JNE3160-KR-XXL) ===
+Category: kurta
+Size: XXL
+Core: KR
+Style: JNE3160
+Amount: 685.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3577-KR-XXL | JNE3577 | 688.0 | diff=3.0

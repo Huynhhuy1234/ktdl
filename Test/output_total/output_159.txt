@@ -1,0 +1,13 @@
+=== PRODUCT #159 (JNE3399-KR-L) ===
+Category: kurta
+Size: L
+Core: KR
+Style: JNE3399
+Amount: 435.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3439-KR-L | JNE3439 | 435.0 | diff=0.0
+- JNE3294-KR-L | JNE3294 | 432.0 | diff=3.0
+- JNE3376-KR-L | JNE3376 | 432.0 | diff=3.0
+- JNE3760-KR-L | JNE3760 | 432.0 | diff=3.0
+- JNE3770-KR-L | JNE3770 | 432.0 | diff=3.0

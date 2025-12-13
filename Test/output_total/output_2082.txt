@@ -1,0 +1,10 @@
+=== PRODUCT #2082 (J0307-TP-XXL) ===
+Category: Top
+Size: XXL
+Core: TP
+Style: J0307
+Amount: 518.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0202-TP-XXL | J0202 | 519.0 | diff=1.0
+- J0124-TP-XXL | J0124 | 523.0 | diff=5.0

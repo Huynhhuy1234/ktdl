@@ -1,0 +1,10 @@
+=== PRODUCT #2181 (JNE3639-TP-N-XS) ===
+Category: Top
+Size: XS
+Core: TP-N
+Style: JNE3639
+Amount: 518.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3640-TP-N-XS | JNE3640 | 518.0 | diff=0.0
+- JNE3712-TP-N-XS | JNE3712 | 518.0 | diff=0.0

@@ -1,0 +1,9 @@
+=== PRODUCT #4366 (J0199-SET-XS) ===
+Category: Set
+Size: XS
+Core: SET
+Style: J0199
+Amount: 476.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0346-SET-XS | J0346 | 478.0 | diff=2.0

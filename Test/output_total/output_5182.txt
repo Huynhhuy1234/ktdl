@@ -1,0 +1,11 @@
+=== PRODUCT #5182 (JNE3898-KR-M) ===
+Category: kurta
+Size: M
+Core: KR
+Style: JNE3898
+Amount: 582.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3313-KR-M | JNE3313 | 582.0 | diff=0.0
+- J0330-KR-M | J0330 | 575.0 | diff=7.0
+- J0083-KR-M | J0083 | 591.0 | diff=9.0

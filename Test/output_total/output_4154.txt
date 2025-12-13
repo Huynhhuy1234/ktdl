@@ -1,0 +1,13 @@
+=== PRODUCT #4154 (MEN5004-KR-S) ===
+Category: kurta
+Size: S
+Core: KR
+Style: MEN5004
+Amount: 484.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3477-KR-S | JNE3477 | 484.0 | diff=0.0
+- JNE3787-KR-S | JNE3787 | 487.0 | diff=3.0
+- JNE3757-KR-S | JNE3757 | 487.0 | diff=3.0
+- JNE3546-KR-S | JNE3546 | 487.0 | diff=3.0
+- JNE3704-KR-S | JNE3704 | 487.0 | diff=3.0

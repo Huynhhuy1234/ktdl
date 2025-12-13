@@ -1,0 +1,10 @@
+=== PRODUCT #2988 (BTM036-PP-XXXL) ===
+Category: Bottom
+Size: 3XL
+Core: PP
+Style: BTM036
+Amount: 360.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- BTM039-PP-XXXL | BTM039 | 360.0 | diff=0.0
+- BTM044-PP-XXXL | BTM044 | 360.0 | diff=0.0

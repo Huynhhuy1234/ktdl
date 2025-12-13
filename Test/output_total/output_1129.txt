@@ -1,0 +1,13 @@
+=== PRODUCT #1129 (J0012-SKD-L) ===
+Category: Set
+Size: L
+Core: SKD
+Style: J0012
+Amount: 1213.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0109-SKD-L | J0109 | 1213.0 | diff=0.0
+- J0232-SKD-L | J0232 | 1213.0 | diff=0.0
+- J0234-SKD-L | J0234 | 1213.0 | diff=0.0
+- J0284-SKD-L | J0284 | 1213.0 | diff=0.0
+- J0244-SKD-L | J0244 | 1204.0 | diff=9.0

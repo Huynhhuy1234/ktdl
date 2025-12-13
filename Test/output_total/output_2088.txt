@@ -1,0 +1,9 @@
+=== PRODUCT #2088 (J0105-KR-XL) ===
+Category: Western Dress
+Size: XL
+Core: KR
+Style: J0105
+Amount: 999.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0106-KR-XL | J0106 | 999.0 | diff=0.0

@@ -1,0 +1,10 @@
+=== PRODUCT #3185 (J0043-SET-XL) ===
+Category: Set
+Size: XL
+Core: SET
+Style: J0043
+Amount: 635.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0148-SET-XL | J0148 | 636.0 | diff=1.0
+- J0347-SET-XL | J0347 | 632.0 | diff=3.0

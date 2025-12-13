@@ -1,0 +1,9 @@
+=== PRODUCT #5408 (JNE3895-TP-XL) ===
+Category: Top
+Size: XL
+Core: TP
+Style: JNE3895
+Amount: 648.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3892-TP-XL | JNE3892 | 648.0 | diff=0.0

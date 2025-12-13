@@ -1,0 +1,12 @@
+=== PRODUCT #4942 (MEN5014-KR-L) ===
+Category: kurta
+Size: L
+Core: KR
+Style: MEN5014
+Amount: 665.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- MEN5015-KR-L | MEN5015 | 665.0 | diff=0.0
+- JNE3799-KR-L | JNE3799 | 666.0 | diff=1.0
+- JNE3807-KR-L | JNE3807 | 666.0 | diff=1.0
+- JNE3856-KR-L | JNE3856 | 666.0 | diff=1.0

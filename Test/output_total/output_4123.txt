@@ -1,0 +1,13 @@
+=== PRODUCT #4123 (J0332-DR-XXXL) ===
+Category: Western Dress
+Size: 3XL
+Core: DR
+Style: J0332
+Amount: 699.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0194-DR-XXXL | J0194 | 698.0 | diff=1.0
+- J0302-DR-XXXL | J0302 | 696.0 | diff=3.0
+- JNE3880-DR-XXXL | JNE3880 | 690.0 | diff=9.0
+- JNE3710-DR-XXXL | JNE3710 | 690.0 | diff=9.0
+- J0306-DR-XXXL | J0306 | 690.0 | diff=9.0

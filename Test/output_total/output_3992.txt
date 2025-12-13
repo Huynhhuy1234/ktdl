@@ -1,0 +1,10 @@
+=== PRODUCT #3992 (J0016-DR-XS) ===
+Category: Western Dress
+Size: XS
+Core: DR
+Style: J0016
+Amount: 426.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0173-DR-XS | J0173 | 436.0 | diff=10.0
+- J0180-DR-XS | J0180 | 436.0 | diff=10.0

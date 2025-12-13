@@ -1,0 +1,9 @@
+=== PRODUCT #6011 (SET431-KR-NP-L) ===
+Category: Set
+Size: L
+Core: KR-NP
+Style: SET431
+Amount: 899.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET341-KR-NP-L | SET341 | 899.0 | diff=0.0

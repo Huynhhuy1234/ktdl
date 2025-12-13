@@ -1,0 +1,13 @@
+=== PRODUCT #4740 (SET293-KR-NP-XS) ===
+Category: Set
+Size: XS
+Core: KR-NP
+Style: SET293
+Amount: 683.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET288-KR-NP-XS | SET288 | 684.0 | diff=1.0
+- SET147-KR-NP-XS | SET147 | 684.0 | diff=1.0
+- SET192-KR-NP-XS | SET192 | 680.0 | diff=3.0
+- SET188-KR-NP-XS | SET188 | 680.0 | diff=3.0
+- SET249-KR-NP-XS | SET249 | 680.0 | diff=3.0

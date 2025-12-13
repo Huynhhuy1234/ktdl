@@ -1,0 +1,9 @@
+=== PRODUCT #1443 (J0351-SET-XXL) ===
+Category: Set
+Size: XXL
+Core: SET
+Style: J0351
+Amount: 771.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0278-SET-XXL | J0278 | 761.0 | diff=10.0

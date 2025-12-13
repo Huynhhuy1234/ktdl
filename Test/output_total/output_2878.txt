@@ -1,0 +1,9 @@
+=== PRODUCT #2878 (J0210-DR-M) ===
+Category: Ethnic Dress
+Size: M
+Core: DR
+Style: J0210
+Amount: 783.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0212-DR-M | J0212 | 791.0 | diff=8.0

@@ -1,0 +1,10 @@
+=== PRODUCT #5634 (BTM029-NP-XXL) ===
+Category: Bottom
+Size: XXL
+Core: NP
+Style: BTM029
+Amount: 518.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- BTM031-NP-XXL | BTM031 | 518.0 | diff=0.0
+- BTM027-NP-XXL | BTM027 | 518.0 | diff=0.0

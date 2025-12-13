@@ -1,0 +1,9 @@
+=== PRODUCT #5175 (JNE3030-KR-XXXL) ===
+Category: kurta
+Size: 3XL
+Core: KR
+Style: JNE3030
+Amount: 736.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0329-KR-XXXL | J0329 | 737.0 | diff=1.0

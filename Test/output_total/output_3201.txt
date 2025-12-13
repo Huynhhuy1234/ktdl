@@ -1,0 +1,10 @@
+=== PRODUCT #3201 (SET360-KR-NP-L) ===
+Category: Set
+Size: L
+Core: KR-NP
+Style: SET360
+Amount: 1126.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET364-KR-NP-L | SET364 | 1126.0 | diff=0.0
+- SET395-KR-NP-L | SET395 | 1133.0 | diff=7.0

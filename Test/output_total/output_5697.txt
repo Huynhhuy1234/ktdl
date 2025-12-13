@@ -1,0 +1,9 @@
+=== PRODUCT #5697 (SET143-KR-PP-S) ===
+Category: Set
+Size: S
+Core: KR-PP
+Style: SET143
+Amount: 517.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET206-KR-PP-S | SET206 | 526.0 | diff=9.0

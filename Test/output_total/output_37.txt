@@ -1,0 +1,11 @@
+=== PRODUCT #37 (J0301-TP-L) ===
+Category: Top
+Size: L
+Core: TP
+Style: J0301
+Amount: 493.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0214-TP-L | J0214 | 495.0 | diff=2.0
+- J0118-TP-L | J0118 | 487.0 | diff=6.0
+- J0344-TP-L | J0344 | 487.0 | diff=6.0

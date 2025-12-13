@@ -1,0 +1,9 @@
+=== PRODUCT #1652 (J0174-TP-XL) ===
+Category: Top
+Size: XL
+Core: TP
+Style: J0174
+Amount: 423.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0111-TP-XL | J0111 | 423.0 | diff=0.0

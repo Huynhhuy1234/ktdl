@@ -1,0 +1,13 @@
+=== PRODUCT #80 (JNE3261-KR-S) ===
+Category: kurta
+Size: S
+Core: KR
+Style: JNE3261
+Amount: 348.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3729-KR-S | JNE3729 | 348.0 | diff=0.0
+- JNE3225-KR-S | JNE3225 | 349.0 | diff=1.0
+- JNE3431-KR-S | JNE3431 | 349.0 | diff=1.0
+- JNE3395-KR-S | JNE3395 | 349.0 | diff=1.0
+- JNE3771-KR-S | JNE3771 | 346.0 | diff=2.0

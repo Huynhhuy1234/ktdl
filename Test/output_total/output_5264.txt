@@ -1,0 +1,13 @@
+=== PRODUCT #5264 (J0142-KR-XS) ===
+Category: kurta
+Size: XS
+Core: KR
+Style: J0142
+Amount: 396.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3567-KR-XS | JNE3567 | 399.0 | diff=3.0
+- JNE3618-KR-XS | JNE3618 | 399.0 | diff=3.0
+- JNE3405-KR-XS | JNE3405 | 399.0 | diff=3.0
+- JNE3716-KR-XS | JNE3716 | 399.0 | diff=3.0
+- JNE3613-KR-XS | JNE3613 | 399.0 | diff=3.0

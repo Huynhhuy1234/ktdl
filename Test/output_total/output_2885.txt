@@ -1,0 +1,11 @@
+=== PRODUCT #2885 (BTM044-PP-XS) ===
+Category: Bottom
+Size: XS
+Core: PP
+Style: BTM044
+Amount: 360.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- BTM037-PP-XS | BTM037 | 360.0 | diff=0.0
+- BTM039-PP-XS | BTM039 | 360.0 | diff=0.0
+- BTM038-PP-XS | BTM038 | 360.0 | diff=0.0

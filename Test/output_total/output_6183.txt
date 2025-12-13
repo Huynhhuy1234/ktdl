@@ -1,0 +1,13 @@
+=== PRODUCT #6183 (SET461-KR-NP-XXL) ===
+Category: Set
+Size: XXL
+Core: KR-NP
+Style: SET461
+Amount: 769.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET405-KR-NP-XXL | SET405 | 771.0 | diff=2.0
+- SET297-KR-NP-XXL | SET297 | 771.0 | diff=2.0
+- SET357-KR-NP-XXL | SET357 | 771.0 | diff=2.0
+- SET335-KR-NP-XXL | SET335 | 771.0 | diff=2.0
+- SET197-KR-NP-XXL | SET197 | 759.0 | diff=10.0

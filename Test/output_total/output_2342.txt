@@ -1,0 +1,9 @@
+=== PRODUCT #2342 (J0231-SKD-XXL) ===
+Category: Set
+Size: XXL
+Core: SKD
+Style: J0231
+Amount: 1281.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0379-SKD-XXL | J0379 | 1287.0 | diff=6.0

@@ -1,0 +1,13 @@
+=== PRODUCT #5205 (J0112-TP-XXL) ===
+Category: Top
+Size: XXL
+Core: TP
+Style: J0112
+Amount: 349.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0165-TP-XXL | J0165 | 355.0 | diff=6.0
+- J0160-TP-XXL | J0160 | 339.0 | diff=10.0
+- JNE3658-TP-XXL | JNE3658 | 359.0 | diff=10.0
+- J0048-TP-XXL | J0048 | 339.0 | diff=10.0
+- J0310-TP-XXL | J0310 | 339.0 | diff=10.0

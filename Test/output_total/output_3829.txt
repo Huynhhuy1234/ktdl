@@ -1,0 +1,12 @@
+=== PRODUCT #3829 (J0295-DR-XXL) ===
+Category: Western Dress
+Size: XXL
+Core: DR
+Style: J0295
+Amount: 859.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0400-DR-XXL | J0400 | 859.0 | diff=0.0
+- J0396-DR-XXL | J0396 | 859.0 | diff=0.0
+- J0395-DR-XXL | J0395 | 859.0 | diff=0.0
+- J0429-DR-XXL | J0429 | 859.0 | diff=0.0

@@ -1,0 +1,13 @@
+=== PRODUCT #4457 (J0294-TP-XXL) ===
+Category: Top
+Size: XXL
+Core: TP
+Style: J0294
+Amount: 396.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0023-TP-XXL | J0023 | 399.0 | diff=3.0
+- J0181-TP-XXL | J0181 | 399.0 | diff=3.0
+- JNE3662-TP-XXL | JNE3662 | 399.0 | diff=3.0
+- J0088-TP-XXL | J0088 | 399.0 | diff=3.0
+- JNE3654-TP-XXL | JNE3654 | 387.0 | diff=9.0

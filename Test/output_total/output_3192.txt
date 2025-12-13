@@ -1,0 +1,13 @@
+=== PRODUCT #3192 (MEN5016-KR-XXXL) ===
+Category: kurta
+Size: 3XL
+Core: KR
+Style: MEN5016
+Amount: 475.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- MEN5006-KR-XXXL | MEN5006 | 475.0 | diff=0.0
+- MEN5024-KR-XXXL | MEN5024 | 475.0 | diff=0.0
+- MEN5007-KR-XXXL | MEN5007 | 475.0 | diff=0.0
+- MEN5027-KR-XXXL | MEN5027 | 475.0 | diff=0.0
+- MEN5019-KR-XXXL | MEN5019 | 476.0 | diff=1.0

@@ -1,0 +1,9 @@
+=== PRODUCT #5448 (BTM008-B-XXL) ===
+Category: Bottom
+Size: XXL
+Core: B
+Style: BTM008
+Amount: 518.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- BTM021-B-XXL | BTM021 | 518.0 | diff=0.0

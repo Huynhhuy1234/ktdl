@@ -1,0 +1,9 @@
+=== PRODUCT #4593 (J0062-DR-XXL) ===
+Category: Western Dress
+Size: XXL
+Core: DR
+Style: J0062
+Amount: 499.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3707-DR-XXL | JNE3707 | 496.0 | diff=3.0

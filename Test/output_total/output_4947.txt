@@ -1,0 +1,10 @@
+=== PRODUCT #4947 (J0117-TP-M) ===
+Category: Top
+Size: M
+Core: TP
+Style: J0117
+Amount: 545.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3665-TP-M | JNE3665 | 545.0 | diff=0.0
+- J0342-TP-M | J0342 | 540.0 | diff=5.0

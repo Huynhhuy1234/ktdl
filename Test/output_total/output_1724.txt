@@ -1,0 +1,13 @@
+=== PRODUCT #1724 (J0048-TP-S) ===
+Category: Top
+Size: S
+Core: TP
+Style: J0048
+Amount: 339.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0310-TP-S | J0310 | 339.0 | diff=0.0
+- J0114-TP-S | J0114 | 339.0 | diff=0.0
+- J0087-TP-S | J0087 | 329.0 | diff=10.0
+- JNE3642-TP-S | JNE3642 | 329.0 | diff=10.0
+- J0049-TP-S | J0049 | 329.0 | diff=10.0

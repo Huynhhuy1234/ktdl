@@ -1,0 +1,11 @@
+=== PRODUCT #2635 (J0077-SKD-S) ===
+Category: Set
+Size: S
+Core: SKD
+Style: J0077
+Amount: 1158.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0108-SKD-S | J0108 | 1152.0 | diff=6.0
+- J0245-SKD-S | J0245 | 1149.0 | diff=9.0
+- J0242-SKD-S | J0242 | 1149.0 | diff=9.0

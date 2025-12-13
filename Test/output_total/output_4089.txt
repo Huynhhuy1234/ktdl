@@ -1,0 +1,10 @@
+=== PRODUCT #4089 (J0090-TP-XXXL) ===
+Category: Top
+Size: 3XL
+Core: TP
+Style: J0090
+Amount: 563.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0340-TP-XXXL | J0340 | 563.0 | diff=0.0
+- J0203-TP-XXXL | J0203 | 568.0 | diff=5.0

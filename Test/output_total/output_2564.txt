@@ -1,0 +1,10 @@
+=== PRODUCT #2564 (SET145-KR-NP-XL) ===
+Category: Set
+Size: XL
+Core: KR-NP
+Style: SET145
+Amount: 715.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET156-KR-NP-XL | SET156 | 716.0 | diff=1.0
+- SET405-KR-NP-XL | SET405 | 725.0 | diff=10.0

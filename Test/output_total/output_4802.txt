@@ -1,0 +1,10 @@
+=== PRODUCT #4802 (SET402-KR-NP-XXL) ===
+Category: Set
+Size: XXL
+Core: KR-NP
+Style: SET402
+Amount: 1166.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET366-KR-NP-XXL | SET366 | 1163.0 | diff=3.0
+- SET369-KR-NP-XXL | SET369 | 1173.0 | diff=7.0

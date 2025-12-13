@@ -1,0 +1,9 @@
+=== PRODUCT #5256 (BTM041-PP-XL) ===
+Category: Bottom
+Size: XL
+Core: PP
+Style: BTM041
+Amount: 331.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- BTM042-PP-XL | BTM042 | 329.0 | diff=2.0

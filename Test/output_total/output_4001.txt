@@ -1,0 +1,9 @@
+=== PRODUCT #4001 (JNE3689-TU-M) ===
+Category: Top
+Size: M
+Core: TU
+Style: JNE3689
+Amount: 434.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3686-TU-M | JNE3686 | 425.0 | diff=9.0

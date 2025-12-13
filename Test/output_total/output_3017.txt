@@ -1,0 +1,9 @@
+=== PRODUCT #3017 (J0034-SET-XXXL) ===
+Category: Set
+Size: 3XL
+Core: SET
+Style: J0034
+Amount: 717.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0137-SET-XXXL | J0137 | 721.0 | diff=4.0

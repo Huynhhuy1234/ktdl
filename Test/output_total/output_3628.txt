@@ -1,0 +1,9 @@
+=== PRODUCT #3628 (J0126-SKD-S) ===
+Category: Set
+Size: S
+Core: SKD
+Style: J0126
+Amount: 818.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0247-SKD-S | J0247 | 820.0 | diff=2.0

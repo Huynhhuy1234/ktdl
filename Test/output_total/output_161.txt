@@ -1,0 +1,9 @@
+=== PRODUCT #161 (SET363-KR-NP-XXL) ===
+Category: Set
+Size: XXL
+Core: KR-NP
+Style: SET363
+Amount: 1338.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET277-KR-NP-XXL | SET277 | 1338.0 | diff=0.0

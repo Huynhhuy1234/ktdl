@@ -1,0 +1,10 @@
+=== PRODUCT #840 (J0080-TP-XS) ===
+Category: Top
+Size: XS
+Core: TP
+Style: J0080
+Amount: 531.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0119-TP-XS | J0119 | 540.0 | diff=9.0
+- J0342-TP-XS | J0342 | 540.0 | diff=9.0

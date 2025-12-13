@@ -1,0 +1,13 @@
+=== PRODUCT #5451 (JNE3727-KR-XXXL) ===
+Category: kurta
+Size: 3XL
+Core: KR
+Style: JNE3727
+Amount: 549.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- MEN5025-KR-XXXL | MEN5025 | 549.0 | diff=0.0
+- MEN5023-KR-XXXL | MEN5023 | 549.0 | diff=0.0
+- MEN5031-KR-XXXL | MEN5031 | 549.0 | diff=0.0
+- JNE3733-KR-XXXL | JNE3733 | 549.0 | diff=0.0
+- JNE3817-KR-XXXL | JNE3817 | 549.0 | diff=0.0

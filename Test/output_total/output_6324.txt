@@ -1,0 +1,9 @@
+=== PRODUCT #6324 (J0174-TP-S) ===
+Category: Top
+Size: S
+Core: TP
+Style: J0174
+Amount: 423.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0098-TP-S | J0098 | 413.0 | diff=10.0

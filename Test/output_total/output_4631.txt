@@ -1,0 +1,12 @@
+=== PRODUCT #4631 (PJNE1906-KR-N-4XL) ===
+Category: kurta
+Size: 4XL
+Core: KR-N
+Style: PJNE1906
+Amount: 452.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- PJNE2100-KR-N-4XL | PJNE2100 | 452.0 | diff=0.0
+- PJNE3568-KR-N-4XL | PJNE3568 | 452.0 | diff=0.0
+- PJNE3363-KR-N-4XL | PJNE3363 | 452.0 | diff=0.0
+- PJNE2199-KR-N-4XL | PJNE2199 | 459.0 | diff=7.0

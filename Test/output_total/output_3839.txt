@@ -1,0 +1,13 @@
+=== PRODUCT #3839 (J0150-KR-L) ===
+Category: kurta
+Size: L
+Core: KR
+Style: J0150
+Amount: 420.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3348-KR-L | JNE3348 | 419.0 | diff=1.0
+- JNE3736-KR-L | JNE3736 | 421.0 | diff=1.0
+- JNE3454-KR-L | JNE3454 | 419.0 | diff=1.0
+- JNE3566-KR-L | JNE3566 | 419.0 | diff=1.0
+- JNE3501-KR-L | JNE3501 | 419.0 | diff=1.0

@@ -1,0 +1,9 @@
+=== PRODUCT #3708 (BTM043-PP-S) ===
+Category: Bottom
+Size: S
+Core: PP
+Style: BTM043
+Amount: 377.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- BTM038-PP-S | BTM038 | 377.0 | diff=0.0

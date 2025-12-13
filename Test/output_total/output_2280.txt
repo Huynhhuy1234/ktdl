@@ -1,0 +1,10 @@
+=== PRODUCT #2280 (SET209-KR-PP-M) ===
+Category: Set
+Size: M
+Core: KR-PP
+Style: SET209
+Amount: 548.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET332-KR-PP-M | SET332 | 549.0 | diff=1.0
+- SET233-KR-PP-M | SET233 | 545.0 | diff=3.0

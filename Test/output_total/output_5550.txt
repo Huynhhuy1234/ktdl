@@ -1,0 +1,9 @@
+=== PRODUCT #5550 (J0389-TP-M) ===
+Category: Top
+Size: M
+Core: TP
+Style: J0389
+Amount: 665.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0195-TP-M | J0195 | 665.0 | diff=0.0

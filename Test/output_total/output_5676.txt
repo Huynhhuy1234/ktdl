@@ -1,0 +1,9 @@
+=== PRODUCT #5676 (J0290-CD-S) ===
+Category: Top
+Size: S
+Core: CD
+Style: J0290
+Amount: 534.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0323-CD-S | J0323 | 534.0 | diff=0.0

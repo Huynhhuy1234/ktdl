@@ -1,0 +1,13 @@
+=== PRODUCT #5988 (JNE3811-KR-XXL) ===
+Category: kurta
+Size: XXL
+Core: KR
+Style: JNE3811
+Amount: 474.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3774-KR-XXL | JNE3774 | 474.0 | diff=0.0
+- JNE3817-KR-XXL | JNE3817 | 474.0 | diff=0.0
+- JNE3822-KR-XXL | JNE3822 | 474.0 | diff=0.0
+- MEN5007-KR-XXL | MEN5007 | 475.0 | diff=1.0
+- MEN5006-KR-XXL | MEN5006 | 475.0 | diff=1.0

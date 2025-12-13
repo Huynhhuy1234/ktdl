@@ -1,0 +1,10 @@
+=== PRODUCT #622 (J0113-TP-XL) ===
+Category: Top
+Size: XL
+Core: TP
+Style: J0113
+Amount: 540.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0119-TP-XL | J0119 | 540.0 | diff=0.0
+- J0117-TP-XL | J0117 | 545.0 | diff=5.0

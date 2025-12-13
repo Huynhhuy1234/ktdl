@@ -1,0 +1,10 @@
+=== PRODUCT #2004 (J0212-DR-L) ===
+Category: Ethnic Dress
+Size: L
+Core: DR
+Style: J0212
+Amount: 791.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0101-DR-L | J0101 | 799.0 | diff=8.0
+- J0210-DR-L | J0210 | 783.0 | diff=8.0

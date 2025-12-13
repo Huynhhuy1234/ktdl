@@ -1,0 +1,12 @@
+=== PRODUCT #3819 (JNE3480-KR-XS) ===
+Category: kurta
+Size: XS
+Core: KR
+Style: JNE3480
+Amount: 249.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3407-KR-XS | JNE3407 | 249.0 | diff=0.0
+- JNE3428-KR-XS | JNE3428 | 249.0 | diff=0.0
+- JNE3479-KR-XS | JNE3479 | 259.0 | diff=10.0
+- JNE3401-KR-XS | JNE3401 | 259.0 | diff=10.0

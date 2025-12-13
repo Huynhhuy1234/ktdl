@@ -1,0 +1,10 @@
+=== PRODUCT #3844 (JNE3688-TU-M) ===
+Category: Top
+Size: M
+Core: TU
+Style: JNE3688
+Amount: 599.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3864-TU-M | JNE3864 | 599.0 | diff=0.0
+- JNE3673-TU-M | JNE3673 | 599.0 | diff=0.0
