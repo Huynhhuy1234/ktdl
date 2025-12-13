@@ -1,0 +1,9 @@
+=== PRODUCT #1491 (J0305-DR-XS) ===
+Category: Western Dress
+Size: XS
+Core: DR
+Style: J0305
+Amount: 613.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3860-DR-XS | JNE3860 | 614.0 | diff=1.0

@@ -1,0 +1,10 @@
+=== PRODUCT #2800 (SET232-KR-PP-S) ===
+Category: Set
+Size: S
+Core: KR-PP
+Style: SET232
+Amount: 499.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET179-KR-PP-S | SET179 | 499.0 | diff=0.0
+- SET281-KR-PP-S | SET281 | 499.0 | diff=0.0

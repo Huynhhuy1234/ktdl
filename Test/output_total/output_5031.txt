@@ -1,0 +1,13 @@
+=== PRODUCT #5031 (JNE3389-KR-XL) ===
+Category: kurta
+Size: XL
+Core: KR
+Style: JNE3389
+Amount: 452.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3281-KR-XL | JNE3281 | 451.0 | diff=1.0
+- JNE3804-KR-XL | JNE3804 | 453.0 | diff=1.0
+- JNE3621-KR-XL | JNE3621 | 455.0 | diff=3.0
+- JNE3817-KR-XL | JNE3817 | 449.0 | diff=3.0
+- MEN5003-KR-XL | MEN5003 | 449.0 | diff=3.0

@@ -1,0 +1,10 @@
+=== PRODUCT #6313 (PJNE3421-KR-N-5XL) ===
+Category: kurta
+Size: 5XL
+Core: KR-N
+Style: PJNE3421
+Amount: 925.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- PJNE3252-KR-N-5XL | PJNE3252 | 925.0 | diff=0.0
+- PJNE3439-KR-N-5XL | PJNE3439 | 925.0 | diff=0.0

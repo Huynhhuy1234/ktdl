@@ -1,0 +1,9 @@
+=== PRODUCT #6505 (J0196-TP-XS) ===
+Category: Top
+Size: XS
+Core: TP
+Style: J0196
+Amount: 446.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0183-TP-XS | J0183 | 443.0 | diff=3.0

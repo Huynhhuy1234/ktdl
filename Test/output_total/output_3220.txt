@@ -1,0 +1,10 @@
+=== PRODUCT #3220 (J0185-DR-XXL) ===
+Category: Ethnic Dress
+Size: XXL
+Core: DR
+Style: J0185
+Amount: 799.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0101-DR-XXL | J0101 | 799.0 | diff=0.0
+- J0212-DR-XXL | J0212 | 791.0 | diff=8.0

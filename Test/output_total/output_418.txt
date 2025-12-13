@@ -1,0 +1,9 @@
+=== PRODUCT #418 (SET182-KR-DH-XXXL) ===
+Category: Set
+Size: 3XL
+Core: KR-DH
+Style: SET182
+Amount: 657.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET075-KR-DH-XXXL | SET075 | 648.0 | diff=9.0

@@ -1,0 +1,9 @@
+=== PRODUCT #5322 (PJNE3364-KR-6XL) ===
+Category: kurta
+Size: 6XL
+Core: KR
+Style: PJNE3364
+Amount: 836.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- PJNE3607-KR-6XL | PJNE3607 | 827.0 | diff=9.0

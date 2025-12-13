@@ -1,0 +1,12 @@
+=== PRODUCT #5096 (JNE3865-TP-XS) ===
+Category: Top
+Size: XS
+Core: TP
+Style: JNE3865
+Amount: 513.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0337-TP-XS | J0337 | 518.0 | diff=5.0
+- J0118-TP-XS | J0118 | 518.0 | diff=5.0
+- J0117-TP-XS | J0117 | 518.0 | diff=5.0
+- J0307-TP-XS | J0307 | 518.0 | diff=5.0

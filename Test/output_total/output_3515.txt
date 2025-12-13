@@ -1,0 +1,13 @@
+=== PRODUCT #3515 (J0142-KR-M) ===
+Category: kurta
+Size: M
+Core: KR
+Style: J0142
+Amount: 413.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3394-KR-M | JNE3394 | 418.0 | diff=5.0
+- JNE3734-KR-M | JNE3734 | 418.0 | diff=5.0
+- JNE3412-KR-M | JNE3412 | 419.0 | diff=6.0
+- JNE3566-KR-M | JNE3566 | 419.0 | diff=6.0
+- JNE3454-KR-M | JNE3454 | 419.0 | diff=6.0

@@ -1,0 +1,10 @@
+=== PRODUCT #3596 (J0042-DR-L) ===
+Category: Western Dress
+Size: L
+Core: DR
+Style: J0042
+Amount: 657.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0081-DR-L | J0081 | 658.0 | diff=1.0
+- J0308-DR-L | J0308 | 665.0 | diff=8.0

@@ -1,0 +1,9 @@
+=== PRODUCT #5214 (SET251-KR-PP-XXXL) ===
+Category: Set
+Size: 3XL
+Core: KR-PP
+Style: SET251
+Amount: 759.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET252-KR-PP-XXXL | SET252 | 759.0 | diff=0.0

@@ -1,0 +1,9 @@
+=== PRODUCT #3733 (SET121-KR-NP-XXXL) ===
+Category: Set
+Size: 3XL
+Core: KR-NP
+Style: SET121
+Amount: 495.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET352-KR-NP-XXXL | SET352 | 486.0 | diff=9.0

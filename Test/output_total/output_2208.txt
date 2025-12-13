@@ -1,0 +1,13 @@
+=== PRODUCT #2208 (JNE3771-KR-XXXL) ===
+Category: kurta
+Size: 3XL
+Core: KR
+Style: JNE3771
+Amount: 432.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3741-KR-XXXL | JNE3741 | 432.0 | diff=0.0
+- JNE3391-KR-XXXL | JNE3391 | 432.0 | diff=0.0
+- JNE3294-KR-XXXL | JNE3294 | 432.0 | diff=0.0
+- JNE3792-KR-XXXL | JNE3792 | 432.0 | diff=0.0
+- JNE3742-KR-XXXL | JNE3742 | 432.0 | diff=0.0

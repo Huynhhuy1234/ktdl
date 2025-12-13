@@ -1,0 +1,13 @@
+=== PRODUCT #2735 (JNE3065-KR-S) ===
+Category: kurta
+Size: S
+Core: KR
+Style: JNE3065
+Amount: 393.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3144-KR-S | JNE3144 | 390.0 | diff=3.0
+- J0142-KR-S | J0142 | 396.0 | diff=3.0
+- JNE3359-KR-S | JNE3359 | 390.0 | diff=3.0
+- JNE3405-KR-S | JNE3405 | 399.0 | diff=6.0
+- J0033-KR-S | J0033 | 399.0 | diff=6.0

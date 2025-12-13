@@ -1,0 +1,11 @@
+=== PRODUCT #3735 (SET340-KR-NP-XL) ===
+Category: Set
+Size: XL
+Core: KR-NP
+Style: SET340
+Amount: 799.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET196-KR-NP-XL | SET196 | 799.0 | diff=0.0
+- SET244-KR-NP-XL | SET244 | 799.0 | diff=0.0
+- SET347-KR-NP-XL | SET347 | 801.0 | diff=2.0

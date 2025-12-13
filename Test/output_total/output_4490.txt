@@ -1,0 +1,13 @@
+=== PRODUCT #4490 (J0149-KR-S) ===
+Category: kurta
+Size: S
+Core: KR
+Style: J0149
+Amount: 315.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3745-KR-S | JNE3745 | 316.0 | diff=1.0
+- JNE3790-KR-S | JNE3790 | 316.0 | diff=1.0
+- JNE3545-KR-S | JNE3545 | 318.0 | diff=3.0
+- J0026-KR-S | J0026 | 318.0 | diff=3.0
+- J0072-KR-S | J0072 | 318.0 | diff=3.0

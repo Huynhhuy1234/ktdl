@@ -1,0 +1,9 @@
+=== PRODUCT #4023 (NW027-TP-PJ-XL) ===
+Category: Set
+Size: XL
+Core: TP-PJ
+Style: NW027
+Amount: 613.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- NW034-TP-PJ-XL | NW034 | 613.0 | diff=0.0

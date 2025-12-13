@@ -1,0 +1,10 @@
+=== PRODUCT #5020 (J0402-DR-S) ===
+Category: Western Dress
+Size: S
+Core: DR
+Style: J0402
+Amount: 688.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3710-DR-S | JNE3710 | 690.0 | diff=2.0
+- JNE3880-DR-S | JNE3880 | 690.0 | diff=2.0

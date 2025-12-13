@@ -1,0 +1,9 @@
+=== PRODUCT #4248 (JNE3389-KR-A-XXXL) ===
+Category: kurta
+Size: 3XL
+Core: KR-A
+Style: JNE3389
+Amount: 574.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3313-KR-A-XXXL | JNE3313 | 582.0 | diff=8.0

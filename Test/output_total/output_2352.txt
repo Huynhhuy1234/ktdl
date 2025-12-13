@@ -1,0 +1,9 @@
+=== PRODUCT #2352 (SET240-KR-PP-XL) ===
+Category: Set
+Size: XL
+Core: KR-PP
+Style: SET240
+Amount: 629.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET083-KR-PP-XL | SET083 | 619.0 | diff=10.0

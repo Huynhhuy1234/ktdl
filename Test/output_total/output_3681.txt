@@ -1,0 +1,10 @@
+=== PRODUCT #3681 (J0062-DR-XS) ===
+Category: Western Dress
+Size: XS
+Core: DR
+Style: J0062
+Amount: 491.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3707-DR-XS | JNE3707 | 496.0 | diff=5.0
+- JNE3631-DR-XS | JNE3631 | 499.0 | diff=8.0

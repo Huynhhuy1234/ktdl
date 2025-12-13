@@ -1,0 +1,10 @@
+=== PRODUCT #3495 (JNE3865-TP-M) ===
+Category: Top
+Size: M
+Core: TP
+Style: JNE3865
+Amount: 599.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0336-TP-M | J0336 | 599.0 | diff=0.0
+- J0213-TP-M | J0213 | 599.0 | diff=0.0

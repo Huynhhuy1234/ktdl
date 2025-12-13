@@ -1,0 +1,11 @@
+=== PRODUCT #832 (J0292-TP-XS) ===
+Category: Top
+Size: XS
+Core: TP
+Style: J0292
+Amount: 377.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3654-TP-XS | JNE3654 | 387.0 | diff=10.0
+- J0205-TP-XS | J0205 | 387.0 | diff=10.0
+- J0176-TP-XS | J0176 | 387.0 | diff=10.0

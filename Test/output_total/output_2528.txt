@@ -1,0 +1,11 @@
+=== PRODUCT #2528 (SET058-KR-NP-XXL) ===
+Category: Set
+Size: XXL
+Core: KR-NP
+Style: SET058
+Amount: 847.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET267-KR-NP-XXL | SET267 | 852.0 | diff=5.0
+- SET413-KR-NP-XXL | SET413 | 852.0 | diff=5.0
+- SET320-KR-NP-XXL | SET320 | 856.0 | diff=9.0

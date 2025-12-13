@@ -1,0 +1,13 @@
+=== PRODUCT #6174 (SET431-KR-NP-XXXL) ===
+Category: Set
+Size: 3XL
+Core: KR-NP
+Style: SET431
+Amount: 845.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET058-KR-NP-XXXL | SET058 | 847.0 | diff=2.0
+- SET043-KR-NP-XXXL | SET043 | 849.0 | diff=4.0
+- SET413-KR-NP-XXXL | SET413 | 841.0 | diff=4.0
+- SET267-KR-NP-XXXL | SET267 | 852.0 | diff=7.0
+- SET353-KR-NP-XXXL | SET353 | 852.0 | diff=7.0

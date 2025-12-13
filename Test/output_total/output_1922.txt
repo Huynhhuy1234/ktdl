@@ -1,0 +1,13 @@
+=== PRODUCT #1922 (J0399-DR-XXL) ===
+Category: Western Dress
+Size: XXL
+Core: DR
+Style: J0399
+Amount: 791.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0341-DR-XXL | J0341 | 791.0 | diff=0.0
+- JNE3861-DR-XXL | JNE3861 | 791.0 | diff=0.0
+- J0338-DR-XXL | J0338 | 791.0 | diff=0.0
+- J0339-DR-XXL | J0339 | 791.0 | diff=0.0
+- JNE3879-DR-XXL | JNE3879 | 791.0 | diff=0.0

@@ -1,0 +1,9 @@
+=== PRODUCT #1498 (SET224-KR-NP-XS) ===
+Category: Set
+Size: XS
+Core: KR-NP
+Style: SET224
+Amount: 1287.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET394-KR-NP-XS | SET394 | 1281.0 | diff=6.0

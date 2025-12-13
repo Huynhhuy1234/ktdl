@@ -1,0 +1,13 @@
+=== PRODUCT #340 (JNE3784-KR-M) ===
+Category: kurta
+Size: M
+Core: KR
+Style: JNE3784
+Amount: 458.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3697-KR-M | JNE3697 | 458.0 | diff=0.0
+- MEN5010-KR-M | MEN5010 | 458.0 | diff=0.0
+- JNE3636-KR-M | JNE3636 | 459.0 | diff=1.0
+- JNE3614-KR-M | JNE3614 | 459.0 | diff=1.0
+- JNE3738-KR-M | JNE3738 | 459.0 | diff=1.0

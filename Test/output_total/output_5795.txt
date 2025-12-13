@@ -1,0 +1,10 @@
+=== PRODUCT #5795 (NW034-TP-PJ-L) ===
+Category: Set
+Size: L
+Core: TP-PJ
+Style: NW034
+Amount: 595.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- NW031-TP-PJ-L | NW031 | 599.0 | diff=4.0
+- NW022-TP-PJ-L | NW022 | 590.0 | diff=5.0

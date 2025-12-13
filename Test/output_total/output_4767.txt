@@ -1,0 +1,9 @@
+=== PRODUCT #4767 (JNE3666-TP-M) ===
+Category: Top
+Size: M
+Core: TP
+Style: JNE3666
+Amount: 299.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0091-TP-M | J0091 | 298.0 | diff=1.0

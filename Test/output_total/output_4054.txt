@@ -1,0 +1,9 @@
+=== PRODUCT #4054 (NW013-ST-SR-XS) ===
+Category: Set
+Size: XS
+Core: ST-SR
+Style: NW013
+Amount: 496.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- NW006-ST-SR-XS | NW006 | 496.0 | diff=0.0

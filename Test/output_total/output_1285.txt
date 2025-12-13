@@ -1,0 +1,11 @@
+=== PRODUCT #1285 (JNE3880-DR-M) ===
+Category: Western Dress
+Size: M
+Core: DR
+Style: JNE3880
+Amount: 690.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0306-DR-M | J0306 | 690.0 | diff=0.0
+- JNE3710-DR-M | JNE3710 | 690.0 | diff=0.0
+- J0332-DR-M | J0332 | 699.0 | diff=9.0

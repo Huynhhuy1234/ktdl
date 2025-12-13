@@ -1,0 +1,9 @@
+=== PRODUCT #4547 (J0005-DR-XL) ===
+Category: Western Dress
+Size: XL
+Core: DR
+Style: J0005
+Amount: 1249.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0152-DR-XL | J0152 | 1249.0 | diff=0.0

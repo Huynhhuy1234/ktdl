@@ -1,0 +1,9 @@
+=== PRODUCT #5488 (SET435-KR-NP-S) ===
+Category: Set
+Size: S
+Core: KR-NP
+Style: SET435
+Amount: 1399.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET436-KR-NP-S | SET436 | 1399.0 | diff=0.0

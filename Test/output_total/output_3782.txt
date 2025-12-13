@@ -1,0 +1,12 @@
+=== PRODUCT #3782 (J0203-TP-S) ===
+Category: Top
+Size: S
+Core: TP
+Style: J0203
+Amount: 568.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0090-TP-S | J0090 | 563.0 | diff=5.0
+- J0113-TP-S | J0113 | 574.0 | diff=6.0
+- J0297-TP-S | J0297 | 574.0 | diff=6.0
+- J0084-TP-S | J0084 | 560.0 | diff=8.0

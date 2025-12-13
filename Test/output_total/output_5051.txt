@@ -1,0 +1,13 @@
+=== PRODUCT #5051 (MEN5030-KR-XXXL) ===
+Category: kurta
+Size: 3XL
+Core: KR
+Style: MEN5030
+Amount: 590.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3887-KR-XXXL | JNE3887 | 590.0 | diff=0.0
+- J0083-KR-XXXL | J0083 | 591.0 | diff=1.0
+- JNE3313-KR-XXXL | JNE3313 | 582.0 | diff=8.0
+- JNE3898-KR-XXXL | JNE3898 | 582.0 | diff=8.0
+- JNE3896-KR-XXXL | JNE3896 | 582.0 | diff=8.0

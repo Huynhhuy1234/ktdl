@@ -1,0 +1,11 @@
+=== PRODUCT #3037 (J0124-TP-L) ===
+Category: Top
+Size: L
+Core: TP
+Style: J0124
+Amount: 523.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0337-TP-L | J0337 | 518.0 | diff=5.0
+- J0307-TP-L | J0307 | 518.0 | diff=5.0
+- J0172-TP-L | J0172 | 518.0 | diff=5.0

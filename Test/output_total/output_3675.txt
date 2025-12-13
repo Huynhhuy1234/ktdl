@@ -1,0 +1,9 @@
+=== PRODUCT #3675 (J0348-SET-M) ===
+Category: Set
+Size: M
+Core: SET
+Style: J0348
+Amount: 499.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0145-SET-M | J0145 | 493.0 | diff=6.0

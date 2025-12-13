@@ -1,0 +1,10 @@
+=== PRODUCT #2285 (SET218-KR-NP-XXXL) ===
+Category: Set
+Size: 3XL
+Core: KR-NP
+Style: SET218
+Amount: 699.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET375-KR-NP-XXXL | SET375 | 696.0 | diff=3.0
+- SET339-KR-NP-XXXL | SET339 | 696.0 | diff=3.0

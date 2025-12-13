@@ -1,0 +1,11 @@
+=== PRODUCT #839 (J0118-TP-L) ===
+Category: Top
+Size: L
+Core: TP
+Style: J0118
+Amount: 487.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0344-TP-L | J0344 | 487.0 | diff=0.0
+- J0301-TP-L | J0301 | 493.0 | diff=6.0
+- J0214-TP-L | J0214 | 495.0 | diff=8.0

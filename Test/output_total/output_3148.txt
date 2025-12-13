@@ -1,0 +1,10 @@
+=== PRODUCT #3148 (J0340-TP-XXL) ===
+Category: Top
+Size: XXL
+Core: TP
+Style: J0340
+Amount: 563.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0090-TP-XXL | J0090 | 563.0 | diff=0.0
+- J0203-TP-XXL | J0203 | 568.0 | diff=5.0

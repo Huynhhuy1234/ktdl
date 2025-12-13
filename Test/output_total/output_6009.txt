@@ -1,0 +1,9 @@
+=== PRODUCT #6009 (NW006-ST-SR-L) ===
+Category: Set
+Size: L
+Core: ST-SR
+Style: NW006
+Amount: 496.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- NW013-ST-SR-L | NW013 | 496.0 | diff=0.0

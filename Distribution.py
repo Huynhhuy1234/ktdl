@@ -65,4 +65,4 @@ if "Amount" in df.columns:
                       title="Distribution of log1p(Amount)",
                       fname="log1p_Amount_hist.png")
 
-print("✅ Saved charts to:", OUT_DIR.resolve().as_posix())
+print("Saved charts to:", OUT_DIR.resolve().as_posix())

@@ -1,0 +1,9 @@
+=== PRODUCT #1710 (J0020-SET-XS) ===
+Category: Set
+Size: XS
+Core: SET
+Style: J0020
+Amount: 571.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0019-SET-XS | J0019 | 579.0 | diff=8.0

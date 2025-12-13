@@ -1,0 +1,11 @@
+=== PRODUCT #6224 (JNE3648-TP-N-XL) ===
+Category: Top
+Size: XL
+Core: TP-N
+Style: JNE3648
+Amount: 487.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3639-TP-N-XL | JNE3639 | 487.0 | diff=0.0
+- JNE3640-TP-N-XL | JNE3640 | 487.0 | diff=0.0
+- JNE3659-TP-N-XL | JNE3659 | 493.0 | diff=6.0

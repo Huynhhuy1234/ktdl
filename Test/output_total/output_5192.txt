@@ -1,0 +1,11 @@
+=== PRODUCT #5192 (MEN5014-KR-XL) ===
+Category: kurta
+Size: XL
+Core: KR
+Style: MEN5014
+Amount: 665.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3856-KR-XL | JNE3856 | 666.0 | diff=1.0
+- JNE3807-KR-XL | JNE3807 | 666.0 | diff=1.0
+- JNE3799-KR-XL | JNE3799 | 657.0 | diff=8.0

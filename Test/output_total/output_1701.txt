@@ -1,0 +1,9 @@
+=== PRODUCT #1701 (J0415-DR-M) ===
+Category: Western Dress
+Size: M
+Core: DR
+Style: J0415
+Amount: 899.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0431-DR-M | J0431 | 899.0 | diff=0.0

@@ -1,0 +1,9 @@
+=== PRODUCT #1300 (JNE3866-KR-XXL) ===
+Category: kurta
+Size: XXL
+Core: KR
+Style: JNE3866
+Amount: 888.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0385-KR-XXL | J0385 | 888.0 | diff=0.0

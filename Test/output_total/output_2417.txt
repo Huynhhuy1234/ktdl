@@ -1,0 +1,13 @@
+=== PRODUCT #2417 (JNE3501-KR-XXXL) ===
+Category: kurta
+Size: 3XL
+Core: KR
+Style: JNE3501
+Amount: 419.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3412-KR-XXXL | JNE3412 | 419.0 | diff=0.0
+- JNE3454-KR-XXXL | JNE3454 | 419.0 | diff=0.0
+- JNE3535-KR-XXXL | JNE3535 | 419.0 | diff=0.0
+- J0150-KR-XXXL | J0150 | 420.0 | diff=1.0
+- JNE3736-KR-XXXL | JNE3736 | 421.0 | diff=2.0

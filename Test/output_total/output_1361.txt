@@ -1,0 +1,9 @@
+=== PRODUCT #1361 (J0086-DR-XS) ===
+Category: Ethnic Dress
+Size: XS
+Core: DR
+Style: J0086
+Amount: 569.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0015-DR-XS | J0015 | 566.0 | diff=3.0

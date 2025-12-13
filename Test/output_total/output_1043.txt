@@ -1,0 +1,9 @@
+=== PRODUCT #1043 (JNE3706-DR-XXXL) ===
+Category: Western Dress
+Size: 3XL
+Core: DR
+Style: JNE3706
+Amount: 413.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3625-DR-XXXL | JNE3625 | 421.0 | diff=8.0

@@ -1,0 +1,9 @@
+=== PRODUCT #6239 (BTM048-PP-XXL) ===
+Category: Bottom
+Size: XXL
+Core: PP
+Style: BTM048
+Amount: 331.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- BTM042-PP-XXL | BTM042 | 329.0 | diff=2.0

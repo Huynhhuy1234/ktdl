@@ -1,0 +1,13 @@
+=== PRODUCT #1055 (JNE3759-KR-L) ===
+Category: kurta
+Size: L
+Core: KR
+Style: JNE3759
+Amount: 544.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3750-KR-L | JNE3750 | 544.0 | diff=0.0
+- MEN5023-KR-L | MEN5023 | 549.0 | diff=5.0
+- MEN5017-KR-L | MEN5017 | 549.0 | diff=5.0
+- JNE3727-KR-L | JNE3727 | 549.0 | diff=5.0
+- JNE3733-KR-L | JNE3733 | 549.0 | diff=5.0

@@ -1,0 +1,10 @@
+=== PRODUCT #1639 (J0204-TP-XXXL) ===
+Category: Top
+Size: 3XL
+Core: TP
+Style: J0204
+Amount: 751.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3892-TP-XXXL | JNE3892 | 751.0 | diff=0.0
+- JNE3894-TP-XXXL | JNE3894 | 751.0 | diff=0.0

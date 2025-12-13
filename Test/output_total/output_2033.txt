@@ -1,0 +1,9 @@
+=== PRODUCT #2033 (JNE3799-KR-XS) ===
+Category: kurta
+Size: XS
+Core: KR
+Style: JNE3799
+Amount: 666.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3856-KR-XS | JNE3856 | 666.0 | diff=0.0

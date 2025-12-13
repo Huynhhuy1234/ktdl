@@ -1,0 +1,9 @@
+=== PRODUCT #384 (J0236-SKD-S) ===
+Category: Set
+Size: S
+Core: SKD
+Style: J0236
+Amount: 950.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0254-SKD-S | J0254 | 955.0 | diff=5.0

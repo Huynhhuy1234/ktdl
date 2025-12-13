@@ -1,0 +1,13 @@
+=== PRODUCT #1464 (MEN5021-KR-XXL) ===
+Category: kurta
+Size: XXL
+Core: KR
+Style: MEN5021
+Amount: 533.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- MEN5025-KR-XXL | MEN5025 | 533.0 | diff=0.0
+- MEN5022-KR-XXL | MEN5022 | 533.0 | diff=0.0
+- JNE3463-KR-XXL | JNE3463 | 534.0 | diff=1.0
+- J0097-KR-XXL | J0097 | 534.0 | diff=1.0
+- JNE3629-KR-XXL | JNE3629 | 526.0 | diff=7.0

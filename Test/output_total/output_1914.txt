@@ -1,0 +1,9 @@
+=== PRODUCT #1914 (JNE3421-KR-N-XL) ===
+Category: kurta
+Size: XL
+Core: KR-N
+Style: JNE3421
+Amount: 399.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3440-KR-N-XL | JNE3440 | 399.0 | diff=0.0

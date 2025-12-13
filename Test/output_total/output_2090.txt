@@ -1,0 +1,9 @@
+=== PRODUCT #2090 (SET400-KR-NP-M) ===
+Category: Set
+Size: M
+Core: KR-NP
+Style: SET400
+Amount: 1254.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET388-KR-NP-M | SET388 | 1260.0 | diff=6.0

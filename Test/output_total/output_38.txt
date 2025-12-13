@@ -1,0 +1,11 @@
+=== PRODUCT #38 (JNE3869-DR-S) ===
+Category: Western Dress
+Size: S
+Core: DR
+Style: JNE3869
+Amount: 721.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0208-DR-S | J0208 | 721.0 | diff=0.0
+- J0158-DR-S | J0158 | 721.0 | diff=0.0
+- JNE3870-DR-S | JNE3870 | 721.0 | diff=0.0

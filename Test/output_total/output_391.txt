@@ -1,0 +1,11 @@
+=== PRODUCT #391 (J0336-TP-XXXL) ===
+Category: Top
+Size: 3XL
+Core: TP
+Style: J0336
+Amount: 599.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3865-TP-XXXL | JNE3865 | 599.0 | diff=0.0
+- J0213-TP-XXXL | J0213 | 599.0 | diff=0.0
+- JNE3893-TP-XXXL | JNE3893 | 602.0 | diff=3.0

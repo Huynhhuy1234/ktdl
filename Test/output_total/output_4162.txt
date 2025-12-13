@@ -1,0 +1,13 @@
+=== PRODUCT #4162 (JNE3658-TP-XL) ===
+Category: Top
+Size: XL
+Core: TP
+Style: JNE3658
+Amount: 359.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0089-TP-XL | J0089 | 360.0 | diff=1.0
+- J0082-TP-XL | J0082 | 360.0 | diff=1.0
+- J0085-TP-XL | J0085 | 360.0 | diff=1.0
+- J0165-TP-XL | J0165 | 355.0 | diff=4.0
+- J0112-TP-XL | J0112 | 354.0 | diff=5.0

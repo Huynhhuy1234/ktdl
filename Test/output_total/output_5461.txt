@@ -1,0 +1,9 @@
+=== PRODUCT #5461 (SET186-KR-DH-XS) ===
+Category: Set
+Size: XS
+Core: KR-DH
+Style: SET186
+Amount: 599.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET187-KR-DH-XS | SET187 | 599.0 | diff=0.0

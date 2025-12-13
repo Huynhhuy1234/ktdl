@@ -1,0 +1,11 @@
+=== PRODUCT #124 (J0308-DR-L) ===
+Category: Western Dress
+Size: L
+Core: DR
+Style: J0308
+Amount: 665.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0194-DR-L | J0194 | 668.0 | diff=3.0
+- J0081-DR-L | J0081 | 658.0 | diff=7.0
+- J0042-DR-L | J0042 | 657.0 | diff=8.0

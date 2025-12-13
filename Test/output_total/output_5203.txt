@@ -1,0 +1,9 @@
+=== PRODUCT #5203 (J0389-TP-S) ===
+Category: Top
+Size: S
+Core: TP
+Style: J0389
+Amount: 665.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0195-TP-S | J0195 | 665.0 | diff=0.0

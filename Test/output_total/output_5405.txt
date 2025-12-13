@@ -1,0 +1,13 @@
+=== PRODUCT #5405 (JNE3640-TP-N-S) ===
+Category: Top
+Size: S
+Core: TP-N
+Style: JNE3640
+Amount: 518.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3668-TP-N-S | JNE3668 | 518.0 | diff=0.0
+- JNE3639-TP-N-S | JNE3639 | 518.0 | diff=0.0
+- JNE3712-TP-N-S | JNE3712 | 518.0 | diff=0.0
+- JNE3656-TP-N-S | JNE3656 | 518.0 | diff=0.0
+- JNE3648-TP-N-S | JNE3648 | 518.0 | diff=0.0

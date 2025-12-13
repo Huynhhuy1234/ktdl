@@ -1,0 +1,13 @@
+=== PRODUCT #1730 (J0033-KR-XXXL) ===
+Category: kurta
+Size: 3XL
+Core: KR
+Style: J0033
+Amount: 399.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0139-KR-XXXL | J0139 | 399.0 | diff=0.0
+- JNE3405-KR-XXXL | JNE3405 | 399.0 | diff=0.0
+- JNE3701-KR-XXXL | JNE3701 | 399.0 | diff=0.0
+- JNE3716-KR-XXXL | JNE3716 | 399.0 | diff=0.0
+- JNE3777-KR-XXXL | JNE3777 | 399.0 | diff=0.0

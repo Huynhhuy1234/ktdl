@@ -1,0 +1,9 @@
+=== PRODUCT #5416 (PJNE2270-KR-N-6XL) ===
+Category: kurta
+Size: 6XL
+Core: KR-N
+Style: PJNE2270
+Amount: 1099.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- PJNE2171-KR-N-6XL | PJNE2171 | 1099.0 | diff=0.0

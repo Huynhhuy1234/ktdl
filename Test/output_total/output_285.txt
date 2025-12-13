@@ -1,0 +1,10 @@
+=== PRODUCT #285 (J0157-DR-S) ===
+Category: Western Dress
+Size: S
+Core: DR
+Style: J0157
+Amount: 588.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3860-DR-S | JNE3860 | 596.0 | diff=8.0
+- J0159-DR-S | J0159 | 579.0 | diff=9.0

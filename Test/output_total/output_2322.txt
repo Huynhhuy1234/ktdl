@@ -1,0 +1,9 @@
+=== PRODUCT #2322 (JNE3691-TU-XXL) ===
+Category: Top
+Size: XXL
+Core: TU
+Style: JNE3691
+Amount: 625.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3669-TU-XXL | JNE3669 | 625.0 | diff=0.0

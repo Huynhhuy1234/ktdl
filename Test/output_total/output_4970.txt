@@ -1,0 +1,9 @@
+=== PRODUCT #4970 (JNE3641-TP-N-XS) ===
+Category: Top
+Size: XS
+Core: TP-N
+Style: JNE3641
+Amount: 354.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3713-TP-N-XS | JNE3713 | 359.0 | diff=5.0

@@ -1,0 +1,12 @@
+=== PRODUCT #5315 (SET394-KR-NP-XL) ===
+Category: Set
+Size: XL
+Core: KR-NP
+Style: SET394
+Amount: 1096.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET356-KR-NP-XL | SET356 | 1099.0 | diff=3.0
+- SET313-KR-NP-XL | SET313 | 1099.0 | diff=3.0
+- SET359-KR-NP-XL | SET359 | 1099.0 | diff=3.0
+- SET365-KR-NP-XL | SET365 | 1099.0 | diff=3.0

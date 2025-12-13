@@ -1,0 +1,10 @@
+=== PRODUCT #5733 (J0208-DR-L) ===
+Category: Western Dress
+Size: L
+Core: DR
+Style: J0208
+Amount: 605.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0159-DR-L | J0159 | 599.0 | diff=6.0
+- JNE3904-DR-L | JNE3904 | 599.0 | diff=6.0

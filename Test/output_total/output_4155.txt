@@ -1,0 +1,12 @@
+=== PRODUCT #4155 (J0080-TP-XXL) ===
+Category: Top
+Size: XXL
+Core: TP
+Style: J0080
+Amount: 531.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0124-TP-XXL | J0124 | 523.0 | diff=8.0
+- J0119-TP-XXL | J0119 | 540.0 | diff=9.0
+- J0342-TP-XXL | J0342 | 540.0 | diff=9.0
+- J0113-TP-XXL | J0113 | 540.0 | diff=9.0

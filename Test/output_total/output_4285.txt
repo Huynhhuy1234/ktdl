@@ -1,0 +1,9 @@
+=== PRODUCT #4285 (J0153-DR-S) ===
+Category: Western Dress
+Size: S
+Core: DR
+Style: J0153
+Amount: 443.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0173-DR-S | J0173 | 436.0 | diff=7.0

@@ -1,0 +1,10 @@
+=== PRODUCT #2010 (SET094-KR-NP-M) ===
+Category: Set
+Size: M
+Core: KR-NP
+Style: SET094
+Amount: 758.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET197-KR-NP-M | SET197 | 759.0 | diff=1.0
+- SET253-KR-NP-M | SET253 | 750.0 | diff=8.0

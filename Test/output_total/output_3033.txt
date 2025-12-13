@@ -1,0 +1,10 @@
+=== PRODUCT #3033 (J0140-SET-S) ===
+Category: Set
+Size: S
+Core: SET
+Style: J0140
+Amount: 591.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0135-SET-S | J0135 | 591.0 | diff=0.0
+- J0019-SET-S | J0019 | 587.0 | diff=4.0

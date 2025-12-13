@@ -1,0 +1,9 @@
+=== PRODUCT #310 (J0342-TP-L) ===
+Category: Top
+Size: L
+Core: TP
+Style: J0342
+Amount: 540.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0119-TP-L | J0119 | 540.0 | diff=0.0

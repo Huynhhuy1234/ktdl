@@ -1,0 +1,10 @@
+=== PRODUCT #1520 (J0039-SET-S) ===
+Category: Set
+Size: S
+Core: SET
+Style: J0039
+Amount: 648.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0095-SET-S | J0095 | 653.0 | diff=5.0
+- J0003-SET-S | J0003 | 654.0 | diff=6.0

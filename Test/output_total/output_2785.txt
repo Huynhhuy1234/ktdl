@@ -1,0 +1,9 @@
+=== PRODUCT #2785 (SET229-KR-PP-XS) ===
+Category: Set
+Size: XS
+Core: KR-PP
+Style: SET229
+Amount: 888.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET258-KR-PP-XS | SET258 | 881.0 | diff=7.0

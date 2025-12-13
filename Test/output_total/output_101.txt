@@ -1,0 +1,11 @@
+=== PRODUCT #101 (SET361-KR-NP-S) ===
+Category: Set
+Size: S
+Core: KR-NP
+Style: SET361
+Amount: 1126.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET364-KR-NP-S | SET364 | 1126.0 | diff=0.0
+- SET360-KR-NP-S | SET360 | 1126.0 | diff=0.0
+- SET366-KR-NP-S | SET366 | 1130.0 | diff=4.0

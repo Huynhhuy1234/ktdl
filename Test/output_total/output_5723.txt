@@ -1,0 +1,9 @@
+=== PRODUCT #5723 (J0186-SET-XS) ===
+Category: Set
+Size: XS
+Core: SET
+Style: J0186
+Amount: 848.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0137-SET-XS | J0137 | 841.0 | diff=7.0

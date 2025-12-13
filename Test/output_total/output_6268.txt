@@ -1,0 +1,13 @@
+=== PRODUCT #6268 (J0330-KR-M) ===
+Category: kurta
+Size: M
+Core: KR
+Style: J0330
+Amount: 575.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0097-KR-M | J0097 | 568.0 | diff=7.0
+- JNE3463-KR-M | JNE3463 | 568.0 | diff=7.0
+- J0094-KR-M | J0094 | 568.0 | diff=7.0
+- JNE3609-KR-M | JNE3609 | 568.0 | diff=7.0
+- JNE3811-KR-M | JNE3811 | 568.0 | diff=7.0

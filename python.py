@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("Amazon Sale Report.csv")
+df = pd.read_csv("Dataset/Amazon Sale Report.csv")
 
 # lay cac cot can thiet
 df = df[["SKU", "Category", "Style", "Size", "Qty", "Amount", "Status"]]
@@ -43,7 +43,7 @@ print(df.info())
 print(df.nunique())
 print(df.describe())
 
-df.to_csv("new_data_to_analysis.csv", index=False)
+df.to_csv("Dataset/new_data_to_analysis.csv", index=False)
 
 
 

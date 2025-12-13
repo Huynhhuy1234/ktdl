@@ -1,0 +1,12 @@
+=== PRODUCT #993 (JNE3773-KR-M) ===
+Category: kurta
+Size: M
+Core: KR
+Style: JNE3773
+Amount: 280.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3715-KR-M | JNE3715 | 283.0 | diff=3.0
+- JNE3722-KR-M | JNE3722 | 277.0 | diff=3.0
+- JNE3603-KR-M | JNE3603 | 286.0 | diff=6.0
+- JNE3717-KR-M | JNE3717 | 271.0 | diff=9.0

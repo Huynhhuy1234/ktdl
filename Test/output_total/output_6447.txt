@@ -1,0 +1,11 @@
+=== PRODUCT #6447 (JNE3743-TP-M) ===
+Category: Top
+Size: M
+Core: TP
+Style: JNE3743
+Amount: 385.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3654-TP-M | JNE3654 | 387.0 | diff=2.0
+- J0176-TP-M | J0176 | 387.0 | diff=2.0
+- J0205-TP-M | J0205 | 387.0 | diff=2.0

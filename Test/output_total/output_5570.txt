@@ -1,0 +1,11 @@
+=== PRODUCT #5570 (J0413-DR-XXL) ===
+Category: Western Dress
+Size: XXL
+Core: DR
+Style: J0413
+Amount: 741.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0343-DR-XXL | J0343 | 744.0 | diff=3.0
+- JNE3860-DR-XXL | JNE3860 | 736.0 | diff=5.0
+- J0434-DR-XXL | J0434 | 749.0 | diff=8.0

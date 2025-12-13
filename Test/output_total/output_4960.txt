@@ -1,0 +1,13 @@
+=== PRODUCT #4960 (MEN5029-KR-L) ===
+Category: kurta
+Size: L
+Core: KR
+Style: MEN5029
+Amount: 625.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3813-KR-L | JNE3813 | 627.0 | diff=2.0
+- J0155-KR-L | J0155 | 627.0 | diff=2.0
+- J0352-KR-L | J0352 | 627.0 | diff=2.0
+- JNE3837-KR-L | JNE3837 | 635.0 | diff=10.0
+- JNE3506-KR-L | JNE3506 | 635.0 | diff=10.0

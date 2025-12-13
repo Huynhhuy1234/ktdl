@@ -1,0 +1,11 @@
+=== PRODUCT #3356 (SET165-KR-PP-XXXL) ===
+Category: Set
+Size: 3XL
+Core: KR-PP
+Style: SET165
+Amount: 567.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET291-KR-PP-XXXL | SET291 | 563.0 | diff=4.0
+- SET184-KR-PP-XXXL | SET184 | 563.0 | diff=4.0
+- SET210-KR-PP-XXXL | SET210 | 575.0 | diff=8.0

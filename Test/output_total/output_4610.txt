@@ -1,0 +1,9 @@
+=== PRODUCT #4610 (J0077-SKD-XS) ===
+Category: Set
+Size: XS
+Core: SKD
+Style: J0077
+Amount: 1170.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0382-SKD-XS | J0382 | 1173.0 | diff=3.0

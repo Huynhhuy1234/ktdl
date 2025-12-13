@@ -1,0 +1,13 @@
+=== PRODUCT #1106 (JNE3818-KR-XXXL) ===
+Category: kurta
+Size: 3XL
+Core: KR
+Style: JNE3818
+Amount: 499.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- MEN5014-KR-XXXL | MEN5014 | 499.0 | diff=0.0
+- MEN5008-KR-XXXL | MEN5008 | 499.0 | diff=0.0
+- MEN5009-KR-XXXL | MEN5009 | 499.0 | diff=0.0
+- JNE3819-KR-XXXL | JNE3819 | 499.0 | diff=0.0
+- MEN5026-KR-XXXL | MEN5026 | 499.0 | diff=0.0

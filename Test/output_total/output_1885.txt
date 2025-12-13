@@ -1,0 +1,10 @@
+=== PRODUCT #1885 (J0157-DR-M) ===
+Category: Western Dress
+Size: M
+Core: DR
+Style: J0157
+Amount: 625.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0308-DR-M | J0308 | 625.0 | diff=0.0
+- JNE3905-DR-M | JNE3905 | 625.0 | diff=0.0

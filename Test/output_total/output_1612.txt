@@ -1,0 +1,13 @@
+=== PRODUCT #1612 (JNE3391-KR-M) ===
+Category: kurta
+Size: M
+Core: KR
+Style: JNE3391
+Amount: 432.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3718-KR-M | JNE3718 | 432.0 | diff=0.0
+- JNE3376-KR-M | JNE3376 | 432.0 | diff=0.0
+- JNE3294-KR-M | JNE3294 | 432.0 | diff=0.0
+- JNE3741-KR-M | JNE3741 | 432.0 | diff=0.0
+- JNE3779-KR-M | JNE3779 | 432.0 | diff=0.0

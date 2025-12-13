@@ -1,0 +1,9 @@
+=== PRODUCT #4098 (SET401-KR-NP-XXL) ===
+Category: Set
+Size: XXL
+Core: KR-NP
+Style: SET401
+Amount: 1186.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET397-KR-NP-XXL | SET397 | 1186.0 | diff=0.0

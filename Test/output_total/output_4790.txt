@@ -1,0 +1,13 @@
+=== PRODUCT #4790 (J0112-TP-S) ===
+Category: Top
+Size: S
+Core: TP
+Style: J0112
+Amount: 354.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0160-TP-S | J0160 | 352.0 | diff=2.0
+- JNE3658-TP-S | JNE3658 | 359.0 | diff=5.0
+- J0190-TP-S | J0190 | 360.0 | diff=6.0
+- J0085-TP-S | J0085 | 360.0 | diff=6.0
+- J0089-TP-S | J0089 | 360.0 | diff=6.0

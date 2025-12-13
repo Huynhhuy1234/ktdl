@@ -1,0 +1,9 @@
+=== PRODUCT #5380 (NW038-ST-SR-XL) ===
+Category: Set
+Size: XL
+Core: ST-SR
+Style: NW038
+Amount: 517.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- NW020-ST-SR-XL | NW020 | 525.0 | diff=8.0

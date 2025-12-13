@@ -1,0 +1,11 @@
+=== PRODUCT #3265 (J0165-TP-M) ===
+Category: Top
+Size: M
+Core: TP
+Style: J0165
+Amount: 355.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3658-TP-M | JNE3658 | 359.0 | diff=4.0
+- J0112-TP-M | J0112 | 359.0 | diff=4.0
+- J0085-TP-M | J0085 | 360.0 | diff=5.0

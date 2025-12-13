@@ -1,0 +1,13 @@
+=== PRODUCT #917 (J0136-KR-XXL) ===
+Category: kurta
+Size: XXL
+Core: KR
+Style: J0136
+Amount: 568.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3609-KR-XXL | JNE3609 | 568.0 | diff=0.0
+- J0354-KR-XXL | J0354 | 568.0 | diff=0.0
+- J0094-KR-XXL | J0094 | 568.0 | diff=0.0
+- JNE3928-KR-XXL | JNE3928 | 568.0 | diff=0.0
+- J0096-KR-XXL | J0096 | 561.0 | diff=7.0

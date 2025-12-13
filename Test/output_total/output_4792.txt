@@ -1,0 +1,13 @@
+=== PRODUCT #4792 (JNE3695-KR-M) ===
+Category: kurta
+Size: M
+Core: KR
+Style: JNE3695
+Amount: 293.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3447-KR-M | JNE3447 | 293.0 | diff=0.0
+- JNE3579-KR-M | JNE3579 | 295.0 | diff=2.0
+- JNE3610-KR-M | JNE3610 | 291.0 | diff=2.0
+- JNE3761-KR-M | JNE3761 | 291.0 | diff=2.0
+- JNE3452-KR-M | JNE3452 | 291.0 | diff=2.0

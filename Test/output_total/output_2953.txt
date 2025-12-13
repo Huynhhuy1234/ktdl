@@ -1,0 +1,11 @@
+=== PRODUCT #2953 (J0204-TP-M) ===
+Category: Top
+Size: M
+Core: TP
+Style: J0204
+Amount: 751.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3894-TP-M | JNE3894 | 751.0 | diff=0.0
+- J0418-TP-M | J0418 | 749.0 | diff=2.0
+- J0420-TP-M | J0420 | 749.0 | diff=2.0

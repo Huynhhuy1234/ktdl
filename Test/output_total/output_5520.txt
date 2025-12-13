@@ -1,0 +1,12 @@
+=== PRODUCT #5520 (JNE3672-TU-XS) ===
+Category: Top
+Size: XS
+Core: TU
+Style: JNE3672
+Amount: 574.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3671-TU-XS | JNE3671 | 574.0 | diff=0.0
+- JNE3863-TU-XS | JNE3863 | 574.0 | diff=0.0
+- JNE3680-TU-XS | JNE3680 | 574.0 | diff=0.0
+- JNE3674-TU-XS | JNE3674 | 574.0 | diff=0.0

@@ -1,0 +1,9 @@
+=== PRODUCT #5627 (JNE3864-TU-XXL) ===
+Category: Top
+Size: XXL
+Core: TU
+Style: JNE3864
+Amount: 599.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3688-TU-XXL | JNE3688 | 599.0 | diff=0.0

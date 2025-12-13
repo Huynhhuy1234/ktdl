@@ -1,0 +1,12 @@
+=== PRODUCT #4853 (J0120-TP-L) ===
+Category: Top
+Size: L
+Core: TP
+Style: J0120
+Amount: 365.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0190-TP-L | J0190 | 360.0 | diff=5.0
+- J0112-TP-L | J0112 | 359.0 | diff=6.0
+- JNE3658-TP-L | JNE3658 | 359.0 | diff=6.0
+- J0165-TP-L | J0165 | 355.0 | diff=10.0

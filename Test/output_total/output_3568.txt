@@ -1,0 +1,9 @@
+=== PRODUCT #3568 (JNE3890-TP-XXL) ===
+Category: Top
+Size: XXL
+Core: TP
+Style: JNE3890
+Amount: 721.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0172-TP-XXL | J0172 | 729.0 | diff=8.0

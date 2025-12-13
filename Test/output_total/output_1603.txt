@@ -1,0 +1,9 @@
+=== PRODUCT #1603 (NW030-TP-PJ-S) ===
+Category: Set
+Size: S
+Core: TP-PJ
+Style: NW030
+Amount: 582.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- NW024-TP-PJ-S | NW024 | 586.0 | diff=4.0

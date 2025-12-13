@@ -1,0 +1,10 @@
+=== PRODUCT #629 (J0340-TP-L) ===
+Category: Top
+Size: L
+Core: TP
+Style: J0340
+Amount: 563.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0090-TP-L | J0090 | 563.0 | diff=0.0
+- J0203-TP-L | J0203 | 568.0 | diff=5.0

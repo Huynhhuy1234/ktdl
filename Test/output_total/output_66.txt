@@ -1,0 +1,13 @@
+=== PRODUCT #66 (MEN5013-KR-L) ===
+Category: kurta
+Size: L
+Core: KR
+Style: MEN5013
+Amount: 499.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- MEN5002-KR-L | MEN5002 | 499.0 | diff=0.0
+- MEN5001-KR-L | MEN5001 | 499.0 | diff=0.0
+- JNE3819-KR-L | JNE3819 | 499.0 | diff=0.0
+- MEN5012-KR-L | MEN5012 | 499.0 | diff=0.0
+- MEN5008-KR-L | MEN5008 | 499.0 | diff=0.0

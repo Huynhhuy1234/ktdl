@@ -1,0 +1,10 @@
+=== PRODUCT #5535 (NW028-TP-PJ-XS) ===
+Category: Set
+Size: XS
+Core: TP-PJ
+Style: NW028
+Amount: 539.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- NW015-TP-PJ-XS | NW015 | 539.0 | diff=0.0
+- NW001-TP-PJ-XS | NW001 | 539.0 | diff=0.0

@@ -1,0 +1,9 @@
+=== PRODUCT #3261 (NW008-ST-CP-L) ===
+Category: Set
+Size: L
+Core: ST-CP
+Style: NW008
+Amount: 582.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- NW035-ST-CP-L | NW035 | 582.0 | diff=0.0

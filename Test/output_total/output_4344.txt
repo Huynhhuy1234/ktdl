@@ -1,0 +1,13 @@
+=== PRODUCT #4344 (JNE3655-TP-L) ===
+Category: Top
+Size: L
+Core: TP
+Style: JNE3655
+Amount: 329.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0021-TP-L | J0021 | 329.0 | diff=0.0
+- J0189-TP-L | J0189 | 329.0 | diff=0.0
+- JNE3743-TP-L | JNE3743 | 329.0 | diff=0.0
+- J0087-TP-L | J0087 | 329.0 | diff=0.0
+- JNE3667-TP-L | JNE3667 | 329.0 | diff=0.0

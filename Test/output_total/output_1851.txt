@@ -1,0 +1,9 @@
+=== PRODUCT #1851 (J0004-SKD-L) ===
+Category: Set
+Size: L
+Core: SKD
+Style: J0004
+Amount: 1115.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0002-SKD-L | J0002 | 1115.0 | diff=0.0

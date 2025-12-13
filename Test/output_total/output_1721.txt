@@ -1,0 +1,9 @@
+=== PRODUCT #1721 (SET121-KR-NP-XS) ===
+Category: Set
+Size: XS
+Core: KR-NP
+Style: SET121
+Amount: 495.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET130-KR-NP-XS | SET130 | 499.0 | diff=4.0

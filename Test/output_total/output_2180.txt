@@ -1,0 +1,12 @@
+=== PRODUCT #2180 (J0332-DR-XL) ===
+Category: Western Dress
+Size: XL
+Core: DR
+Style: J0332
+Amount: 699.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0434-DR-XL | J0434 | 704.0 | diff=5.0
+- JNE3710-DR-XL | JNE3710 | 690.0 | diff=9.0
+- JNE3880-DR-XL | JNE3880 | 690.0 | diff=9.0
+- J0306-DR-XL | J0306 | 690.0 | diff=9.0

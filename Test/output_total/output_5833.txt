@@ -1,0 +1,9 @@
+=== PRODUCT #5833 (JNE3313-KR-XS) ===
+Category: kurta
+Size: XS
+Core: KR
+Style: JNE3313
+Amount: 582.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0187-KR-XS | J0187 | 587.0 | diff=5.0

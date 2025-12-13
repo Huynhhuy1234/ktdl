@@ -1,0 +1,11 @@
+=== PRODUCT #4784 (SET147-KR-NP-M) ===
+Category: Set
+Size: M
+Core: KR-NP
+Style: SET147
+Amount: 677.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET389-KR-NP-M | SET389 | 680.0 | diff=3.0
+- SET249-KR-NP-M | SET249 | 680.0 | diff=3.0
+- SET188-KR-NP-M | SET188 | 680.0 | diff=3.0

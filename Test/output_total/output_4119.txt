@@ -1,0 +1,10 @@
+=== PRODUCT #4119 (SET336-KR-NP-XS) ===
+Category: Set
+Size: XS
+Core: KR-NP
+Style: SET336
+Amount: 874.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET337-KR-NP-XS | SET337 | 874.0 | diff=0.0
+- SET070-KR-NP-XS | SET070 | 884.0 | diff=10.0

@@ -1,0 +1,9 @@
+=== PRODUCT #6420 (J0137-SET-XXXL) ===
+Category: Set
+Size: 3XL
+Core: SET
+Style: J0137
+Amount: 721.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0034-SET-XXXL | J0034 | 717.0 | diff=4.0

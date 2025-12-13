@@ -1,0 +1,9 @@
+=== PRODUCT #2225 (SET310-KR-NP-XS) ===
+Category: Set
+Size: XS
+Core: KR-NP
+Style: SET310
+Amount: 1213.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET378-KR-NP-XS | SET378 | 1221.0 | diff=8.0

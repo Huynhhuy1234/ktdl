@@ -1,0 +1,10 @@
+=== PRODUCT #1640 (J0158-DR-L) ===
+Category: Western Dress
+Size: L
+Core: DR
+Style: J0158
+Amount: 721.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3870-DR-L | JNE3870 | 721.0 | diff=0.0
+- JNE3869-DR-L | JNE3869 | 721.0 | diff=0.0

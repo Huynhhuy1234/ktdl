@@ -1,0 +1,9 @@
+=== PRODUCT #4896 (SET358-KR-NP-L) ===
+Category: Set
+Size: L
+Core: KR-NP
+Style: SET358
+Amount: 1138.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET395-KR-NP-L | SET395 | 1133.0 | diff=5.0

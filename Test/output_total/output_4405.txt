@@ -1,0 +1,13 @@
+=== PRODUCT #4405 (JNE3727-KR-M) ===
+Category: kurta
+Size: M
+Core: KR
+Style: JNE3727
+Amount: 549.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- MEN5022-KR-M | MEN5022 | 549.0 | diff=0.0
+- MEN5023-KR-M | MEN5023 | 549.0 | diff=0.0
+- MEN5017-KR-M | MEN5017 | 549.0 | diff=0.0
+- JNE3733-KR-M | JNE3733 | 549.0 | diff=0.0
+- JNE3835-KR-M | JNE3835 | 549.0 | diff=0.0

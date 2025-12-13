@@ -1,0 +1,13 @@
+=== PRODUCT #4677 (J0122-TP-M) ===
+Category: Top
+Size: M
+Core: TP
+Style: J0122
+Amount: 330.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3667-TP-M | JNE3667 | 329.0 | diff=1.0
+- J0087-TP-M | J0087 | 329.0 | diff=1.0
+- JNE3655-TP-M | JNE3655 | 329.0 | diff=1.0
+- J0189-TP-M | J0189 | 329.0 | diff=1.0
+- J0049-TP-M | J0049 | 329.0 | diff=1.0

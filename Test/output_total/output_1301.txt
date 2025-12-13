@@ -1,0 +1,10 @@
+=== PRODUCT #1301 (J0344-TP-XS) ===
+Category: Top
+Size: XS
+Core: TP
+Style: J0344
+Amount: 487.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0301-TP-XS | J0301 | 493.0 | diff=6.0
+- JNE3665-TP-XS | JNE3665 | 493.0 | diff=6.0

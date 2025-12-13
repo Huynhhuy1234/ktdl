@@ -1,0 +1,12 @@
+=== PRODUCT #4849 (J0023-TP-XS) ===
+Category: Top
+Size: XS
+Core: TP
+Style: J0023
+Amount: 399.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0181-TP-XS | J0181 | 399.0 | diff=0.0
+- J0088-TP-XS | J0088 | 399.0 | diff=0.0
+- JNE3662-TP-XS | JNE3662 | 399.0 | diff=0.0
+- J0294-TP-XS | J0294 | 396.0 | diff=3.0

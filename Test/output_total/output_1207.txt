@@ -1,0 +1,9 @@
+=== PRODUCT #1207 (SET201-KR-NP-A-S) ===
+Category: Set
+Size: S
+Core: KR-NP-A
+Style: SET201
+Amount: 595.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET198-KR-NP-A-S | SET198 | 587.0 | diff=8.0

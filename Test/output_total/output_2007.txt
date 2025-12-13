@@ -1,0 +1,13 @@
+=== PRODUCT #2007 (MEN5004-KR-XXL) ===
+Category: kurta
+Size: XXL
+Core: KR
+Style: MEN5004
+Amount: 484.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3465-KR-XXL | JNE3465 | 486.0 | diff=2.0
+- JNE3787-KR-XXL | JNE3787 | 487.0 | diff=3.0
+- JNE3564-KR-XXL | JNE3564 | 487.0 | diff=3.0
+- JNE3605-KR-XXL | JNE3605 | 487.0 | diff=3.0
+- JNE3560-KR-XXL | JNE3560 | 487.0 | diff=3.0

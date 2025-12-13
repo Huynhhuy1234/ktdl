@@ -1,0 +1,12 @@
+=== PRODUCT #5689 (SET240-KR-PP-S) ===
+Category: Set
+Size: S
+Core: KR-PP
+Style: SET240
+Amount: 579.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET038-KR-PP-S | SET038 | 579.0 | diff=0.0
+- SET242-KR-PP-S | SET242 | 581.0 | diff=2.0
+- SET210-KR-PP-S | SET210 | 575.0 | diff=4.0
+- SET260-KR-PP-S | SET260 | 571.0 | diff=8.0

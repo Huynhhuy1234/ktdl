@@ -1,0 +1,9 @@
+=== PRODUCT #2128 (NW001-TP-PJ-S) ===
+Category: Set
+Size: S
+Core: TP-PJ
+Style: NW001
+Amount: 563.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- NW012-TP-PJ-S | NW012 | 560.0 | diff=3.0

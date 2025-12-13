@@ -1,0 +1,10 @@
+=== PRODUCT #1850 (J0090-TP-XL) ===
+Category: Top
+Size: XL
+Core: TP
+Style: J0090
+Amount: 563.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0340-TP-XL | J0340 | 563.0 | diff=0.0
+- J0203-TP-XL | J0203 | 568.0 | diff=5.0

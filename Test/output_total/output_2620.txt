@@ -1,0 +1,13 @@
+=== PRODUCT #2620 (J0178-TP-XS) ===
+Category: Top
+Size: XS
+Core: TP
+Style: J0178
+Amount: 319.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0189-TP-XS | J0189 | 317.0 | diff=2.0
+- J0114-TP-XS | J0114 | 314.0 | diff=5.0
+- J0087-TP-XS | J0087 | 329.0 | diff=10.0
+- JNE3642-TP-XS | JNE3642 | 329.0 | diff=10.0
+- JNE3655-TP-XS | JNE3655 | 329.0 | diff=10.0

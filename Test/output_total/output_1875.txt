@@ -1,0 +1,12 @@
+=== PRODUCT #1875 (J0155-KR-XXXL) ===
+Category: kurta
+Size: 3XL
+Core: KR
+Style: J0155
+Amount: 635.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3836-KR-XXXL | JNE3836 | 635.0 | diff=0.0
+- JNE3813-KR-XXXL | JNE3813 | 635.0 | diff=0.0
+- JNE3506-KR-XXXL | JNE3506 | 635.0 | diff=0.0
+- MEN5003-KR-XXXL | MEN5003 | 633.0 | diff=2.0

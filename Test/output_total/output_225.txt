@@ -1,0 +1,13 @@
+=== PRODUCT #225 (SET380-KR-NP-XXXL) ===
+Category: Set
+Size: 3XL
+Core: KR-NP
+Style: SET380
+Amount: 995.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET300-KR-NP-XXXL | SET300 | 999.0 | diff=4.0
+- SET390-KR-NP-XXXL | SET390 | 999.0 | diff=4.0
+- SET403-KR-NP-XXXL | SET403 | 999.0 | diff=4.0
+- SET310-KR-NP-XXXL | SET310 | 999.0 | diff=4.0
+- SET415-KR-NP-XXXL | SET415 | 999.0 | diff=4.0
