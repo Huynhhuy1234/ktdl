@@ -66,8 +66,8 @@ def evaluate_all_testcases(df, X, output_dir, top_n=5, price_tol=10.0):
     print(f"Tỷ lệ chính xác: {accuracy:.2f}%")
 
     # Lưu kết quả
-    results_df.to_csv("cluster_testcase_results.csv", index=False)
-    print("✔ Đã lưu kết quả chi tiết vào cluster_testcase_results.csv")
+    results_df.to_csv("Clustering/cluster_testcase_results.csv", index=False)
+    print("Đã lưu kết quả chi tiết vào Clustering/cluster_testcase_results.csv")
     return results_df
 
 # =========================

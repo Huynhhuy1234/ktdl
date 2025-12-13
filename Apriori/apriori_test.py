@@ -60,8 +60,8 @@ def evaluate_all_testcases(df, output_dir, rules=None, top_n=5, price_tol=10.0):
     print(f"Tỷ lệ chính xác: {accuracy:.2f}%")
 
     # Lưu kết quả chi tiết
-    results_df.to_csv("apriori_testcase_results.csv", index=False)
-    print("✔ Đã lưu kết quả chi tiết vào apriori_testcase_results.csv")
+    results_df.to_csv("Apriori/apriori_testcase_results.csv", index=False)
+    print("Đã lưu kết quả chi tiết vào Apriori/apriori_testcase_results.csv")
     return results_df
 
 # =========================
