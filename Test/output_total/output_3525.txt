@@ -1,0 +1,13 @@
+=== PRODUCT #3525 (JNE3522-KR-L) ===
+Category: kurta
+Size: L
+Core: KR
+Style: JNE3522
+Amount: 342.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3702-KR-L | JNE3702 | 342.0 | diff=0.0
+- JNE3635-KR-L | JNE3635 | 345.0 | diff=3.0
+- JNE3726-KR-L | JNE3726 | 345.0 | diff=3.0
+- JNE3796-KR-L | JNE3796 | 345.0 | diff=3.0
+- JNE3487-KR-L | JNE3487 | 345.0 | diff=3.0

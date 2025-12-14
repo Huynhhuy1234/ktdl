@@ -1,0 +1,10 @@
+=== PRODUCT #5742 (BTM047-PP-M) ===
+Category: Bottom
+Size: M
+Core: PP
+Style: BTM047
+Amount: 331.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- BTM040-PP-M | BTM040 | 331.0 | diff=0.0
+- BTM042-PP-M | BTM042 | 329.0 | diff=2.0

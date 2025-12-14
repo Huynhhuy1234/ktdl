@@ -1,0 +1,9 @@
+=== PRODUCT #3061 (J0380-SKD-S) ===
+Category: Set
+Size: S
+Core: SKD
+Style: J0380
+Amount: 1438.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0285-SKD-S | J0285 | 1432.0 | diff=6.0

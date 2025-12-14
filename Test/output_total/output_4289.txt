@@ -1,0 +1,9 @@
+=== PRODUCT #4289 (J0249-SKD-S) ===
+Category: Set
+Size: S
+Core: SKD
+Style: J0249
+Amount: 939.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0252-SKD-S | J0252 | 939.0 | diff=0.0

@@ -1,0 +1,10 @@
+=== PRODUCT #5734 (J0042-DR-XL) ===
+Category: Western Dress
+Size: XL
+Core: DR
+Style: J0042
+Amount: 634.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0308-DR-XL | J0308 | 625.0 | diff=9.0
+- JNE3905-DR-XL | JNE3905 | 625.0 | diff=9.0

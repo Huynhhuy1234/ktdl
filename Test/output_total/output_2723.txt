@@ -1,0 +1,9 @@
+=== PRODUCT #2723 (J0285-SKD-XXL) ===
+Category: Set
+Size: XXL
+Core: SKD
+Style: J0285
+Amount: 1432.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0380-SKD-XXL | J0380 | 1438.0 | diff=6.0

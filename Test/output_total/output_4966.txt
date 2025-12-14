@@ -1,0 +1,12 @@
+=== PRODUCT #4966 (JNE3712-TP-N-M) ===
+Category: Top
+Size: M
+Core: TP-N
+Style: JNE3712
+Amount: 518.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3651-TP-N-M | JNE3651 | 518.0 | diff=0.0
+- JNE3640-TP-N-M | JNE3640 | 518.0 | diff=0.0
+- JNE3656-TP-N-M | JNE3656 | 518.0 | diff=0.0
+- JNE3648-TP-N-M | JNE3648 | 518.0 | diff=0.0

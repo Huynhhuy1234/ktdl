@@ -1,0 +1,13 @@
+=== PRODUCT #4245 (J0187-KR-XL) ===
+Category: kurta
+Size: XL
+Core: KR
+Style: J0187
+Amount: 587.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0355-KR-XL | J0355 | 589.0 | diff=2.0
+- JNE3887-KR-XL | JNE3887 | 590.0 | diff=3.0
+- MEN5030-KR-XL | MEN5030 | 590.0 | diff=3.0
+- J0083-KR-XL | J0083 | 591.0 | diff=4.0
+- JNE3898-KR-XL | JNE3898 | 582.0 | diff=5.0

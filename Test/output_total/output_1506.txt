@@ -1,0 +1,11 @@
+=== PRODUCT #1506 (J0124-TP-XL) ===
+Category: Top
+Size: XL
+Core: TP
+Style: J0124
+Amount: 523.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0202-TP-XL | J0202 | 519.0 | diff=4.0
+- J0172-TP-XL | J0172 | 518.0 | diff=5.0
+- J0307-TP-XL | J0307 | 518.0 | diff=5.0

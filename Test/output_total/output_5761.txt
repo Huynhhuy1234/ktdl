@@ -1,0 +1,10 @@
+=== PRODUCT #5761 (JNE3893-TP-XS) ===
+Category: Top
+Size: XS
+Core: TP
+Style: JNE3893
+Amount: 602.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0213-TP-XS | J0213 | 599.0 | diff=3.0
+- J0336-TP-XS | J0336 | 599.0 | diff=3.0

@@ -1,0 +1,13 @@
+=== PRODUCT #5956 (J0353-KR-L) ===
+Category: kurta
+Size: L
+Core: KR
+Style: J0353
+Amount: 635.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3837-KR-L | JNE3837 | 635.0 | diff=0.0
+- J0355-KR-L | J0355 | 635.0 | diff=0.0
+- JNE3836-KR-L | JNE3836 | 635.0 | diff=0.0
+- JNE3506-KR-L | JNE3506 | 635.0 | diff=0.0
+- JNE3581-KR-L | JNE3581 | 635.0 | diff=0.0

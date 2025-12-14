@@ -1,0 +1,9 @@
+=== PRODUCT #198 (JNE3639-TP-N-XXL) ===
+Category: Top
+Size: XXL
+Core: TP-N
+Style: JNE3639
+Amount: 487.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3659-TP-N-XXL | JNE3659 | 493.0 | diff=6.0

@@ -1,0 +1,10 @@
+=== PRODUCT #6357 (SET301-KR-PP-L) ===
+Category: Set
+Size: L
+Core: KR-PP
+Style: SET301
+Amount: 833.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET142-KR-PP-L | SET142 | 838.0 | diff=5.0
+- SET217-KR-PP-L | SET217 | 825.0 | diff=8.0

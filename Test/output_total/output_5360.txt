@@ -1,0 +1,10 @@
+=== PRODUCT #5360 (JNE3631-DR-XS) ===
+Category: Western Dress
+Size: XS
+Core: DR
+Style: JNE3631
+Amount: 499.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3707-DR-XS | JNE3707 | 496.0 | diff=3.0
+- J0062-DR-XS | J0062 | 491.0 | diff=8.0

@@ -1,0 +1,9 @@
+=== PRODUCT #6105 (J0331-KR-L) ===
+Category: kurta
+Size: L
+Core: KR
+Style: J0331
+Amount: 859.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3906-KR-L | JNE3906 | 852.0 | diff=7.0

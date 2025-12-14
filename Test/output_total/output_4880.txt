@@ -1,0 +1,9 @@
+=== PRODUCT #4880 (SET110-KR-PP-XXXL) ===
+Category: Set
+Size: 3XL
+Core: KR-PP
+Style: SET110
+Amount: 729.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET138-KR-PP-XXXL | SET138 | 737.0 | diff=8.0

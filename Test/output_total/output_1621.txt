@@ -1,0 +1,9 @@
+=== PRODUCT #1621 (JNE3648-TP-N-XS) ===
+Category: Top
+Size: XS
+Core: TP-N
+Style: JNE3648
+Amount: 487.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3659-TP-N-XS | JNE3659 | 493.0 | diff=6.0

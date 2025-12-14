@@ -1,0 +1,10 @@
+=== PRODUCT #2820 (JNE3673-TU-XXXL) ===
+Category: Top
+Size: 3XL
+Core: TU
+Style: JNE3673
+Amount: 599.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3864-TU-XXXL | JNE3864 | 599.0 | diff=0.0
+- JNE3862-TU-XXXL | JNE3862 | 599.0 | diff=0.0

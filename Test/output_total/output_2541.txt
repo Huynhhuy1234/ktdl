@@ -1,0 +1,11 @@
+=== PRODUCT #2541 (JNE3864-TU-L) ===
+Category: Top
+Size: L
+Core: TU
+Style: JNE3864
+Amount: 599.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3673-TU-L | JNE3673 | 599.0 | diff=0.0
+- JNE3688-TU-L | JNE3688 | 599.0 | diff=0.0
+- JNE3862-TU-L | JNE3862 | 599.0 | diff=0.0

@@ -1,0 +1,10 @@
+=== PRODUCT #3707 (NW009-ST-CP-S) ===
+Category: Set
+Size: S
+Core: ST-CP
+Style: NW009
+Amount: 586.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- NW008-ST-CP-S | NW008 | 582.0 | diff=4.0
+- NW033-ST-CP-S | NW033 | 582.0 | diff=4.0

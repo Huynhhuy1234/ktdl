@@ -1,0 +1,9 @@
+=== PRODUCT #193 (J0280-SKD-S) ===
+Category: Set
+Size: S
+Core: SKD
+Style: J0280
+Amount: 1463.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0277-SKD-S | J0277 | 1463.0 | diff=0.0

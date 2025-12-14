@@ -1,0 +1,9 @@
+=== PRODUCT #6061 (J0419-TP-XS) ===
+Category: Top
+Size: XS
+Core: TP
+Style: J0419
+Amount: 791.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0417-TP-XS | J0417 | 791.0 | diff=0.0

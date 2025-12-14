@@ -1,0 +1,9 @@
+=== PRODUCT #1176 (J0233-SKD-M) ===
+Category: Set
+Size: M
+Core: SKD
+Style: J0233
+Amount: 1299.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0244-SKD-M | J0244 | 1298.0 | diff=1.0

@@ -1,0 +1,11 @@
+=== PRODUCT #3463 (J0009-SKD-XS) ===
+Category: Set
+Size: XS
+Core: SKD
+Style: J0009
+Amount: 999.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0376-SKD-XS | J0376 | 999.0 | diff=0.0
+- J0375-SKD-XS | J0375 | 999.0 | diff=0.0
+- J0377-SKD-XS | J0377 | 999.0 | diff=0.0

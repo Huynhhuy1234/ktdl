@@ -1,0 +1,11 @@
+=== PRODUCT #5502 (MEN5018-KR-M) ===
+Category: kurta
+Size: M
+Core: KR
+Style: MEN5018
+Amount: 655.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3909-KR-M | JNE3909 | 654.0 | diff=1.0
+- MEN5014-KR-M | MEN5014 | 665.0 | diff=10.0
+- MEN5015-KR-M | MEN5015 | 665.0 | diff=10.0

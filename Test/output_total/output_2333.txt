@@ -1,0 +1,9 @@
+=== PRODUCT #2333 (BTM033-NP-XS) ===
+Category: Bottom
+Size: XS
+Core: NP
+Style: BTM033
+Amount: 297.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- BTM032-NP-XS | BTM032 | 297.0 | diff=0.0

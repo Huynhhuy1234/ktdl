@@ -1,0 +1,9 @@
+=== PRODUCT #3313 (J0009-SKD-XL) ===
+Category: Set
+Size: XL
+Core: SKD
+Style: J0009
+Amount: 999.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0376-SKD-XL | J0376 | 999.0 | diff=0.0

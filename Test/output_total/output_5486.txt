@@ -1,0 +1,11 @@
+=== PRODUCT #5486 (SET372-KR-PP-M) ===
+Category: Set
+Size: M
+Core: KR-PP
+Style: SET372
+Amount: 667.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET330-KR-PP-M | SET330 | 666.0 | diff=1.0
+- SET219-KR-PP-M | SET219 | 662.0 | diff=5.0
+- SET326-KR-PP-M | SET326 | 657.0 | diff=10.0

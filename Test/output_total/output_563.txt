@@ -1,0 +1,13 @@
+=== PRODUCT #563 (MEN5022-KR-S) ===
+Category: kurta
+Size: S
+Core: KR
+Style: MEN5022
+Amount: 533.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3463-KR-S | JNE3463 | 534.0 | diff=1.0
+- JNE3637-KR-S | JNE3637 | 526.0 | diff=7.0
+- JNE3821-KR-S | JNE3821 | 526.0 | diff=7.0
+- JNE3629-KR-S | JNE3629 | 526.0 | diff=7.0
+- JNE3887-KR-S | JNE3887 | 526.0 | diff=7.0

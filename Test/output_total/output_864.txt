@@ -1,0 +1,13 @@
+=== PRODUCT #864 (JNE3620-KR-S) ===
+Category: kurta
+Size: S
+Core: KR
+Style: JNE3620
+Amount: 329.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3531-KR-S | JNE3531 | 329.0 | diff=0.0
+- JNE3762-KR-S | JNE3762 | 329.0 | diff=0.0
+- JNE3565-KR-S | JNE3565 | 329.0 | diff=0.0
+- JNE3721-KR-S | JNE3721 | 329.0 | diff=0.0
+- JNE3549-KR-S | JNE3549 | 329.0 | diff=0.0

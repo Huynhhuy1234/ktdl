@@ -1,0 +1,13 @@
+=== PRODUCT #3764 (SET393-KR-NP-M) ===
+Category: Set
+Size: M
+Core: KR-NP
+Style: SET393
+Amount: 999.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET390-KR-NP-M | SET390 | 999.0 | diff=0.0
+- SET403-KR-NP-M | SET403 | 999.0 | diff=0.0
+- SET415-KR-NP-M | SET415 | 999.0 | diff=0.0
+- SET414-KR-NP-M | SET414 | 999.0 | diff=0.0
+- SET380-KR-NP-M | SET380 | 995.0 | diff=4.0

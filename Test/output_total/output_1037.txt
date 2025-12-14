@@ -1,0 +1,12 @@
+=== PRODUCT #1037 (SET058-KR-NP-L) ===
+Category: Set
+Size: L
+Core: KR-NP
+Style: SET058
+Amount: 847.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET245-KR-NP-L | SET245 | 849.0 | diff=2.0
+- SET413-KR-NP-L | SET413 | 852.0 | diff=5.0
+- SET267-KR-NP-L | SET267 | 852.0 | diff=5.0
+- SET320-KR-NP-L | SET320 | 856.0 | diff=9.0

@@ -1,0 +1,9 @@
+=== PRODUCT #1468 (J0161-DR-S) ===
+Category: Western Dress
+Size: S
+Core: DR
+Style: J0161
+Amount: 473.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0293-DR-S | J0293 | 472.0 | diff=1.0

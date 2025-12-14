@@ -1,0 +1,9 @@
+=== PRODUCT #6401 (J0137-SET-M) ===
+Category: Set
+Size: M
+Core: SET
+Style: J0137
+Amount: 721.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0034-SET-M | J0034 | 717.0 | diff=4.0

@@ -1,0 +1,13 @@
+=== PRODUCT #4834 (MEN5030-KR-S) ===
+Category: kurta
+Size: S
+Core: KR
+Style: MEN5030
+Amount: 448.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- MEN5003-KR-S | MEN5003 | 449.0 | diff=1.0
+- J0104-KR-S | J0104 | 446.0 | diff=2.0
+- MEN5020-KR-S | MEN5020 | 452.0 | diff=4.0
+- JNE3697-KR-S | JNE3697 | 452.0 | diff=4.0
+- JNE3738-KR-S | JNE3738 | 453.0 | diff=5.0

@@ -1,0 +1,11 @@
+=== PRODUCT #112 (J0344-TP-XXXL) ===
+Category: Top
+Size: 3XL
+Core: TP
+Style: J0344
+Amount: 487.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0337-TP-XXXL | J0337 | 487.0 | diff=0.0
+- J0214-TP-XXXL | J0214 | 495.0 | diff=8.0
+- J0202-TP-XXXL | J0202 | 495.0 | diff=8.0

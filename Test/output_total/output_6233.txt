@@ -1,0 +1,12 @@
+=== PRODUCT #6233 (JNE3908-KR-XL) ===
+Category: kurta
+Size: XL
+Core: KR
+Style: JNE3908
+Amount: 692.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3810-KR-XL | JNE3810 | 696.0 | diff=4.0
+- J0179-KR-XL | J0179 | 696.0 | diff=4.0
+- JNE3577-KR-XL | JNE3577 | 688.0 | diff=4.0
+- JNE3888-KR-XL | JNE3888 | 696.0 | diff=4.0

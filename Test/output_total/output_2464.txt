@@ -1,0 +1,10 @@
+=== PRODUCT #2464 (SET230-KR-PP-XS) ===
+Category: Set
+Size: XS
+Core: KR-PP
+Style: SET230
+Amount: 799.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET158-KR-PP-XS | SET158 | 791.0 | diff=8.0
+- SET280-KR-PP-XS | SET280 | 790.0 | diff=9.0

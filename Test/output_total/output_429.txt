@@ -1,0 +1,13 @@
+=== PRODUCT #429 (MEN5006-KR-XL) ===
+Category: kurta
+Size: XL
+Core: KR
+Style: MEN5006
+Amount: 475.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- MEN5007-KR-XL | MEN5007 | 475.0 | diff=0.0
+- MEN5027-KR-XL | MEN5027 | 475.0 | diff=0.0
+- MEN5024-KR-XL | MEN5024 | 475.0 | diff=0.0
+- MEN5015-KR-XL | MEN5015 | 475.0 | diff=0.0
+- JNE3753-KR-XL | JNE3753 | 475.0 | diff=0.0

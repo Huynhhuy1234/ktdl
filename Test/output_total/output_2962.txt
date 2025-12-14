@@ -1,0 +1,10 @@
+=== PRODUCT #2962 (JNE3869-DR-XS) ===
+Category: Western Dress
+Size: XS
+Core: DR
+Style: JNE3869
+Amount: 721.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0158-DR-XS | J0158 | 721.0 | diff=0.0
+- JNE3870-DR-XS | JNE3870 | 721.0 | diff=0.0

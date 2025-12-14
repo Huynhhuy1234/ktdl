@@ -1,0 +1,11 @@
+=== PRODUCT #5648 (SET299-KR-PP-XL) ===
+Category: Set
+Size: XL
+Core: KR-PP
+Style: SET299
+Amount: 825.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET217-KR-PP-XL | SET217 | 825.0 | diff=0.0
+- SET014-KR-PP-XL | SET014 | 818.0 | diff=7.0
+- SET100-KR-PP-XL | SET100 | 816.0 | diff=9.0

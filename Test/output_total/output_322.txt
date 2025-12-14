@@ -1,0 +1,11 @@
+=== PRODUCT #322 (PJNE2100-KR-N-5XL) ===
+Category: kurta
+Size: 5XL
+Core: KR-N
+Style: PJNE2100
+Amount: 458.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- PJNE2199-KR-N-5XL | PJNE2199 | 453.0 | diff=5.0
+- PJNE1906-KR-N-5XL | PJNE1906 | 452.0 | diff=6.0
+- PJNE3363-KR-N-5XL | PJNE3363 | 452.0 | diff=6.0

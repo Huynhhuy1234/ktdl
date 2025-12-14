@@ -1,0 +1,10 @@
+=== PRODUCT #2984 (J0297-TP-L) ===
+Category: Top
+Size: L
+Core: TP
+Style: J0297
+Amount: 574.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0113-TP-L | J0113 | 574.0 | diff=0.0
+- J0203-TP-L | J0203 | 568.0 | diff=6.0

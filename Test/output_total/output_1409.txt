@@ -1,0 +1,12 @@
+=== PRODUCT #1409 (JNE3674-TU-XXL) ===
+Category: Top
+Size: XXL
+Core: TU
+Style: JNE3674
+Amount: 574.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3672-TU-XXL | JNE3672 | 574.0 | diff=0.0
+- JNE3863-TU-XXL | JNE3863 | 574.0 | diff=0.0
+- JNE3671-TU-XXL | JNE3671 | 574.0 | diff=0.0
+- JNE3680-TU-XXL | JNE3680 | 574.0 | diff=0.0

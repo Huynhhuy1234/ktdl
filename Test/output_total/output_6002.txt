@@ -1,0 +1,13 @@
+=== PRODUCT #6002 (SET340-KR-NP-M) ===
+Category: Set
+Size: M
+Core: KR-NP
+Style: SET340
+Amount: 799.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET196-KR-NP-M | SET196 | 799.0 | diff=0.0
+- SET244-KR-NP-M | SET244 | 799.0 | diff=0.0
+- SET392-KR-NP-M | SET392 | 799.0 | diff=0.0
+- SET347-KR-NP-M | SET347 | 801.0 | diff=2.0
+- SET320-KR-NP-M | SET320 | 801.0 | diff=2.0

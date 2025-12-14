@@ -1,0 +1,13 @@
+=== PRODUCT #1741 (MEN5017-KR-L) ===
+Category: kurta
+Size: L
+Core: KR
+Style: MEN5017
+Amount: 549.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- MEN5023-KR-L | MEN5023 | 549.0 | diff=0.0
+- JNE3727-KR-L | JNE3727 | 549.0 | diff=0.0
+- MEN5025-KR-L | MEN5025 | 549.0 | diff=0.0
+- JNE3733-KR-L | JNE3733 | 549.0 | diff=0.0
+- JNE3820-KR-L | JNE3820 | 549.0 | diff=0.0

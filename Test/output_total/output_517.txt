@@ -1,0 +1,13 @@
+=== PRODUCT #517 (JNE3784-KR-XL) ===
+Category: kurta
+Size: XL
+Core: KR
+Style: JNE3784
+Amount: 458.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3546-KR-XL | JNE3546 | 458.0 | diff=0.0
+- JNE3697-KR-XL | JNE3697 | 458.0 | diff=0.0
+- JNE3739-KR-XL | JNE3739 | 459.0 | diff=1.0
+- JNE3611-KR-XL | JNE3611 | 459.0 | diff=1.0
+- JNE3614-KR-XL | JNE3614 | 459.0 | diff=1.0

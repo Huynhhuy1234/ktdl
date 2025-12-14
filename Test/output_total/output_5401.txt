@@ -1,0 +1,11 @@
+=== PRODUCT #5401 (SET087-KR-PP-L) ===
+Category: Set
+Size: L
+Core: KR-PP
+Style: SET087
+Amount: 881.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET258-KR-PP-L | SET258 | 881.0 | diff=0.0
+- SET229-KR-PP-L | SET229 | 888.0 | diff=7.0
+- SET299-KR-PP-L | SET299 | 889.0 | diff=8.0

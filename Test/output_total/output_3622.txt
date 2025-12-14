@@ -1,0 +1,10 @@
+=== PRODUCT #3622 (J0295-DR-L) ===
+Category: Western Dress
+Size: L
+Core: DR
+Style: J0295
+Amount: 859.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0395-DR-L | J0395 | 859.0 | diff=0.0
+- J0400-DR-L | J0400 | 859.0 | diff=0.0

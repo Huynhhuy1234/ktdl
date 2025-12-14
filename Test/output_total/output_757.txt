@@ -1,0 +1,12 @@
+=== PRODUCT #757 (J0401-DR-S) ===
+Category: Western Dress
+Size: S
+Core: DR
+Style: J0401
+Amount: 885.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0207-DR-S | J0207 | 885.0 | diff=0.0
+- J0414-DR-S | J0414 | 885.0 | diff=0.0
+- J0152-DR-S | J0152 | 885.0 | diff=0.0
+- J0398-DR-S | J0398 | 885.0 | diff=0.0

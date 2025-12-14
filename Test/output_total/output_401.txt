@@ -1,0 +1,12 @@
+=== PRODUCT #401 (J0230-SKD-M) ===
+Category: Set
+Size: M
+Core: SKD
+Style: J0230
+Amount: 1112.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0002-SKD-M | J0002 | 1115.0 | diff=3.0
+- J0004-SKD-M | J0004 | 1115.0 | diff=3.0
+- J0102-SKD-M | J0102 | 1115.0 | diff=3.0
+- J0127-SKD-M | J0127 | 1115.0 | diff=3.0

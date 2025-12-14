@@ -1,0 +1,10 @@
+=== PRODUCT #5694 (SET185-KR-NP-XS) ===
+Category: Set
+Size: XS
+Core: KR-NP
+Style: SET185
+Amount: 785.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET268-KR-NP-XS | SET268 | 788.0 | diff=3.0
+- SET144-KR-NP-XS | SET144 | 788.0 | diff=3.0

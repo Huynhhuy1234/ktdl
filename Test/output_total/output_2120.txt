@@ -1,0 +1,11 @@
+=== PRODUCT #2120 (JNE3672-TU-M) ===
+Category: Top
+Size: M
+Core: TU
+Style: JNE3672
+Amount: 574.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3680-TU-M | JNE3680 | 574.0 | diff=0.0
+- JNE3863-TU-M | JNE3863 | 574.0 | diff=0.0
+- JNE3674-TU-M | JNE3674 | 574.0 | diff=0.0

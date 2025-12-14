@@ -1,0 +1,10 @@
+=== PRODUCT #3594 (JNE3744-TU-L) ===
+Category: Top
+Size: L
+Core: TU
+Style: JNE3744
+Amount: 625.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3691-TU-L | JNE3691 | 625.0 | diff=0.0
+- JNE3924-TU-L | JNE3924 | 625.0 | diff=0.0

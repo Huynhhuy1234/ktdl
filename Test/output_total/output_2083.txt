@@ -1,0 +1,10 @@
+=== PRODUCT #2083 (JNE3666-TP-L) ===
+Category: Top
+Size: L
+Core: TP
+Style: JNE3666
+Amount: 299.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0091-TP-L | J0091 | 298.0 | diff=1.0
+- J0074-TP-L | J0074 | 294.0 | diff=5.0

@@ -1,0 +1,11 @@
+=== PRODUCT #2138 (J0203-TP-XL) ===
+Category: Top
+Size: XL
+Core: TP
+Style: J0203
+Amount: 568.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0090-TP-XL | J0090 | 563.0 | diff=5.0
+- J0340-TP-XL | J0340 | 563.0 | diff=5.0
+- J0342-TP-XL | J0342 | 574.0 | diff=6.0

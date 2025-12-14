@@ -1,0 +1,10 @@
+=== PRODUCT #493 (J0162-SKD-XXXL) ===
+Category: Set
+Size: 3XL
+Core: SKD
+Style: J0162
+Amount: 1186.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0127-SKD-XXXL | J0127 | 1186.0 | diff=0.0
+- J0223-SKD-XXXL | J0223 | 1181.0 | diff=5.0

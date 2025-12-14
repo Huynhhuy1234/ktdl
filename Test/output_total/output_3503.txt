@@ -1,0 +1,13 @@
+=== PRODUCT #3503 (JNE3607-KR-S) ===
+Category: kurta
+Size: S
+Core: KR
+Style: JNE3607
+Amount: 471.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3368-KR-S | JNE3368 | 471.0 | diff=0.0
+- MEN5019-KR-S | MEN5019 | 472.0 | diff=1.0
+- JNE3822-KR-S | JNE3822 | 474.0 | diff=3.0
+- JNE3774-KR-S | JNE3774 | 474.0 | diff=3.0
+- JNE3817-KR-S | JNE3817 | 474.0 | diff=3.0

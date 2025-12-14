@@ -1,0 +1,10 @@
+=== PRODUCT #4824 (JNE3466-KR-XXXL) ===
+Category: kurta
+Size: 3XL
+Core: KR
+Style: JNE3466
+Amount: 761.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3866-KR-XXXL | JNE3866 | 753.0 | diff=8.0
+- JNE3872-KR-XXXL | JNE3872 | 771.0 | diff=10.0

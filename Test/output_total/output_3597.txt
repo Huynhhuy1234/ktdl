@@ -1,0 +1,13 @@
+=== PRODUCT #3597 (JNE3779-KR-M) ===
+Category: kurta
+Size: M
+Core: KR
+Style: JNE3779
+Amount: 432.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3718-KR-M | JNE3718 | 432.0 | diff=0.0
+- JNE3376-KR-M | JNE3376 | 432.0 | diff=0.0
+- JNE3294-KR-M | JNE3294 | 432.0 | diff=0.0
+- JNE3391-KR-M | JNE3391 | 432.0 | diff=0.0
+- JNE3771-KR-M | JNE3771 | 432.0 | diff=0.0

@@ -1,0 +1,10 @@
+=== PRODUCT #6223 (JNE3872-KR-L) ===
+Category: kurta
+Size: L
+Core: KR
+Style: JNE3872
+Amount: 725.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3801-KR-L | JNE3801 | 725.0 | diff=0.0
+- JNE3464-KR-L | JNE3464 | 719.0 | diff=6.0

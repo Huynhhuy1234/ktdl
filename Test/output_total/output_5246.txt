@@ -1,0 +1,13 @@
+=== PRODUCT #5246 (JNE3601-KR-M) ===
+Category: kurta
+Size: M
+Core: KR
+Style: JNE3601
+Amount: 301.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3619-KR-M | JNE3619 | 301.0 | diff=0.0
+- JNE3346-KR-M | JNE3346 | 301.0 | diff=0.0
+- JNE3407-KR-M | JNE3407 | 301.0 | diff=0.0
+- JNE3479-KR-M | JNE3479 | 301.0 | diff=0.0
+- JNE3615-KR-M | JNE3615 | 301.0 | diff=0.0

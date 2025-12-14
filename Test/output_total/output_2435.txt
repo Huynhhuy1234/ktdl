@@ -1,0 +1,13 @@
+=== PRODUCT #2435 (J0310-TP-XS) ===
+Category: Top
+Size: XS
+Core: TP
+Style: J0310
+Amount: 339.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0165-TP-XS | J0165 | 341.0 | diff=2.0
+- J0048-TP-XS | J0048 | 335.0 | diff=4.0
+- J0036-TP-XS | J0036 | 344.0 | diff=5.0
+- J0190-TP-XS | J0190 | 345.0 | diff=6.0
+- JNE3655-TP-XS | JNE3655 | 329.0 | diff=10.0

@@ -1,0 +1,11 @@
+=== PRODUCT #5776 (JNE3030-KR-XL) ===
+Category: kurta
+Size: XL
+Core: KR
+Style: JNE3030
+Amount: 736.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3910-KR-XL | JNE3910 | 736.0 | diff=0.0
+- J0329-KR-XL | J0329 | 737.0 | diff=1.0
+- JNE3160-KR-XL | JNE3160 | 729.0 | diff=7.0

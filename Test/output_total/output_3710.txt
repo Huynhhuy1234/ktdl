@@ -1,0 +1,13 @@
+=== PRODUCT #3710 (JNE3563-KR-S) ===
+Category: kurta
+Size: S
+Core: KR
+Style: JNE3563
+Amount: 476.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3562-KR-S | JNE3562 | 476.0 | diff=0.0
+- J0175-KR-S | J0175 | 476.0 | diff=0.0
+- MEN5018-KR-S | MEN5018 | 476.0 | diff=0.0
+- MEN5029-KR-S | MEN5029 | 475.0 | diff=1.0
+- MEN5024-KR-S | MEN5024 | 475.0 | diff=1.0

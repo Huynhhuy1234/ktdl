@@ -1,0 +1,9 @@
+=== PRODUCT #2101 (J0211-DR-L) ===
+Category: Ethnic Dress
+Size: L
+Core: DR
+Style: J0211
+Amount: 699.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0001-DR-L | J0001 | 690.0 | diff=9.0

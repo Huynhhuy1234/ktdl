@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 
 # ====== CONFIG ======
-INPUT_CSV = "new_data_to_analysis.csv"
+INPUT_CSV = "Dataset/new_data_to_analysis.csv"
 OUT_DIR = Path("dists")
 TOP_N_FOR_HICARD = 10  
 
@@ -65,4 +65,4 @@ if "Amount" in df.columns:
                       title="Distribution of log1p(Amount)",
                       fname="log1p_Amount_hist.png")
 
-print("✅ Saved charts to:", OUT_DIR.resolve().as_posix())
+print("Saved charts to:", OUT_DIR.resolve().as_posix())

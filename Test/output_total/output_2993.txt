@@ -1,0 +1,11 @@
+=== PRODUCT #2993 (J0342-TP-XS) ===
+Category: Top
+Size: XS
+Core: TP
+Style: J0342
+Amount: 540.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0119-TP-XS | J0119 | 540.0 | diff=0.0
+- J0334-TP-XS | J0334 | 545.0 | diff=5.0
+- J0080-TP-XS | J0080 | 531.0 | diff=9.0

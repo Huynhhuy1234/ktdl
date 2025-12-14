@@ -1,0 +1,9 @@
+=== PRODUCT #1562 (J0148-SET-XXL) ===
+Category: Set
+Size: XXL
+Core: SET
+Style: J0148
+Amount: 636.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0347-SET-XXL | J0347 | 632.0 | diff=4.0

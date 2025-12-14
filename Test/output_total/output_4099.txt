@@ -1,0 +1,10 @@
+=== PRODUCT #4099 (NW028-TP-PJ-L) ===
+Category: Set
+Size: L
+Core: TP-PJ
+Style: NW028
+Amount: 563.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- NW001-TP-PJ-L | NW001 | 563.0 | diff=0.0
+- NW012-TP-PJ-L | NW012 | 560.0 | diff=3.0

@@ -1,0 +1,9 @@
+=== PRODUCT #324 (J0196-TP-XXL) ===
+Category: Top
+Size: XXL
+Core: TP
+Style: J0196
+Amount: 469.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0301-TP-XXL | J0301 | 463.0 | diff=6.0

@@ -1,0 +1,10 @@
+=== PRODUCT #4040 (JNE3688-TU-XS) ===
+Category: Top
+Size: XS
+Core: TU
+Style: JNE3688
+Amount: 599.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3673-TU-XS | JNE3673 | 599.0 | diff=0.0
+- JNE3864-TU-XS | JNE3864 | 599.0 | diff=0.0

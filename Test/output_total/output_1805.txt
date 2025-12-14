@@ -1,0 +1,11 @@
+=== PRODUCT #1805 (JNE3709-DR-S) ===
+Category: Western Dress
+Size: S
+Core: DR
+Style: JNE3709
+Amount: 833.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0416-DR-S | J0416 | 825.0 | diff=8.0
+- J0333-DR-S | J0333 | 825.0 | diff=8.0
+- JNE3881-DR-S | JNE3881 | 825.0 | diff=8.0

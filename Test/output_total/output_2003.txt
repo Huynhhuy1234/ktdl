@@ -1,0 +1,9 @@
+=== PRODUCT #2003 (J0210-DR-XS) ===
+Category: Ethnic Dress
+Size: XS
+Core: DR
+Style: J0210
+Amount: 783.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0212-DR-XS | J0212 | 791.0 | diff=8.0

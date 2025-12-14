@@ -1,0 +1,13 @@
+=== PRODUCT #1571 (JNE3715-KR-XXL) ===
+Category: kurta
+Size: XXL
+Core: KR
+Style: JNE3715
+Amount: 283.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3603-KR-XXL | JNE3603 | 286.0 | diff=3.0
+- JNE3761-KR-XXL | JNE3761 | 291.0 | diff=8.0
+- JNE3452-KR-XXL | JNE3452 | 291.0 | diff=8.0
+- JNE3775-KR-XXL | JNE3775 | 291.0 | diff=8.0
+- JNE3610-KR-XXL | JNE3610 | 291.0 | diff=8.0

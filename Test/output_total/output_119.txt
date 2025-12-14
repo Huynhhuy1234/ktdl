@@ -1,0 +1,12 @@
+=== PRODUCT #119 (J0334-TP-L) ===
+Category: Top
+Size: L
+Core: TP
+Style: J0334
+Amount: 512.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3665-TP-L | JNE3665 | 512.0 | diff=0.0
+- J0337-TP-L | J0337 | 518.0 | diff=6.0
+- J0307-TP-L | J0307 | 518.0 | diff=6.0
+- J0172-TP-L | J0172 | 518.0 | diff=6.0

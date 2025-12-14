@@ -1,0 +1,10 @@
+=== PRODUCT #6150 (JNE3927-KR-M) ===
+Category: kurta
+Size: M
+Core: KR
+Style: JNE3927
+Amount: 801.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3906-KR-M | JNE3906 | 801.0 | diff=0.0
+- J0314-KR-M | J0314 | 795.0 | diff=6.0

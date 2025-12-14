@@ -1,0 +1,11 @@
+=== PRODUCT #850 (J0329-KR-L) ===
+Category: kurta
+Size: L
+Core: KR
+Style: J0329
+Amount: 737.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3030-KR-L | JNE3030 | 736.0 | diff=1.0
+- JNE3910-KR-L | JNE3910 | 736.0 | diff=1.0
+- JNE3907-KR-L | JNE3907 | 736.0 | diff=1.0

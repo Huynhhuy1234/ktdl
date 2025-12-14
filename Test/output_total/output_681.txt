@@ -1,0 +1,12 @@
+=== PRODUCT #681 (JNE3665-TP-S) ===
+Category: Top
+Size: S
+Core: TP
+Style: JNE3665
+Amount: 493.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0337-TP-S | J0337 | 487.0 | diff=6.0
+- J0118-TP-S | J0118 | 487.0 | diff=6.0
+- J0344-TP-S | J0344 | 487.0 | diff=6.0
+- J0214-TP-S | J0214 | 499.0 | diff=6.0

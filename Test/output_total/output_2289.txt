@@ -1,0 +1,9 @@
+=== PRODUCT #2289 (BTM002-B-M) ===
+Category: Bottom
+Size: M
+Core: B
+Style: BTM002
+Amount: 518.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- BTM008-B-M | BTM008 | 518.0 | diff=0.0

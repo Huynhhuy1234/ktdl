@@ -1,0 +1,9 @@
+=== PRODUCT #4871 (SET336-KR-NP-M) ===
+Category: Set
+Size: M
+Core: KR-NP
+Style: SET336
+Amount: 865.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET341-KR-NP-M | SET341 | 857.0 | diff=8.0

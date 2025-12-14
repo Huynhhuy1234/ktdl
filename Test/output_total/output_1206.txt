@@ -1,0 +1,10 @@
+=== PRODUCT #1206 (J0186-SET-XXL) ===
+Category: Set
+Size: XXL
+Core: SET
+Style: J0186
+Amount: 848.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0349-SET-XXL | J0349 | 852.0 | diff=4.0
+- J0137-SET-XXL | J0137 | 841.0 | diff=7.0

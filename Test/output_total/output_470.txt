@@ -1,0 +1,13 @@
+=== PRODUCT #470 (MEN5008-KR-XXL) ===
+Category: kurta
+Size: XXL
+Core: KR
+Style: MEN5008
+Amount: 499.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- MEN5002-KR-XXL | MEN5002 | 499.0 | diff=0.0
+- MEN5028-KR-XXL | MEN5028 | 499.0 | diff=0.0
+- JNE3818-KR-XXL | JNE3818 | 499.0 | diff=0.0
+- MEN5009-KR-XXL | MEN5009 | 499.0 | diff=0.0
+- JNE3753-KR-XXL | JNE3753 | 499.0 | diff=0.0

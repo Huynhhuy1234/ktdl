@@ -1,0 +1,9 @@
+=== PRODUCT #1897 (J0051-KR-S) ===
+Category: kurta
+Size: S
+Core: KR
+Style: J0051
+Amount: 612.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3578-KR-S | JNE3578 | 612.0 | diff=0.0

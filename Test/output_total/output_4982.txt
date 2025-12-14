@@ -1,0 +1,9 @@
+=== PRODUCT #4982 (JNE3905-DR-XXL) ===
+Category: Western Dress
+Size: XXL
+Core: DR
+Style: JNE3905
+Amount: 625.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0308-DR-XXL | J0308 | 625.0 | diff=0.0

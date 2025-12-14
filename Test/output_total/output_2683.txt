@@ -1,0 +1,12 @@
+=== PRODUCT #2683 (J0214-TP-XXL) ===
+Category: Top
+Size: XXL
+Core: TP
+Style: J0214
+Amount: 495.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0297-TP-XXL | J0297 | 499.0 | diff=4.0
+- J0118-TP-XXL | J0118 | 487.0 | diff=8.0
+- J0344-TP-XXL | J0344 | 487.0 | diff=8.0
+- J0337-TP-XXL | J0337 | 487.0 | diff=8.0

@@ -1,0 +1,11 @@
+=== PRODUCT #3652 (JNE3863-TU-S) ===
+Category: Top
+Size: S
+Core: TU
+Style: JNE3863
+Amount: 574.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3680-TU-S | JNE3680 | 574.0 | diff=0.0
+- JNE3671-TU-S | JNE3671 | 574.0 | diff=0.0
+- JNE3674-TU-S | JNE3674 | 574.0 | diff=0.0

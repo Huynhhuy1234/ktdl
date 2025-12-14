@@ -1,0 +1,13 @@
+=== PRODUCT #4097 (JNE3550-KR-XS) ===
+Category: kurta
+Size: XS
+Core: KR
+Style: JNE3550
+Amount: 283.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3715-KR-XS | JNE3715 | 283.0 | diff=0.0
+- JNE3773-KR-XS | JNE3773 | 280.0 | diff=3.0
+- JNE3722-KR-XS | JNE3722 | 280.0 | diff=3.0
+- JNE3776-KR-XS | JNE3776 | 280.0 | diff=3.0
+- JNE3775-KR-XS | JNE3775 | 291.0 | diff=8.0

@@ -1,0 +1,9 @@
+=== PRODUCT #6508 (J0282-SET-M) ===
+Category: Set
+Size: M
+Core: SET
+Style: J0282
+Amount: 999.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0078-SET-M | J0078 | 999.0 | diff=0.0

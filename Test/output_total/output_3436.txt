@@ -1,0 +1,10 @@
+=== PRODUCT #3436 (J0399-DR-S) ===
+Category: Western Dress
+Size: S
+Core: DR
+Style: J0399
+Amount: 791.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0341-DR-S | J0341 | 791.0 | diff=0.0
+- JNE3861-DR-S | JNE3861 | 791.0 | diff=0.0

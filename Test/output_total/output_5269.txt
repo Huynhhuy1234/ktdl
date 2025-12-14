@@ -1,0 +1,9 @@
+=== PRODUCT #5269 (J0388-TP-XS) ===
+Category: Top
+Size: XS
+Core: TP
+Style: J0388
+Amount: 690.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0391-TP-XS | J0391 | 690.0 | diff=0.0

@@ -1,0 +1,11 @@
+=== PRODUCT #6445 (SET301-KR-PP-XXL) ===
+Category: Set
+Size: XXL
+Core: KR-PP
+Style: SET301
+Amount: 833.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET230-KR-PP-XXL | SET230 | 832.0 | diff=1.0
+- SET217-KR-PP-XXL | SET217 | 825.0 | diff=8.0
+- SET299-KR-PP-XXL | SET299 | 825.0 | diff=8.0

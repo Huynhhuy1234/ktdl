@@ -1,0 +1,9 @@
+=== PRODUCT #2907 (SET308-KR-PP-S) ===
+Category: Set
+Size: S
+Core: KR-PP
+Style: SET308
+Amount: 696.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET098-KR-PP-S | SET098 | 696.0 | diff=0.0

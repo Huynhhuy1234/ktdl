@@ -1,0 +1,9 @@
+=== PRODUCT #6219 (CH205-YELLOW-XL) ===
+Category: Bottom
+Size: XL
+Core: YELLOW
+Style: CH205
+Amount: 301.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- AN205-YELLOW-XL | AN205 | 301.0 | diff=0.0

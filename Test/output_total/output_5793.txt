@@ -1,0 +1,13 @@
+=== PRODUCT #5793 (J0235-SKD-XL) ===
+Category: Set
+Size: XL
+Core: SKD
+Style: J0235
+Amount: 1089.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0375-SKD-XL | J0375 | 1085.0 | diff=4.0
+- J0377-SKD-XL | J0377 | 1099.0 | diff=10.0
+- J0378-SKD-XL | J0378 | 1099.0 | diff=10.0
+- J0369-SKD-XL | J0369 | 1099.0 | diff=10.0
+- J0370-SKD-XL | J0370 | 1099.0 | diff=10.0

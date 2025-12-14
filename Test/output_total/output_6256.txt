@@ -1,0 +1,13 @@
+=== PRODUCT #6256 (JNE3257-KR-XL) ===
+Category: kurta
+Size: XL
+Core: KR
+Style: JNE3257
+Amount: 423.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3736-KR-XL | JNE3736 | 421.0 | diff=2.0
+- J0033-KR-XL | J0033 | 425.0 | diff=2.0
+- JNE3288-KR-XL | JNE3288 | 420.0 | diff=3.0
+- JNE3454-KR-XL | JNE3454 | 419.0 | diff=4.0
+- JNE3501-KR-XL | JNE3501 | 419.0 | diff=4.0

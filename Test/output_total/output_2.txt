@@ -1,0 +1,12 @@
+=== PRODUCT #2 (JNE3671-TU-XXXL) ===
+Category: Top
+Size: 3XL
+Core: TU
+Style: JNE3671
+Amount: 574.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3863-TU-XXXL | JNE3863 | 574.0 | diff=0.0
+- JNE3680-TU-XXXL | JNE3680 | 574.0 | diff=0.0
+- JNE3672-TU-XXXL | JNE3672 | 574.0 | diff=0.0
+- JNE3674-TU-XXXL | JNE3674 | 574.0 | diff=0.0

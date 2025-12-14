@@ -1,0 +1,13 @@
+=== PRODUCT #4246 (J0310-TP-XXL) ===
+Category: Top
+Size: XXL
+Core: TP
+Style: J0310
+Amount: 339.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0160-TP-XXL | J0160 | 339.0 | diff=0.0
+- J0048-TP-XXL | J0048 | 339.0 | diff=0.0
+- J0189-TP-XXL | J0189 | 329.0 | diff=10.0
+- J0122-TP-XXL | J0122 | 329.0 | diff=10.0
+- J0087-TP-XXL | J0087 | 329.0 | diff=10.0

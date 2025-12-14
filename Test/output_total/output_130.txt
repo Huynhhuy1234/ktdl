@@ -1,0 +1,10 @@
+=== PRODUCT #130 (J0314-KR-M) ===
+Category: kurta
+Size: M
+Core: KR
+Style: J0314
+Amount: 795.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3906-KR-M | JNE3906 | 801.0 | diff=6.0
+- JNE3927-KR-M | JNE3927 | 801.0 | diff=6.0

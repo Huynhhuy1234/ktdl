@@ -1,0 +1,12 @@
+=== PRODUCT #5797 (SET335-KR-NP-XXXL) ===
+Category: Set
+Size: 3XL
+Core: KR-NP
+Style: SET335
+Amount: 725.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET405-KR-NP-XXXL | SET405 | 725.0 | diff=0.0
+- SET225-KR-NP-XXXL | SET225 | 729.0 | diff=4.0
+- SET197-KR-NP-XXXL | SET197 | 730.0 | diff=5.0
+- SET156-KR-NP-XXXL | SET156 | 716.0 | diff=9.0

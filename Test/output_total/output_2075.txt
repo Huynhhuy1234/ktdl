@@ -1,0 +1,10 @@
+=== PRODUCT #2075 (SET377-KR-NP-XL) ===
+Category: Set
+Size: XL
+Core: KR-NP
+Style: SET377
+Amount: 1238.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET378-KR-NP-XL | SET378 | 1245.0 | diff=7.0
+- SET403-KR-NP-XL | SET403 | 1228.0 | diff=10.0

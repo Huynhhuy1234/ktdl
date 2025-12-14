@@ -1,0 +1,10 @@
+=== PRODUCT #4240 (NW013-ST-SR-XXXL) ===
+Category: Set
+Size: 3XL
+Core: ST-SR
+Style: NW013
+Amount: 496.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- NW006-ST-SR-XXXL | NW006 | 496.0 | diff=0.0
+- NW029-ST-SR-XXXL | NW029 | 495.0 | diff=1.0

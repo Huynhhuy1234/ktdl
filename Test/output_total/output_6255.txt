@@ -1,0 +1,9 @@
+=== PRODUCT #6255 (JNE3909-KR-S) ===
+Category: kurta
+Size: S
+Core: KR
+Style: JNE3909
+Amount: 654.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- MEN5001-KR-S | MEN5001 | 655.0 | diff=1.0

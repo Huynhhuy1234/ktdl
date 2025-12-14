@@ -1,0 +1,10 @@
+=== PRODUCT #202 (SET293-KR-NP-S) ===
+Category: Set
+Size: S
+Core: KR-NP
+Style: SET293
+Amount: 736.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET253-KR-NP-S | SET253 | 737.0 | diff=1.0
+- SET144-KR-NP-S | SET144 | 729.0 | diff=7.0

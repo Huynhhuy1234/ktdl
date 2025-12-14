@@ -1,0 +1,10 @@
+=== PRODUCT #5285 (JNE3894-TP-L) ===
+Category: Top
+Size: L
+Core: TP
+Style: JNE3894
+Amount: 749.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0418-TP-L | J0418 | 749.0 | diff=0.0
+- J0204-TP-L | J0204 | 751.0 | diff=2.0

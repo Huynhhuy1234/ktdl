@@ -1,0 +1,10 @@
+=== PRODUCT #4161 (J0091-TP-L) ===
+Category: Top
+Size: L
+Core: TP
+Style: J0091
+Amount: 298.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- JNE3666-TP-L | JNE3666 | 299.0 | diff=1.0
+- J0074-TP-L | J0074 | 294.0 | diff=4.0

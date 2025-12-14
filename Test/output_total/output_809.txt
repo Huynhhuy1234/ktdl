@@ -1,0 +1,11 @@
+=== PRODUCT #809 (SET356-KR-NP-XS) ===
+Category: Set
+Size: XS
+Core: KR-NP
+Style: SET356
+Amount: 1099.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- SET313-KR-NP-XS | SET313 | 1099.0 | diff=0.0
+- SET359-KR-NP-XS | SET359 | 1099.0 | diff=0.0
+- SET365-KR-NP-XS | SET365 | 1099.0 | diff=0.0

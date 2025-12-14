@@ -1,0 +1,13 @@
+=== PRODUCT #4808 (J0151-KR-L) ===
+Category: kurta
+Size: L
+Core: KR
+Style: J0151
+Amount: 495.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- MEN5007-KR-L | MEN5007 | 495.0 | diff=0.0
+- MEN5002-KR-L | MEN5002 | 499.0 | diff=4.0
+- MEN5001-KR-L | MEN5001 | 499.0 | diff=4.0
+- MEN5013-KR-L | MEN5013 | 499.0 | diff=4.0
+- MEN5012-KR-L | MEN5012 | 499.0 | diff=4.0

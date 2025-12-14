@@ -1,0 +1,12 @@
+=== PRODUCT #6205 (J0374-KR-XS) ===
+Category: kurta
+Size: XS
+Core: KR
+Style: J0374
+Amount: 596.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0373-KR-XS | J0373 | 599.0 | diff=3.0
+- J0330-KR-XS | J0330 | 599.0 | diff=3.0
+- JNE3311-KR-XS | JNE3311 | 599.0 | diff=3.0
+- J0187-KR-XS | J0187 | 587.0 | diff=9.0

@@ -1,0 +1,9 @@
+=== PRODUCT #2624 (J0092-SET-XS) ===
+Category: Set
+Size: XS
+Core: SET
+Style: J0092
+Amount: 833.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0137-SET-XS | J0137 | 841.0 | diff=8.0

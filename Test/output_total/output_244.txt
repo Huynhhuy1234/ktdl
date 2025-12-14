@@ -1,0 +1,13 @@
+=== PRODUCT #244 (MEN5024-KR-M) ===
+Category: kurta
+Size: M
+Core: KR
+Style: MEN5024
+Amount: 475.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- MEN5027-KR-M | MEN5027 | 475.0 | diff=0.0
+- MEN5006-KR-M | MEN5006 | 475.0 | diff=0.0
+- JNE3822-KR-M | JNE3822 | 474.0 | diff=1.0
+- MEN5019-KR-M | MEN5019 | 476.0 | diff=1.0
+- JNE3817-KR-M | JNE3817 | 474.0 | diff=1.0

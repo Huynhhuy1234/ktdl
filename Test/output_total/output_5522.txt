@@ -1,0 +1,9 @@
+=== PRODUCT #5522 (J0419-TP-S) ===
+Category: Top
+Size: S
+Core: TP
+Style: J0419
+Amount: 791.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- J0417-TP-S | J0417 | 791.0 | diff=0.0

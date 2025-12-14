@@ -1,0 +1,9 @@
+=== PRODUCT #3306 (NW015-TP-PJ-XXL) ===
+Category: Set
+Size: XXL
+Core: TP-PJ
+Style: NW015
+Amount: 539.0
+
+=== 5 GỢI Ý SẢN PHẨM ===
+- NW028-TP-PJ-XXL | NW028 | 539.0 | diff=0.0
