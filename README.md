@@ -20,3 +20,20 @@ This project implements a product recommendation system using:
 ```bash
 pip install --no-index --find-links=envi -r requirement.txt
 
+
+### Running the project
+
+
+Run the user interface:
+
+streamlit run main.py
+
+
+Test Apriori algorithm:
+
+python apriori/apriori_test.py
+
+
+Test Clustering algorithm:
+
+python clustering/clustering_test.py
