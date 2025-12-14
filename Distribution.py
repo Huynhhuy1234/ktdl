@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 
 # ====== CONFIG ======
-INPUT_CSV = "new_data_to_analysis.csv"
+INPUT_CSV = "Dataset/new_data_to_analysis.csv"
 OUT_DIR = Path("dists")
 TOP_N_FOR_HICARD = 10  
 
