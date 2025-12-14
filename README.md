@@ -19,7 +19,7 @@ This project implements a product recommendation system using:
  Install libraries from local folder (offline)
 ```bash
 pip install --no-index --find-links=envi -r requirement.txt
-
+```
 ---
 
 ## 4. Running the project
@@ -27,11 +27,12 @@ pip install --no-index --find-links=envi -r requirement.txt
 ### Run the user interface:
 ```bash
 streamlit run main.py
-
+```
 ### Test Apriori algorithm:
 ```bash
 python apriori/apriori_test.py
-
+```
 ### Test Clustering algorithm:
 ```bash
 python clustering/clustering_test.py
+```
