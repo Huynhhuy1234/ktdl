@@ -16,7 +16,7 @@ This project implements a product recommendation system using:
 
 ## 3. Installation
 
-### Install libraries from local folder (offline)
+ Install libraries from local folder (offline)
 ```bash
 pip install --no-index --find-links=envi -r requirement.txt
 
