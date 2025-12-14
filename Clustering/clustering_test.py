@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from pathlib import Path
 
-from Clutering import train_cluster, recommend_by_sku_cluster
+from Clutering_model import train_cluster, recommend_by_sku_cluster
 
 
 # =========================
@@ -73,10 +73,12 @@ def evaluate_all_testcases(df, X, output_dir, top_n=5, price_tol=10.0):
 # =========================
 # MAIN
 # =========================
-DATA_PATH = "Dataset/new_data_to_analysis.csv"
-OUTPUT_DIR = "Test/output_total"  # thư mục chứa các file output cũ
+
 
 if __name__ ==  "__main__":
+    DATA_PATH = "Dataset/new_data_to_analysis.csv"
+    OUTPUT_DIR = "Test/output_total"  # thư mục chứa các file output cũ
+
     df = pd.read_csv(DATA_PATH)
 
     df, X, kmeans, ct, sil_score, dbi_score = train_cluster(df, n_clusters=4)
