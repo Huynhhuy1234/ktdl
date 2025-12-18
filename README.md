@@ -16,7 +16,11 @@ This project implements a product recommendation system using:
 
 ## 3. Installation
 
- Install libraries from local folder (offline)
+ - Download the envi folder from the following link:
+ https://drive.google.com/drive/folders/1iEFS-HZK6fWOZ9FDC1pRoTytghrbdTiT?usp=drive_link
+
+ - After downloading, copy the envi folder and paste it into the project source directory.
+ - Install libraries from local folder (offline)
 ```bash
 pip install --no-index --find-links=envi -r requirement.txt
 ```
@@ -24,7 +28,9 @@ pip install --no-index --find-links=envi -r requirement.txt
 
 ## 4. Data Preparation
 
-- Place the Amazon Sales Report dataset into the dataset/ directory.
+- Download the Amazon Sales Report dataset from the following link:
+https://drive.google.com/file/d/1CfKhi9JqJ7WvwYc3-Rge2_0UNMrdjEOM/view?usp=drive_link
+- Place the dataset into the dataset/ directory.
 - Run the preprocessing script to clean and transform the raw data:
 ```bash
 python preprocessing.py
