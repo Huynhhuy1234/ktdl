@@ -22,6 +22,21 @@ pip install --no-index --find-links=envi -r requirement.txt
 ```
 ---
 
+## 5. Data Preparation
+
+- Place the Amazon Sales Report dataset into the dataset/ directory.
+- Run the preprocessing script to clean and transform the raw data:
+```bash
+python preprocessing.py
+```
+This step will generate the file new_data_to_analysis, which is required for further analysis.
+
+
+- Navigate to the test/ directory and generate test cases:
+```bash
+python create_test_file.py
+```
+Only after completing these steps should you proceed to run the main system and algorithm tests.
 ## 4. Running the project
 
 ### Run the user interface:
