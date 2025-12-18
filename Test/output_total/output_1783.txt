@@ -1,9 +1,0 @@
-=== PRODUCT #1783 (J0252-SKD-XS) ===
-Category: Set
-Size: XS
-Core: SKD
-Style: J0252
-Amount: 939.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0249-SKD-XS | J0249 | 939.0 | diff=0.0

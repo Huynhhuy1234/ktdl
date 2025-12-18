@@ -1,9 +1,0 @@
-=== PRODUCT #5426 (SET036-KR-NP-XXXL) ===
-Category: Set
-Size: 3XL
-Core: KR-NP
-Style: SET036
-Amount: 383.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET202-KR-NP-XXXL | SET202 | 383.0 | diff=0.0

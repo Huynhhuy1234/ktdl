@@ -1,9 +1,0 @@
-=== PRODUCT #3566 (J0308-DR-XS) ===
-Category: Western Dress
-Size: XS
-Core: DR
-Style: J0308
-Amount: 665.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0081-DR-XS | J0081 | 658.0 | diff=7.0

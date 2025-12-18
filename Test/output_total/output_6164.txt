@@ -1,9 +1,0 @@
-=== PRODUCT #6164 (J0232-SKD-M) ===
-Category: Set
-Size: M
-Core: SKD
-Style: J0232
-Amount: 1199.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0109-SKD-M | J0109 | 1199.0 | diff=0.0

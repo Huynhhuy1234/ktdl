@@ -1,9 +1,0 @@
-=== PRODUCT #5165 (J0385-KR-L) ===
-Category: kurta
-Size: L
-Core: KR
-Style: J0385
-Amount: 888.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3866-KR-L | JNE3866 | 888.0 | diff=0.0

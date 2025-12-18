@@ -1,9 +1,0 @@
-=== PRODUCT #5842 (J0278-SET-XXL) ===
-Category: Set
-Size: XXL
-Core: SET
-Style: J0278
-Amount: 761.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0351-SET-XXL | J0351 | 771.0 | diff=10.0

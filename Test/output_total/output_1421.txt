@@ -1,9 +1,0 @@
-=== PRODUCT #1421 (JNE3707-DR-S) ===
-Category: Western Dress
-Size: S
-Core: DR
-Style: JNE3707
-Amount: 496.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0062-DR-S | J0062 | 491.0 | diff=5.0

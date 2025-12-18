@@ -1,9 +1,0 @@
-=== PRODUCT #1505 (J0098-TP-XXXL) ===
-Category: Top
-Size: 3XL
-Core: TP
-Style: J0098
-Amount: 413.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0111-TP-XXXL | J0111 | 423.0 | diff=10.0

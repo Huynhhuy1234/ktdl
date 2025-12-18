@@ -1,9 +1,0 @@
-=== PRODUCT #4734 (PSET264-KR-NP-6XL) ===
-Category: Set
-Size: 6XL
-Core: KR-NP
-Style: PSET264
-Amount: 898.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- PSET268-KR-NP-6XL | PSET268 | 898.0 | diff=0.0

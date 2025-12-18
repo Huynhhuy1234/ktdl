@@ -1,9 +1,0 @@
-=== PRODUCT #5563 (J0323-CD-S) ===
-Category: Top
-Size: S
-Core: CD
-Style: J0323
-Amount: 534.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0290-CD-S | J0290 | 534.0 | diff=0.0

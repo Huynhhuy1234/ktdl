@@ -1,9 +1,0 @@
-=== PRODUCT #5013 (SET317-KR-PP-M) ===
-Category: Set
-Size: M
-Core: KR-PP
-Style: SET317
-Amount: 1199.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET437-KR-PP-M | SET437 | 1204.0 | diff=5.0

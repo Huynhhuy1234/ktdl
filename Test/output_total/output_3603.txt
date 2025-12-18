@@ -1,9 +1,0 @@
-=== PRODUCT #3603 (J0195-TP-L) ===
-Category: Top
-Size: L
-Core: TP
-Style: J0195
-Amount: 665.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0389-TP-L | J0389 | 665.0 | diff=0.0

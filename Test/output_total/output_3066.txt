@@ -1,9 +1,0 @@
-=== PRODUCT #3066 (J0224-SKD-XXL) ===
-Category: Set
-Size: XXL
-Core: SKD
-Style: J0224
-Amount: 1593.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0240-SKD-XXL | J0240 | 1593.0 | diff=0.0

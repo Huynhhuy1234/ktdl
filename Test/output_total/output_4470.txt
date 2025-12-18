@@ -1,9 +1,0 @@
-=== PRODUCT #4470 (JNE3676-TU-XS) ===
-Category: Top
-Size: XS
-Core: TU
-Style: JNE3676
-Amount: 449.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3686-TU-XS | JNE3686 | 446.0 | diff=3.0

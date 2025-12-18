@@ -1,9 +1,0 @@
-=== PRODUCT #4526 (SET236-KR-PP-XXXL) ===
-Category: Set
-Size: 3XL
-Core: KR-PP
-Style: SET236
-Amount: 678.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET274-KR-PP-XXXL | SET274 | 682.0 | diff=4.0

@@ -1,9 +1,0 @@
-=== PRODUCT #5929 (J0431-DR-L) ===
-Category: Western Dress
-Size: L
-Core: DR
-Style: J0431
-Amount: 899.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0415-DR-L | J0415 | 899.0 | diff=0.0

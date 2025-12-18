@@ -1,9 +1,0 @@
-=== PRODUCT #4678 (JNE09187-PINK-SR-JP7104RNV) ===
-Category: Saree
-Size: Free
-Core: PINK-SR
-Style: JNE09187
-Amount: 819.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE09210-PINK-SR-JP8101RNV | JNE09210 | 819.0 | diff=0.0

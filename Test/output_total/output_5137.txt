@@ -1,9 +1,0 @@
-=== PRODUCT #5137 (J0145-SET-M) ===
-Category: Set
-Size: M
-Core: SET
-Style: J0145
-Amount: 493.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0348-SET-M | J0348 | 499.0 | diff=6.0

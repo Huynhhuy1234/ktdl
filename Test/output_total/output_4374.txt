@@ -1,9 +1,0 @@
-=== PRODUCT #4374 (J0081-DR-XXXL) ===
-Category: Western Dress
-Size: 3XL
-Core: DR
-Style: J0081
-Amount: 658.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0308-DR-XXXL | J0308 | 665.0 | diff=7.0

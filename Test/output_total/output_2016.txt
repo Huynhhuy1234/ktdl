@@ -1,9 +1,0 @@
-=== PRODUCT #2016 (JNE3675-TU-XXL) ===
-Category: Top
-Size: XXL
-Core: TU
-Style: JNE3675
-Amount: 545.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3687-TU-XXL | JNE3687 | 549.0 | diff=4.0

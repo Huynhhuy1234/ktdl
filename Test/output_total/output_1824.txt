@@ -1,9 +1,0 @@
-=== PRODUCT #1824 (SET341-KR-NP-XL) ===
-Category: Set
-Size: XL
-Core: KR-NP
-Style: SET341
-Amount: 899.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET060-KR-NP-XL | SET060 | 891.0 | diff=8.0

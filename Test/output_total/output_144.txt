@@ -1,9 +1,0 @@
-=== PRODUCT #144 (JNE3440-KR-N-L) ===
-Category: kurta
-Size: L
-Core: KR-N
-Style: JNE3440
-Amount: 399.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3421-KR-N-L | JNE3421 | 399.0 | diff=0.0

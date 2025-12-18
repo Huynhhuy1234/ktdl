@@ -1,9 +1,0 @@
-=== PRODUCT #2043 (JNE3578-KR-S) ===
-Category: kurta
-Size: S
-Core: KR
-Style: JNE3578
-Amount: 612.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0051-KR-S | J0051 | 612.0 | diff=0.0

@@ -1,9 +1,0 @@
-=== PRODUCT #5506 (JNE3904-DR-S) ===
-Category: Western Dress
-Size: S
-Core: DR
-Style: JNE3904
-Amount: 599.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3860-DR-S | JNE3860 | 596.0 | diff=3.0

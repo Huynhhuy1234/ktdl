@@ -1,9 +1,0 @@
-=== PRODUCT #215 (J0003-SET-XL) ===
-Category: Set
-Size: XL
-Core: SET
-Style: J0003
-Amount: 696.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0134-SET-XL | J0134 | 699.0 | diff=3.0

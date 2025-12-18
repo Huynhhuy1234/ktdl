@@ -1,9 +1,0 @@
-=== PRODUCT #5514 (SET315-KR-PP-M) ===
-Category: Set
-Size: M
-Core: KR-PP
-Style: SET315
-Amount: 721.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET236-KR-PP-M | SET236 | 729.0 | diff=8.0

@@ -1,9 +1,0 @@
-=== PRODUCT #6100 (NW006-ST-SR-XS) ===
-Category: Set
-Size: XS
-Core: ST-SR
-Style: NW006
-Amount: 496.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- NW013-ST-SR-XS | NW013 | 496.0 | diff=0.0

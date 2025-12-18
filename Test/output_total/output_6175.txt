@@ -1,9 +1,0 @@
-=== PRODUCT #6175 (NW006-ST-SR-M) ===
-Category: Set
-Size: M
-Core: ST-SR
-Style: NW006
-Amount: 481.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- NW029-ST-SR-M | NW029 | 474.0 | diff=7.0

@@ -1,9 +1,0 @@
-=== PRODUCT #2230 (SET062-KR-SP-XXXL) ===
-Category: Set
-Size: 3XL
-Core: KR-SP
-Style: SET062
-Amount: 684.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET004-KR-SP-XXXL | SET004 | 682.0 | diff=2.0

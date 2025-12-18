@@ -1,9 +1,0 @@
-=== PRODUCT #1649 (J0241-SKD-XL) ===
-Category: Set
-Size: XL
-Core: SKD
-Style: J0241
-Amount: 1338.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0103-SKD-XL | J0103 | 1338.0 | diff=0.0

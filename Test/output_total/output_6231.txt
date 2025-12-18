@@ -1,9 +1,0 @@
-=== PRODUCT #6231 (JNE3899-KR-A-S) ===
-Category: kurta
-Size: S
-Core: KR-A
-Style: JNE3899
-Amount: 547.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE2294-KR-A-S | JNE2294 | 544.0 | diff=3.0

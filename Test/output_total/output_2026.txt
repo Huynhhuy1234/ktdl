@@ -1,9 +1,0 @@
-=== PRODUCT #2026 (SET044-KR-NP-L) ===
-Category: Set
-Size: L
-Core: KR-NP
-Style: SET044
-Amount: 612.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET273-KR-NP-L | SET273 | 612.0 | diff=0.0

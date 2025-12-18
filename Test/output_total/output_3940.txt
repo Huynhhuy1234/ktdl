@@ -1,9 +1,0 @@
-=== PRODUCT #3940 (SET366-KR-NP-XL) ===
-Category: Set
-Size: XL
-Core: KR-NP
-Style: SET366
-Amount: 1163.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET438-KR-NP-XL | SET438 | 1164.0 | diff=1.0

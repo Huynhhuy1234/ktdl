@@ -1,9 +1,0 @@
-=== PRODUCT #5678 (JNE3791-DR-XXL) ===
-Category: Ethnic Dress
-Size: XXL
-Core: DR
-Style: JNE3791
-Amount: 399.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0164-DR-XXL | J0164 | 399.0 | diff=0.0

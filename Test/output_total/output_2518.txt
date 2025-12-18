@@ -1,9 +1,0 @@
-=== PRODUCT #2518 (J0180-DR-XXL) ===
-Category: Western Dress
-Size: XXL
-Core: DR
-Style: J0180
-Amount: 453.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0153-DR-XXL | J0153 | 443.0 | diff=10.0

@@ -1,9 +1,0 @@
-=== PRODUCT #2091 (SET075-KR-DH-XS) ===
-Category: Set
-Size: XS
-Core: KR-DH
-Style: SET075
-Amount: 648.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET182-KR-DH-XS | SET182 | 657.0 | diff=9.0

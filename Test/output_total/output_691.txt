@@ -1,9 +1,0 @@
-=== PRODUCT #691 (JNE3669-TU-S) ===
-Category: Top
-Size: S
-Core: TU
-Style: JNE3669
-Amount: 625.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3691-TU-S | JNE3691 | 625.0 | diff=0.0

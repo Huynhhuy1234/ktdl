@@ -1,9 +1,0 @@
-=== PRODUCT #5296 (J0385-KR-XXL) ===
-Category: kurta
-Size: XXL
-Core: KR
-Style: J0385
-Amount: 888.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3866-KR-XXL | JNE3866 | 888.0 | diff=0.0

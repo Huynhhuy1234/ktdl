@@ -1,9 +1,0 @@
-=== PRODUCT #3282 (JNE3744-TU-XS) ===
-Category: Top
-Size: XS
-Core: TU
-Style: JNE3744
-Amount: 665.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3691-TU-XS | JNE3691 | 665.0 | diff=0.0

@@ -1,9 +1,0 @@
-=== PRODUCT #1069 (SET187-KR-DH-XXL) ===
-Category: Set
-Size: XXL
-Core: KR-DH
-Style: SET187
-Amount: 599.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET182-KR-DH-XXL | SET182 | 599.0 | diff=0.0

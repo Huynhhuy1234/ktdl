@@ -1,9 +1,0 @@
-=== PRODUCT #4190 (NW016-ST-SR-XL) ===
-Category: Set
-Size: XL
-Core: ST-SR
-Style: NW016
-Amount: 560.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- NW014-ST-SR-XL | NW014 | 560.0 | diff=0.0

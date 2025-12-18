@@ -1,9 +1,0 @@
-=== PRODUCT #1967 (J0135-SET-XS) ===
-Category: Set
-Size: XS
-Core: SET
-Style: J0135
-Amount: 591.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0147-SET-XS | J0147 | 583.0 | diff=8.0

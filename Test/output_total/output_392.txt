@@ -1,9 +1,0 @@
-=== PRODUCT #392 (SET187-KR-DH-M) ===
-Category: Set
-Size: M
-Core: KR-DH
-Style: SET187
-Amount: 599.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET186-KR-DH-M | SET186 | 599.0 | diff=0.0

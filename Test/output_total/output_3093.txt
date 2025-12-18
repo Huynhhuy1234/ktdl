@@ -1,9 +1,0 @@
-=== PRODUCT #3093 (SET338-KR-NP-L) ===
-Category: Set
-Size: L
-Core: KR-NP
-Style: SET338
-Amount: 1186.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET401-KR-NP-L | SET401 | 1186.0 | diff=0.0

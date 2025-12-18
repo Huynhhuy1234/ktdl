@@ -1,9 +1,0 @@
-=== PRODUCT #2542 (J0106-KR-S) ===
-Category: Western Dress
-Size: S
-Core: KR
-Style: J0106
-Amount: 999.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0105-KR-S | J0105 | 999.0 | diff=0.0

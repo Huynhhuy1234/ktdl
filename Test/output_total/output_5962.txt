@@ -1,9 +1,0 @@
-=== PRODUCT #5962 (JNE3906-KR-XL) ===
-Category: kurta
-Size: XL
-Core: KR
-Style: JNE3906
-Amount: 852.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3927-KR-XL | JNE3927 | 852.0 | diff=0.0

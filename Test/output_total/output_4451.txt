@@ -1,9 +1,0 @@
-=== PRODUCT #4451 (PJNE3607-KR-4XL) ===
-Category: kurta
-Size: 4XL
-Core: KR
-Style: PJNE3607
-Amount: 505.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- PJNE3368-KR-4XL | PJNE3368 | 505.0 | diff=0.0

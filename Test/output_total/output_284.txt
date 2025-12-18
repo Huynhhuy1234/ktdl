@@ -1,9 +1,0 @@
-=== PRODUCT #284 (SET398-KR-PP-XXL) ===
-Category: Set
-Size: XXL
-Core: KR-PP
-Style: SET398
-Amount: 1186.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET317-KR-PP-XXL | SET317 | 1186.0 | diff=0.0

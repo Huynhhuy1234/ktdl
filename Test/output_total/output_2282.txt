@@ -1,9 +1,0 @@
-=== PRODUCT #2282 (JNE3383-KR-A-XS) ===
-Category: kurta
-Size: XS
-Core: KR-A
-Style: JNE3383
-Amount: 442.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3389-KR-A-XS | JNE3389 | 452.0 | diff=10.0

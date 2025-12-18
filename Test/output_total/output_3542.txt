@@ -1,9 +1,0 @@
-=== PRODUCT #3542 (SET225-KR-NP-M) ===
-Category: Set
-Size: M
-Core: KR-NP
-Style: SET225
-Amount: 729.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET266-KR-NP-M | SET266 | 729.0 | diff=0.0

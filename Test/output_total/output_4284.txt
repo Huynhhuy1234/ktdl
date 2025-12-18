@@ -1,9 +1,0 @@
-=== PRODUCT #4284 (J0034-SET-M) ===
-Category: Set
-Size: M
-Core: SET
-Style: J0034
-Amount: 717.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0137-SET-M | J0137 | 721.0 | diff=4.0

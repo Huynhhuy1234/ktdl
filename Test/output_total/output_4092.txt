@@ -1,9 +1,0 @@
-=== PRODUCT #4092 (SET038-KR-PP-L) ===
-Category: Set
-Size: L
-Core: KR-PP
-Style: SET038
-Amount: 579.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET210-KR-PP-L | SET210 | 575.0 | diff=4.0

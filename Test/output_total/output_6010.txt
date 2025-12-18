@@ -1,9 +1,0 @@
-=== PRODUCT #6010 (J0042-DR-XS) ===
-Category: Western Dress
-Size: XS
-Core: DR
-Style: J0042
-Amount: 634.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3905-DR-XS | JNE3905 | 625.0 | diff=9.0

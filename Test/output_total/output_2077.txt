@@ -1,9 +1,0 @@
-=== PRODUCT #2077 (J0009-SKD-S) ===
-Category: Set
-Size: S
-Core: SKD
-Style: J0009
-Amount: 999.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0376-SKD-S | J0376 | 999.0 | diff=0.0

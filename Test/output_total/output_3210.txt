@@ -1,9 +1,0 @@
-=== PRODUCT #3210 (SET038-KR-PP-XXXL) ===
-Category: Set
-Size: 3XL
-Core: KR-PP
-Style: SET038
-Amount: 579.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET210-KR-PP-XXXL | SET210 | 575.0 | diff=4.0

@@ -1,9 +1,0 @@
-=== PRODUCT #4474 (J0297-TP-XXL) ===
-Category: Top
-Size: XXL
-Core: TP
-Style: J0297
-Amount: 499.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0214-TP-XXL | J0214 | 495.0 | diff=4.0

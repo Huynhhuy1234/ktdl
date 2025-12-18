@@ -1,9 +1,0 @@
-=== PRODUCT #5421 (J0388-TP-XL) ===
-Category: Top
-Size: XL
-Core: TP
-Style: J0388
-Amount: 690.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0391-TP-XL | J0391 | 690.0 | diff=0.0

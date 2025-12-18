@@ -1,9 +1,0 @@
-=== PRODUCT #4283 (J0088-TP-M) ===
-Category: Top
-Size: M
-Core: TP
-Style: J0088
-Amount: 399.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0181-TP-M | J0181 | 399.0 | diff=0.0

@@ -1,9 +1,0 @@
-=== PRODUCT #5954 (J0379-SKD-XXXL) ===
-Category: Set
-Size: 3XL
-Core: SKD
-Style: J0379
-Amount: 1369.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0224-SKD-XXXL | J0224 | 1364.0 | diff=5.0

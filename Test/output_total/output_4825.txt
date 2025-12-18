@@ -1,9 +1,0 @@
-=== PRODUCT #4825 (BTM029-NP-S) ===
-Category: Bottom
-Size: S
-Core: NP
-Style: BTM029
-Amount: 518.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- BTM026-NP-S | BTM026 | 518.0 | diff=0.0

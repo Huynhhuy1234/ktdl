@@ -1,9 +1,0 @@
-=== PRODUCT #6143 (SET438-KR-NP-XL) ===
-Category: Set
-Size: XL
-Core: KR-NP
-Style: SET438
-Amount: 1164.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET366-KR-NP-XL | SET366 | 1163.0 | diff=1.0

@@ -1,9 +1,0 @@
-=== PRODUCT #1642 (SET366-KR-NP-L) ===
-Category: Set
-Size: L
-Core: KR-NP
-Style: SET366
-Amount: 1163.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET369-KR-NP-L | SET369 | 1173.0 | diff=10.0

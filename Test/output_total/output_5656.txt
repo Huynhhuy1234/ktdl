@@ -1,9 +1,0 @@
-=== PRODUCT #5656 (J0391-TP-M) ===
-Category: Top
-Size: M
-Core: TP
-Style: J0391
-Amount: 690.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0388-TP-M | J0388 | 690.0 | diff=0.0

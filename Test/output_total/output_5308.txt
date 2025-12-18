@@ -1,9 +1,0 @@
-=== PRODUCT #5308 (SET321-KR-DPT-L) ===
-Category: Set
-Size: L
-Core: KR-DPT
-Style: SET321
-Amount: 967.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET333-KR-DPT-L | SET333 | 967.0 | diff=0.0

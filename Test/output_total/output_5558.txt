@@ -1,9 +1,0 @@
-=== PRODUCT #5558 (SET302-KR-PP-XL) ===
-Category: Set
-Size: XL
-Core: KR-PP
-Style: SET302
-Amount: 799.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET226-KR-PP-XL | SET226 | 799.0 | diff=0.0

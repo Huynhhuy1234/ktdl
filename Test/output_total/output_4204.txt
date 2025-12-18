@@ -1,9 +1,0 @@
-=== PRODUCT #4204 (SET004-KR-SP-M) ===
-Category: Set
-Size: M
-Core: KR-SP
-Style: SET004
-Amount: 682.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET062-KR-SP-M | SET062 | 684.0 | diff=2.0

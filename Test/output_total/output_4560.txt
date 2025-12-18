@@ -1,9 +1,0 @@
-=== PRODUCT #4560 (JNE3687-TU-XXL) ===
-Category: Top
-Size: XXL
-Core: TU
-Style: JNE3687
-Amount: 549.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3675-TU-XXL | JNE3675 | 545.0 | diff=4.0

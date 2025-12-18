@@ -1,9 +1,0 @@
-=== PRODUCT #5396 (JNE3660-TP-N-XS) ===
-Category: Top
-Size: XS
-Core: TP-N
-Style: JNE3660
-Amount: 371.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3649-TP-N-XS | JNE3649 | 377.0 | diff=6.0

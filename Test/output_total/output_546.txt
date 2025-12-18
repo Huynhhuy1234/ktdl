@@ -1,9 +1,0 @@
-=== PRODUCT #546 (NW015-TP-PJ-M) ===
-Category: Set
-Size: M
-Core: TP-PJ
-Style: NW015
-Amount: 523.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- NW003-TP-PJ-M | NW003 | 519.0 | diff=4.0

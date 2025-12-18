@@ -1,9 +1,0 @@
-=== PRODUCT #5436 (SET435-KR-NP-XXL) ===
-Category: Set
-Size: XXL
-Core: KR-NP
-Style: SET435
-Amount: 1399.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET436-KR-NP-XXL | SET436 | 1399.0 | diff=0.0

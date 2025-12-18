@@ -1,9 +1,0 @@
-=== PRODUCT #6290 (J0106-KR-XXL) ===
-Category: Western Dress
-Size: XXL
-Core: KR
-Style: J0106
-Amount: 999.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0105-KR-XXL | J0105 | 999.0 | diff=0.0

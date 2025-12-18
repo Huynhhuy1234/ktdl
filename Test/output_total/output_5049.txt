@@ -1,9 +1,0 @@
-=== PRODUCT #5049 (SET404-KR-NP-L) ===
-Category: Set
-Size: L
-Core: KR-NP
-Style: SET404
-Amount: 1199.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET397-KR-NP-L | SET397 | 1201.0 | diff=2.0

@@ -1,9 +1,0 @@
-=== PRODUCT #581 (J0308-DR-XXL) ===
-Category: Western Dress
-Size: XXL
-Core: DR
-Style: J0308
-Amount: 625.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3905-DR-XXL | JNE3905 | 625.0 | diff=0.0

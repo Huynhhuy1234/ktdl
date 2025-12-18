@@ -1,9 +1,0 @@
-=== PRODUCT #5381 (JNE3860-DR-XS) ===
-Category: Western Dress
-Size: XS
-Core: DR
-Style: JNE3860
-Amount: 614.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0305-DR-XS | J0305 | 613.0 | diff=1.0

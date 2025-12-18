@@ -1,9 +1,0 @@
-=== PRODUCT #4763 (J0171-DR-XXL) ===
-Category: Western Dress
-Size: XXL
-Core: DR
-Style: J0171
-Amount: 488.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3707-DR-XXL | JNE3707 | 496.0 | diff=8.0

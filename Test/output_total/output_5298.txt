@@ -1,9 +1,0 @@
-=== PRODUCT #5298 (J0323-CD-XXL) ===
-Category: Top
-Size: XXL
-Core: CD
-Style: J0323
-Amount: 534.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0290-CD-XXL | J0290 | 534.0 | diff=0.0

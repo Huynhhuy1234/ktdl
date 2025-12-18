@@ -1,9 +1,0 @@
-=== PRODUCT #4579 (J0013-SKD-XS) ===
-Category: Set
-Size: XS
-Core: SKD
-Style: J0013
-Amount: 1085.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0235-SKD-XS | J0235 | 1089.0 | diff=4.0

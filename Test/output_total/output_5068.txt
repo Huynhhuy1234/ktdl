@@ -1,9 +1,0 @@
-=== PRODUCT #5068 (SET272-KR-PP-L) ===
-Category: Set
-Size: L
-Core: KR-PP
-Style: SET272
-Amount: 852.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET315-KR-PP-L | SET315 | 852.0 | diff=0.0

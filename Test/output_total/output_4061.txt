@@ -1,9 +1,0 @@
-=== PRODUCT #4061 (NW027-TP-PJ-XXXL) ===
-Category: Set
-Size: 3XL
-Core: TP-PJ
-Style: NW027
-Amount: 613.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- NW034-TP-PJ-XXXL | NW034 | 613.0 | diff=0.0

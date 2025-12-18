@@ -1,9 +1,0 @@
-=== PRODUCT #2737 (JNE3708-TU-XXXL) ===
-Category: Top
-Size: 3XL
-Core: TU
-Style: JNE3708
-Amount: 690.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3744-TU-XXXL | JNE3744 | 690.0 | diff=0.0

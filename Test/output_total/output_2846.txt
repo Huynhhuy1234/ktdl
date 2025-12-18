@@ -1,9 +1,0 @@
-=== PRODUCT #2846 (NW003-TP-PJ-S) ===
-Category: Set
-Size: S
-Core: TP-PJ
-Style: NW003
-Amount: 519.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- NW015-TP-PJ-S | NW015 | 523.0 | diff=4.0

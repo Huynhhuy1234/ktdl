@@ -1,9 +1,0 @@
-=== PRODUCT #3794 (SET305-KR-DPT-M) ===
-Category: Set
-Size: M
-Core: KR-DPT
-Style: SET305
-Amount: 939.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET321-KR-DPT-M | SET321 | 939.0 | diff=0.0

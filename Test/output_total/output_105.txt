@@ -1,9 +1,0 @@
-=== PRODUCT #105 (NW013-ST-SR-L) ===
-Category: Set
-Size: L
-Core: ST-SR
-Style: NW013
-Amount: 496.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- NW006-ST-SR-L | NW006 | 496.0 | diff=0.0

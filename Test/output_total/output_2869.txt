@@ -1,9 +1,0 @@
-=== PRODUCT #2869 (BTM044-PP-M) ===
-Category: Bottom
-Size: M
-Core: PP
-Style: BTM044
-Amount: 360.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- BTM036-PP-M | BTM036 | 360.0 | diff=0.0

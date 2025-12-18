@@ -1,9 +1,0 @@
-=== PRODUCT #4230 (J0210-DR-L) ===
-Category: Ethnic Dress
-Size: L
-Core: DR
-Style: J0210
-Amount: 783.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0212-DR-L | J0212 | 791.0 | diff=8.0

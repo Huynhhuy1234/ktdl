@@ -1,9 +1,0 @@
-=== PRODUCT #4848 (J0111-TP-XXL) ===
-Category: Top
-Size: XXL
-Core: TP
-Style: J0111
-Amount: 423.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0098-TP-XXL | J0098 | 413.0 | diff=10.0

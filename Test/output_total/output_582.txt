@@ -1,9 +1,0 @@
-=== PRODUCT #582 (JNE3798-KR-XXL) ===
-Category: Western Dress
-Size: XXL
-Core: KR
-Style: JNE3798
-Amount: 725.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3797-KR-XXL | JNE3797 | 725.0 | diff=0.0

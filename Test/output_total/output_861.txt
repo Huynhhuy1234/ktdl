@@ -1,9 +1,0 @@
-=== PRODUCT #861 (JNE3653-TP-N-XXL) ===
-Category: Top
-Size: XXL
-Core: TP-N
-Style: JNE3653
-Amount: 359.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3713-TP-N-XXL | JNE3713 | 354.0 | diff=5.0

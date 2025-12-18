@@ -1,9 +1,0 @@
-=== PRODUCT #2221 (NW020-ST-SR-XL) ===
-Category: Set
-Size: XL
-Core: ST-SR
-Style: NW020
-Amount: 525.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- NW038-ST-SR-XL | NW038 | 517.0 | diff=8.0

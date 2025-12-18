@@ -1,9 +1,0 @@
-=== PRODUCT #5402 (NW009-ST-CP-XL) ===
-Category: Set
-Size: XL
-Core: ST-CP
-Style: NW009
-Amount: 560.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- NW007-ST-CP-XL | NW007 | 560.0 | diff=0.0

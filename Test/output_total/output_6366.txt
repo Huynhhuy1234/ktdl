@@ -1,9 +1,0 @@
-=== PRODUCT #6366 (J0417-TP-XS) ===
-Category: Top
-Size: XS
-Core: TP
-Style: J0417
-Amount: 791.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0419-TP-XS | J0419 | 791.0 | diff=0.0

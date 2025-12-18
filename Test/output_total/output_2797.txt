@@ -1,9 +1,0 @@
-=== PRODUCT #2797 (SET143-KR-PP-M) ===
-Category: Set
-Size: M
-Core: KR-PP
-Style: SET143
-Amount: 534.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET243-KR-PP-M | SET243 | 534.0 | diff=0.0

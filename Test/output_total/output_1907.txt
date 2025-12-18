@@ -1,9 +1,0 @@
-=== PRODUCT #1907 (NW007-ST-CP-L) ===
-Category: Set
-Size: L
-Core: ST-CP
-Style: NW007
-Amount: 560.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- NW009-ST-CP-L | NW009 | 560.0 | diff=0.0

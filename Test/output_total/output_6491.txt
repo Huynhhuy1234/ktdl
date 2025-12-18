@@ -1,9 +1,0 @@
-=== PRODUCT #6491 (J0282-SET-L) ===
-Category: Set
-Size: L
-Core: SET
-Style: J0282
-Amount: 999.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0078-SET-L | J0078 | 999.0 | diff=0.0

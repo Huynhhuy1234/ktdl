@@ -1,9 +1,0 @@
-=== PRODUCT #2008 (J0250-SKD-L) ===
-Category: Set
-Size: L
-Core: SKD
-Style: J0250
-Amount: 763.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0251-SKD-L | J0251 | 763.0 | diff=0.0

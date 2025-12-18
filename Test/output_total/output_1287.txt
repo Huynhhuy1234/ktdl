@@ -1,9 +1,0 @@
-=== PRODUCT #1287 (JNE3801-KR-M) ===
-Category: kurta
-Size: M
-Core: KR
-Style: JNE3801
-Amount: 725.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3872-KR-M | JNE3872 | 725.0 | diff=0.0

@@ -1,9 +1,0 @@
-=== PRODUCT #3640 (SET156-KR-NP-XS) ===
-Category: Set
-Size: XS
-Core: KR-NP
-Style: SET156
-Amount: 716.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET145-KR-NP-XS | SET145 | 715.0 | diff=1.0

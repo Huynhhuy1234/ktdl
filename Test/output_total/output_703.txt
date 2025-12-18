@@ -1,9 +1,0 @@
-=== PRODUCT #703 (SET075-KR-DH-L) ===
-Category: Set
-Size: L
-Core: KR-DH
-Style: SET075
-Amount: 648.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET182-KR-DH-L | SET182 | 657.0 | diff=9.0

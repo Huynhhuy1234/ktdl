@@ -1,9 +1,0 @@
-=== PRODUCT #2411 (NW027-TP-PJ-XXL) ===
-Category: Set
-Size: XXL
-Core: TP-PJ
-Style: NW027
-Amount: 613.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- NW034-TP-PJ-XXL | NW034 | 613.0 | diff=0.0

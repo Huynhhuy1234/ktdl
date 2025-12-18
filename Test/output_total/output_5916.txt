@@ -1,9 +1,0 @@
-=== PRODUCT #5916 (SET327-KR-DPT-XXXL) ===
-Category: Set
-Size: 3XL
-Core: KR-DPT
-Style: SET327
-Amount: 999.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0248-KR-DPT-XXXL | J0248 | 999.0 | diff=0.0

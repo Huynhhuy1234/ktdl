@@ -1,9 +1,0 @@
-=== PRODUCT #3183 (SET266-KR-NP-XL) ===
-Category: Set
-Size: XL
-Core: KR-NP
-Style: SET266
-Amount: 737.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET263-KR-NP-XL | SET263 | 736.0 | diff=1.0

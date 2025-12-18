@@ -1,9 +1,0 @@
-=== PRODUCT #2085 (BTM038-PP-S) ===
-Category: Bottom
-Size: S
-Core: PP
-Style: BTM038
-Amount: 377.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- BTM043-PP-S | BTM043 | 377.0 | diff=0.0

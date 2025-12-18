@@ -1,9 +1,0 @@
-=== PRODUCT #4927 (J0231-SKD-L) ===
-Category: Set
-Size: L
-Core: SKD
-Style: J0231
-Amount: 1298.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0233-SKD-L | J0233 | 1299.0 | diff=1.0

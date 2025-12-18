@@ -1,9 +1,0 @@
-=== PRODUCT #6200 (J0434-DR-S) ===
-Category: Western Dress
-Size: S
-Core: DR
-Style: J0434
-Amount: 704.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0332-DR-S | J0332 | 699.0 | diff=5.0

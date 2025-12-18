@@ -1,9 +1,0 @@
-=== PRODUCT #6440 (J0172-TP-XXL) ===
-Category: Top
-Size: XXL
-Core: TP
-Style: J0172
-Amount: 729.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3890-TP-XXL | JNE3890 | 721.0 | diff=8.0

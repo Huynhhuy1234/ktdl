@@ -1,9 +1,0 @@
-=== PRODUCT #1787 (J0077-SKD-M) ===
-Category: Set
-Size: M
-Core: SKD
-Style: J0077
-Amount: 1158.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0108-SKD-M | J0108 | 1152.0 | diff=6.0

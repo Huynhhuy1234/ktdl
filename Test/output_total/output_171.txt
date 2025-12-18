@@ -1,9 +1,0 @@
-=== PRODUCT #171 (J0008-SKD-S) ===
-Category: Set
-Size: S
-Core: SKD
-Style: J0008
-Amount: 1065.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0007-SKD-S | J0007 | 1065.0 | diff=0.0

@@ -1,9 +1,0 @@
-=== PRODUCT #4473 (J0153-DR-XL) ===
-Category: Western Dress
-Size: XL
-Core: DR
-Style: J0153
-Amount: 443.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0166-DR-XL | J0166 | 441.0 | diff=2.0

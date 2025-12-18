@@ -1,9 +1,0 @@
-=== PRODUCT #1112 (J0232-SKD-XL) ===
-Category: Set
-Size: XL
-Core: SKD
-Style: J0232
-Amount: 1213.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0109-SKD-XL | J0109 | 1213.0 | diff=0.0

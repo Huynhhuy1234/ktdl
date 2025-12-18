@@ -1,9 +1,0 @@
-=== PRODUCT #1845 (JNE3807-KR-XXXL) ===
-Category: kurta
-Size: 3XL
-Core: KR
-Style: JNE3807
-Amount: 666.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3799-KR-XXXL | JNE3799 | 666.0 | diff=0.0

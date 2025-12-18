@@ -1,9 +1,0 @@
-=== PRODUCT #1663 (SET388-KR-NP-M) ===
-Category: Set
-Size: M
-Core: KR-NP
-Style: SET388
-Amount: 1260.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET400-KR-NP-M | SET400 | 1254.0 | diff=6.0

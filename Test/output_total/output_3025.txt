@@ -1,9 +1,0 @@
-=== PRODUCT #3025 (SET220-KR-PP-S) ===
-Category: Set
-Size: S
-Core: KR-PP
-Style: SET220
-Amount: 1099.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET282-KR-PP-S | SET282 | 1099.0 | diff=0.0

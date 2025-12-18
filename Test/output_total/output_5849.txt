@@ -1,9 +1,0 @@
-=== PRODUCT #5849 (NW033-ST-CP-M) ===
-Category: Set
-Size: M
-Core: ST-CP
-Style: NW033
-Amount: 582.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- NW008-ST-CP-M | NW008 | 582.0 | diff=0.0

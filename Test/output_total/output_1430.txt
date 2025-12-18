@@ -1,9 +1,0 @@
-=== PRODUCT #1430 (J0062-DR-S) ===
-Category: Western Dress
-Size: S
-Core: DR
-Style: J0062
-Amount: 491.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3707-DR-S | JNE3707 | 496.0 | diff=5.0

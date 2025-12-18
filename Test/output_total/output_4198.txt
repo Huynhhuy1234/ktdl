@@ -1,9 +1,0 @@
-=== PRODUCT #4198 (SET138-KR-PP-XS) ===
-Category: Set
-Size: XS
-Core: KR-PP
-Style: SET138
-Amount: 737.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET236-KR-PP-XS | SET236 | 729.0 | diff=8.0

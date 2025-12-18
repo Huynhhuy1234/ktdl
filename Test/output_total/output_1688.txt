@@ -1,9 +1,0 @@
-=== PRODUCT #1688 (J0249-SKD-L) ===
-Category: Set
-Size: L
-Core: SKD
-Style: J0249
-Amount: 939.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0370-SKD-L | J0370 | 936.0 | diff=3.0

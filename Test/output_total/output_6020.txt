@@ -1,9 +1,0 @@
-=== PRODUCT #6020 (JNE3924-TU-M) ===
-Category: Top
-Size: M
-Core: TU
-Style: JNE3924
-Amount: 625.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3691-TU-M | JNE3691 | 625.0 | diff=0.0

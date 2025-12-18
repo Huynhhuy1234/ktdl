@@ -1,9 +1,0 @@
-=== PRODUCT #666 (J0301-TP-XXXL) ===
-Category: Top
-Size: 3XL
-Core: TP
-Style: J0301
-Amount: 463.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0196-TP-XXXL | J0196 | 469.0 | diff=6.0

@@ -1,9 +1,0 @@
-=== PRODUCT #5359 (J0374-KR-XXL) ===
-Category: kurta
-Size: XXL
-Core: KR
-Style: J0374
-Amount: 614.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3578-KR-XXL | JNE3578 | 612.0 | diff=2.0

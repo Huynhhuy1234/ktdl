@@ -1,9 +1,0 @@
-=== PRODUCT #3254 (SET388-KR-NP-XS) ===
-Category: Set
-Size: XS
-Core: KR-NP
-Style: SET388
-Amount: 1299.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET350-KR-NP-XS | SET350 | 1299.0 | diff=0.0

@@ -1,9 +1,0 @@
-=== PRODUCT #4459 (J0001-DR-XL) ===
-Category: Ethnic Dress
-Size: XL
-Core: DR
-Style: J0001
-Amount: 690.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0211-DR-XL | J0211 | 699.0 | diff=9.0

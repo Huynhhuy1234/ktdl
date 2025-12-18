@@ -1,9 +1,0 @@
-=== PRODUCT #2215 (SET184-KR-PP-XS) ===
-Category: Set
-Size: XS
-Core: KR-PP
-Style: SET184
-Amount: 563.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET165-KR-PP-XS | SET165 | 567.0 | diff=4.0

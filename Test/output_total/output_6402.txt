@@ -1,9 +1,0 @@
-=== PRODUCT #6402 (NW036-ST-SR-XXL) ===
-Category: Set
-Size: XXL
-Core: ST-SR
-Style: NW036
-Amount: 539.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- NW016-ST-SR-XXL | NW016 | 537.0 | diff=2.0

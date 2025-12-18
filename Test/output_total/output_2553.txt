@@ -1,9 +1,0 @@
-=== PRODUCT #2553 (J0248-KR-DPT-XS) ===
-Category: Set
-Size: XS
-Core: KR-DPT
-Style: J0248
-Amount: 999.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET327-KR-DPT-XS | SET327 | 999.0 | diff=0.0

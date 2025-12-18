@@ -1,9 +1,0 @@
-=== PRODUCT #5800 (SET210-KR-PP-XS) ===
-Category: Set
-Size: XS
-Core: KR-PP
-Style: SET210
-Amount: 575.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET165-KR-PP-XS | SET165 | 567.0 | diff=8.0

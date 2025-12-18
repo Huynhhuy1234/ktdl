@@ -1,9 +1,0 @@
-=== PRODUCT #5582 (SET272-KR-PP-M) ===
-Category: Set
-Size: M
-Core: KR-PP
-Style: SET272
-Amount: 852.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET217-KR-PP-M | SET217 | 859.0 | diff=7.0

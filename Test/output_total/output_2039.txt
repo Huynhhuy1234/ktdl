@@ -1,9 +1,0 @@
-=== PRODUCT #2039 (JNE3797-KR-S) ===
-Category: Western Dress
-Size: S
-Core: KR
-Style: JNE3797
-Amount: 725.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3798-KR-S | JNE3798 | 715.0 | diff=10.0

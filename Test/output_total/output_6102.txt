@@ -1,9 +1,0 @@
-=== PRODUCT #6102 (J0417-TP-S) ===
-Category: Top
-Size: S
-Core: TP
-Style: J0417
-Amount: 791.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0419-TP-S | J0419 | 791.0 | diff=0.0

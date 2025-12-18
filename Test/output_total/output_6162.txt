@@ -1,9 +1,0 @@
-=== PRODUCT #6162 (JNE3625-DR-XXXL) ===
-Category: Western Dress
-Size: 3XL
-Core: DR
-Style: JNE3625
-Amount: 421.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3706-DR-XXXL | JNE3706 | 413.0 | diff=8.0

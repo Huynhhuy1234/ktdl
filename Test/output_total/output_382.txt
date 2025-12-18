@@ -1,9 +1,0 @@
-=== PRODUCT #382 (J0380-SKD-XXXL) ===
-Category: Set
-Size: 3XL
-Core: SKD
-Style: J0380
-Amount: 1438.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0285-SKD-XXXL | J0285 | 1432.0 | diff=6.0

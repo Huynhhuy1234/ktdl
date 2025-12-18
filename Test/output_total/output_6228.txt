@@ -1,9 +1,0 @@
-=== PRODUCT #6228 (JNE3872-KR-XL) ===
-Category: kurta
-Size: XL
-Core: KR
-Style: JNE3872
-Amount: 725.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3160-KR-XL | JNE3160 | 729.0 | diff=4.0

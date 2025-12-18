@@ -1,9 +1,0 @@
-=== PRODUCT #1595 (J0081-DR-XS) ===
-Category: Western Dress
-Size: XS
-Core: DR
-Style: J0081
-Amount: 658.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0308-DR-XS | J0308 | 665.0 | diff=7.0

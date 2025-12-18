@@ -1,9 +1,0 @@
-=== PRODUCT #3223 (JNE3647-TP-N-XS) ===
-Category: Top
-Size: XS
-Core: TP-N
-Style: JNE3647
-Amount: 329.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3652-TP-N-XS | JNE3652 | 339.0 | diff=10.0

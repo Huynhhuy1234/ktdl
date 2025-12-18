@@ -1,9 +1,0 @@
-=== PRODUCT #3756 (J0126-SKD-M) ===
-Category: Set
-Size: M
-Core: SKD
-Style: J0126
-Amount: 818.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0247-SKD-M | J0247 | 820.0 | diff=2.0

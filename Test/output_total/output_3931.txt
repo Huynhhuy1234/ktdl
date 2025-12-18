@@ -1,9 +1,0 @@
-=== PRODUCT #3931 (JNE3688-TU-XXL) ===
-Category: Top
-Size: XXL
-Core: TU
-Style: JNE3688
-Amount: 599.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3864-TU-XXL | JNE3864 | 599.0 | diff=0.0

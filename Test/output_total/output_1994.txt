@@ -1,9 +1,0 @@
-=== PRODUCT #1994 (J0185-DR-S) ===
-Category: Ethnic Dress
-Size: S
-Core: DR
-Style: J0185
-Amount: 799.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0212-DR-S | J0212 | 791.0 | diff=8.0

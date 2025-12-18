@@ -1,9 +1,0 @@
-=== PRODUCT #6280 (J0137-SET-L) ===
-Category: Set
-Size: L
-Core: SET
-Style: J0137
-Amount: 721.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0034-SET-L | J0034 | 717.0 | diff=4.0

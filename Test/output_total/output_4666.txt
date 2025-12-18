@@ -1,9 +1,0 @@
-=== PRODUCT #4666 (SET131-KR-NP-A-XXL) ===
-Category: Set
-Size: XXL
-Core: KR-NP-A
-Style: SET131
-Amount: 567.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET200-KR-NP-A-XXL | SET200 | 568.0 | diff=1.0

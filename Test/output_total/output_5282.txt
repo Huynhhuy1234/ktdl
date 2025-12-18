@@ -1,9 +1,0 @@
-=== PRODUCT #5282 (J0112-TP-XXXL) ===
-Category: Top
-Size: 3XL
-Core: TP
-Style: J0112
-Amount: 349.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0189-TP-XXXL | J0189 | 345.0 | diff=4.0

@@ -1,9 +1,0 @@
-=== PRODUCT #2145 (J0195-TP-XL) ===
-Category: Top
-Size: XL
-Core: TP
-Style: J0195
-Amount: 665.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0389-TP-XL | J0389 | 665.0 | diff=0.0

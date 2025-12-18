@@ -1,9 +1,0 @@
-=== PRODUCT #5140 (JNE3866-KR-XXXL) ===
-Category: kurta
-Size: 3XL
-Core: KR
-Style: JNE3866
-Amount: 753.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3466-KR-XXXL | JNE3466 | 761.0 | diff=8.0

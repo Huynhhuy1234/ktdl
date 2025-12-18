@@ -1,9 +1,0 @@
-=== PRODUCT #2891 (JNE3707-DR-L) ===
-Category: Western Dress
-Size: L
-Core: DR
-Style: JNE3707
-Amount: 496.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0171-DR-L | J0171 | 488.0 | diff=8.0

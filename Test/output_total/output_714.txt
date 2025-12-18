@@ -1,9 +1,0 @@
-=== PRODUCT #714 (J0398-DR-M) ===
-Category: Western Dress
-Size: M
-Core: DR
-Style: J0398
-Amount: 885.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0414-DR-M | J0414 | 885.0 | diff=0.0

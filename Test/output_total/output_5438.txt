@@ -1,9 +1,0 @@
-=== PRODUCT #5438 (MEN5002-KR-XXXL) ===
-Category: kurta
-Size: 3XL
-Core: KR
-Style: MEN5002
-Amount: 709.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3464-KR-XXXL | JNE3464 | 719.0 | diff=10.0

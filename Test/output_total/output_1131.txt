@@ -1,9 +1,0 @@
-=== PRODUCT #1131 (NW031-TP-PJ-M) ===
-Category: Set
-Size: M
-Core: TP-PJ
-Style: NW031
-Amount: 599.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- NW022-TP-PJ-M | NW022 | 590.0 | diff=9.0

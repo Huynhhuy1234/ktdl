@@ -1,9 +1,0 @@
-=== PRODUCT #4723 (NW002-TP-PJ-XXXL) ===
-Category: Set
-Size: 3XL
-Core: TP-PJ
-Style: NW002
-Amount: 495.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- NW004-TP-PJ-XXXL | NW004 | 496.0 | diff=1.0

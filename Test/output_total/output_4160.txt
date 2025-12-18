@@ -1,9 +1,0 @@
-=== PRODUCT #4160 (J0350-SET-L) ===
-Category: Set
-Size: L
-Core: SET
-Style: J0350
-Amount: 477.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0346-SET-L | J0346 | 478.0 | diff=1.0

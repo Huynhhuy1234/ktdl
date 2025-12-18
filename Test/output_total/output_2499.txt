@@ -1,9 +1,0 @@
-=== PRODUCT #2499 (NW020-ST-SR-S) ===
-Category: Set
-Size: S
-Core: ST-SR
-Style: NW020
-Amount: 525.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- NW006-ST-SR-S | NW006 | 516.0 | diff=9.0

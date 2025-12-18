@@ -1,9 +1,0 @@
-=== PRODUCT #4231 (J0293-DR-S) ===
-Category: Western Dress
-Size: S
-Core: DR
-Style: J0293
-Amount: 472.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0161-DR-S | J0161 | 473.0 | diff=1.0

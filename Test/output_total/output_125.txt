@@ -1,9 +1,0 @@
-=== PRODUCT #125 (NW030-TP-PJ-L) ===
-Category: Set
-Size: L
-Core: TP-PJ
-Style: NW030
-Amount: 582.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- NW022-TP-PJ-L | NW022 | 590.0 | diff=8.0

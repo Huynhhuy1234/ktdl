@@ -1,9 +1,0 @@
-=== PRODUCT #550 (J0293-DR-XS) ===
-Category: Western Dress
-Size: XS
-Core: DR
-Style: J0293
-Amount: 472.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0161-DR-XS | J0161 | 473.0 | diff=1.0

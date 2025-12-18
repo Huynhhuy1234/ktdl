@@ -1,9 +1,0 @@
-=== PRODUCT #3725 (J0298-DR-S) ===
-Category: Western Dress
-Size: S
-Core: DR
-Style: J0298
-Amount: 512.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0296-DR-S | J0296 | 519.0 | diff=7.0

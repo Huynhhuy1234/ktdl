@@ -1,9 +1,0 @@
-=== PRODUCT #4729 (J0140-SET-XXXL) ===
-Category: Set
-Size: 3XL
-Core: SET
-Style: J0140
-Amount: 586.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0135-SET-XXXL | J0135 | 591.0 | diff=5.0

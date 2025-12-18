@@ -1,9 +1,0 @@
-=== PRODUCT #4268 (NW014-ST-SR-M) ===
-Category: Set
-Size: M
-Core: ST-SR
-Style: NW014
-Amount: 560.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- NW016-ST-SR-M | NW016 | 560.0 | diff=0.0

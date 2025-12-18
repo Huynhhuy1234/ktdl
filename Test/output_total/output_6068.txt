@@ -1,9 +1,0 @@
-=== PRODUCT #6068 (JNE3800-KR-XS) ===
-Category: Western Dress
-Size: XS
-Core: KR
-Style: JNE3800
-Amount: 735.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3797-KR-XS | JNE3797 | 725.0 | diff=10.0

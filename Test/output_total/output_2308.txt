@@ -1,9 +1,0 @@
-=== PRODUCT #2308 (JNE3690-TU-XXXL) ===
-Category: Top
-Size: 3XL
-Core: TU
-Style: JNE3690
-Amount: 518.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3678-TU-XXXL | JNE3678 | 518.0 | diff=0.0

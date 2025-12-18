@@ -1,9 +1,0 @@
-=== PRODUCT #6034 (SET369-KR-NP-M) ===
-Category: Set
-Size: M
-Core: KR-NP
-Style: SET369
-Amount: 1399.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET435-KR-NP-M | SET435 | 1399.0 | diff=0.0

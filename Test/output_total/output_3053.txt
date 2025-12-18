@@ -1,9 +1,0 @@
-=== PRODUCT #3053 (J0159-DR-XXXL) ===
-Category: Western Dress
-Size: 3XL
-Core: DR
-Style: J0159
-Amount: 599.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- JNE3904-DR-XXXL | JNE3904 | 599.0 | diff=0.0

@@ -1,9 +1,0 @@
-=== PRODUCT #5008 (SET436-KR-NP-L) ===
-Category: Set
-Size: L
-Core: KR-NP
-Style: SET436
-Amount: 1399.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET435-KR-NP-L | SET435 | 1399.0 | diff=0.0

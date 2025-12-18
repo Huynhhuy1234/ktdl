@@ -1,9 +1,0 @@
-=== PRODUCT #2127 (NW008-ST-CP-XL) ===
-Category: Set
-Size: XL
-Core: ST-CP
-Style: NW008
-Amount: 582.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- NW035-ST-CP-XL | NW035 | 582.0 | diff=0.0

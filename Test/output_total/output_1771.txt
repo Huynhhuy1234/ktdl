@@ -1,9 +1,0 @@
-=== PRODUCT #1771 (SET094-KR-NP-XXXL) ===
-Category: Set
-Size: 3XL
-Core: KR-NP
-Style: SET094
-Amount: 758.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- SET295-KR-NP-XXXL | SET295 | 751.0 | diff=7.0

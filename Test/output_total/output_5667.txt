@@ -1,9 +1,0 @@
-=== PRODUCT #5667 (J0418-TP-XS) ===
-Category: Top
-Size: XS
-Core: TP
-Style: J0418
-Amount: 749.0
-
-=== 5 GỢI Ý SẢN PHẨM ===
-- J0204-TP-XS | J0204 | 751.0 | diff=2.0
